@@ -1,10 +1,10 @@
 {
   "schema_v": 1,
-  "updated_at": "2026-10-19T14:20:24+00:00",
+  "updated_at": "2026-10-19T16:33:56+00:00",
   "stats": {
-    "total": 3529,
+    "total": 3530,
     "by_first_reason": {
-      "new_star": 3349,
+      "new_star": 3350,
       "trending_recent": 180
     },
     "dropped": 0
@@ -12492,6 +12492,20 @@
         "description": "🚀 Advanced automated Gmail account creation tool with anti-detection, phone verification bypass, 5sim integration, and beautiful modern interface. Create Gmail accounts in bulk with ease.",
         "created_at": "2026-01-14T18:42:23Z",
         "stars": 5522
+      }
+    },
+    {
+      "full_name": "ShaikhWarsi/free-ai-tools",
+      "repo_id": 1207745605,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-10-19",
+      "meta": {
+        "language": "TypeScript",
+        "description": "Curated list of free and low cost AI tools, LLM APIs, IDEs, agents, and infrastructure for building real AI apps",
+        "created_at": "2026-04-11T10:46:47Z",
+        "stars": 1000
       }
     },
     {
