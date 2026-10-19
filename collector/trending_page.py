@@ -45,8 +45,8 @@ class ParseError(RuntimeError):
 
 
 def board_url(language: str, period: str) -> str:
-    path = f"/trending/{language}" if language else "/trending"
-    return f"{TRENDING_URL}{path}?since={period}" if language else f"{TRENDING_URL}?since={period}"
+    base = f"{TRENDING_URL}/{language}" if language else TRENDING_URL
+    return f"{base}?since={period}"
 
 
 def fetch_html(url: str, *, timeout: float = 30.0) -> str:
