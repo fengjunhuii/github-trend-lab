@@ -12,6 +12,7 @@ on:
 
 permissions:
   contents: write
+  issues: write
 
 concurrency:
   group: daily-collect
@@ -52,10 +53,17 @@ jobs:
           git add data reports
           if git diff --cached --quiet; then
             echo "无数据变更，跳过提交"
-          else
-            git commit -m "data: $(date -u +%F)"
-            git push
+            exit 0
           fi
+          git commit -m "data: $(date -u +%F)"
+          # 运行期间远端可能有新提交（如人工推 docs）：先 rebase 再推，失败重试
+          for i in 1 2 3; do
+            git fetch origin main
+            git rebase origin/main && git push && exit 0
+            echo "rebase/push 第 $i 次失败，重试"
+            sleep 5
+          done
+          exit 1
 
       - name: Open issue on failure
         if: failure()
