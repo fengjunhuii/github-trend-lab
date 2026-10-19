@@ -1,0 +1,32 @@
+# GitHub Trend Lab 配置（字段含义见 docs/development-plan.md）
+
+since: "2026-01-01"            # 新星统计起点（created >= since）
+
+search:
+  request_interval_sec: 2.5    # Search API 主动节流（认证限额 30/min；匿名自动放宽到 7s）
+  per_page: 100
+  max_pages: 10                # 单查询翻页上限（API 硬上限 1000 条，超限须分桶）
+
+pool:
+  star_buckets:                # 星标分桶，绕开单查询 1000 条上限
+    - "stars:>=10000"
+    - "stars:5000..9999"
+    - "stars:2000..4999"
+    - "stars:1000..1999"
+  pool_max: 5000               # 活跃池上限，超出按保留分淘汰
+  trending_keep_days: 30       # trending 入池保鲜期（天）
+  fast_riser_top: 500          # 上一快照日增 Top N 入池
+
+trending:
+  languages: ["", "python", "typescript", "javascript", "go", "rust", "java", "c++"]
+  periods: ["daily", "weekly", "monthly"]
+  request_interval_sec: 2      # 抓页面节奏（对被爬方礼貌）
+
+snapshot:
+  engine: rest                 # rest | graphql（池 > 阈值时切 graphql，阶段2实现）
+  graphql_switch_threshold: 3000
+
+report:
+  top_new: 50
+  top_trending: 20
+  top_delta: 20

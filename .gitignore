@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+*.egg-info/
+build/
+dist/
+
+# 凭据（绝不入库）
+.env
+
+# 本地分析产物（JSONL/JSON 数据文件本身是进 git 的）
+*.duckdb
+*.duckdb.wal
