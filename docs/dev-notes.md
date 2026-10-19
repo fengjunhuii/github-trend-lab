@@ -15,3 +15,16 @@
 - 同类次数：第 1 次
 - 关联：known-pitfalls windows-env #6（中文乱码）同属"文本 IO 隐式转换"家族，但本条是
   切分语义坑，非编码坑。
+
+### 坑：git credential fill 无 username 提示时挂起 30s+（GCM 多账号弹选择窗）
+- 现象：`git credential fill`（stdin 只有 protocol/host）不返回、不报错，挂到超时；
+  前一天同样命令秒回
+- 环境：Windows 10 / Git for Windows + Git Credential Manager / 本机存了两个
+  github.com 账号（`fengjunhuii` 与 `x-access-token`，`git credential-manager github list` 可见）
+- 根因：同 host 多账号且查询未带 username 时，GCM 无法消歧，弹出账号选择 GUI
+  等待用户点击；无人值守的脚本会一直等。前一天成功是因为当时视为单账号场景
+- 解法：credential 查询补 `username=<账号>` 行；remote URL 内嵌用户名
+  `https://fengjunhuii@github.com/...` 让后续 push 走同一账号；脚本再加
+  `GIT_TERMINAL_PROMPT=0` 快速失败
+- 损失：约 10 分钟（建仓 push 流程中断排查）
+- 同类次数：第 1 次（属 windows-env「子进程/凭据交互」家族）
