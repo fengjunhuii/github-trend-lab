@@ -113,23 +113,24 @@ CREATE VIEW v_delta AS
 
 ### 阶段 1 — MVP 采集管道（预计 1.5~2 天）
 
-- [ ] **T1.1 项目骨架**（0.5h）
+- [x] **T1.1 项目骨架**（0.5h）
   目录结构见 §7；`pyproject.toml`（依赖：httpx, pydantic, beautifulsoup4/lxml, duckdb, click）；`.gitignore`；`config.yaml`；`README.md`（含 PAT 申请指引，只需 `public repo` 读权限——注：PAT 即使只读也会消耗限流额度，必须配置）。
-- [ ] **T1.2 GitHub API 客户端**（2h）
+- [x] **T1.2 GitHub API 客户端**（2h）
   `ghclient.py`：token 注入、分页封装、`Retry-After`/指数退避、Search 接口 30/min 主动节流、429/403 识别与降级。核心考点：限流状态从响应头 `x-ratelimit-remaining` 读取而非自己计数。
-- [ ] **T1.3 新星池采集**（2h）
+- [x] **T1.3 新星池采集**（2h）
   `search_pool.py`：按 §4.1 分桶拉取 `created:>=2026-01-01` 仓库；桶间去重（按 repo_id）；桶超限自动细分（星标档 × 创建月份二维细分）；产出 `pool.json`（含入库原因：`star_bucket` / `trending_recent` / `fast_riser`）。
-- [ ] **T1.4 Trending 页抓取器**（3h）
+- [x] **T1.4 Trending 页抓取器**（3h）
   `trending_page.py`：语言 × 周期矩阵抓取；CSS 选择器集中定义在一处常量区；解析失败 → 抛 `ParseError` 且当日该板留空（不阻塞其他板）；golden file 回归测试（`tests/fixtures/trending_sample.html`）。
-- [ ] **T1.5 快照采集与落库**（2h）
+- [x] **T1.5 快照采集与落库**（2h）
   `snapshot.py`：MVP 用 REST `GET /repos/{owner}/{repo}` 逐个更新池内仓库（池 ≤3000 时总量 < 5000/h 限额；池涨到 3000+ 后切换 GraphQL 批量，100 个/请求，见 §4.2）；与昨日快照 diff 输出 `d1` 字段；写当日 JSONL。
-- [ ] **T1.6 CLI 入口**（1h）
+- [x] **T1.6 CLI 入口**（1h）
   `python -m collector pool / trending / snapshot / run`（run = 全流程）；`--date` 参数支持补采与重跑（幂等：按日期覆盖写）。
-- [ ] **T1.7 Markdown 日报**（2h）
+- [x] **T1.7 Markdown 日报**（2h）
   `report/daily_report.py`：当日新星榜 Top 50、trending Top 20（总/日/周）、自算日增 Top 20；输出 `reports/2026-10-19.md`。
-- [ ] **T1.8 GitHub Actions workflow**（1.5h）
+- [x] **T1.8 GitHub Actions workflow**（1.5h）
   见 §4.3；含失败自动开 issue 提醒。
 - [ ] **T1.9 联调与验收**（1h）
+  > 2026-10-19：单测 10/10 通过；真实 trending DOM 解析验证通过；冒烟跑通 pool(3345仓)+trending(24板块)；快照全量待 PAT 配置后执行。修复 1 个 bug（board_url 双重路径，单测捕获）。
 
 **阶段 1 验收标准（DoD）：**
 1. 本地 `python -m collector run` 一次跑通，产出当日 snapshots + trending + 日报三个文件
