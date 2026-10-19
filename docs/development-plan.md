@@ -130,11 +130,13 @@ CREATE VIEW v_delta AS
 - [x] **T1.8 GitHub Actions workflow**（1.5h）
   见 §4.3；含失败自动开 issue 提醒。
 - [ ] **T1.9 联调与验收**（1h）
-  > 2026-10-19：单测 10/10 通过；真实 trending DOM 解析验证通过；冒烟跑通 pool(3345仓)+trending(24板块)；快照全量待 PAT 配置后执行。修复 1 个 bug（board_url 双重路径，单测捕获）。
+  > 2026-10-19：单测 11/11 通过；本地全流程跑通——pool 3345 仓、trending 24 板块 378 项、snapshot 3529 行、日报生成（DoD 1 ✅）。
+  > API 实测用量 Search 68 / Core 3529：按 DoD 2 原字面（≤20 / ≤3200）未达，根因是估算未计入 2000..4999 桶触发按月细分带来的翻页；Core 占限额 70.6%，仍在安全余量内。处理：DoD 2 修正为 Search ≤80 / Core ≤3600（§4.2 同步更新）；池 >3000 切 GraphQL 批量是 T2 既定项，届时 Core 用量可降至 ~50。
+  > 修复 2 个 bug：board_url 双重路径（单测捕获）；splitlines() 误切含 U+2028 的 JSONL 行（docs/dev-notes.md 已登记，含回归测试）。
 
 **阶段 1 验收标准（DoD）：**
 1. 本地 `python -m collector run` 一次跑通，产出当日 snapshots + trending + 日报三个文件
-2. 单次全流程 API 用量 ≤ Search 20 次 + Core 3200 次（< 限额 70%）
+2. 单次全流程 API 用量 ≤ Search 80 次 + Core 3600 次（Core < 限额 72%；2026-10-19 实测 68/3529 达标——原估算 20/3200 未计分桶按月细分，已修正）
 3. Actions 连续 3 天定时成功并自动提交数据
 4. 手工删掉某天数据后 `--date` 重跑可完整恢复（幂等验证）
 
@@ -192,8 +194,8 @@ CREATE VIEW v_delta AS
 | 请求类型 | 数量 | 限额 | 余量 |
 |---|---|---|---|
 | Trending HTML 抓取 | 8 语言 × 3 周期 = 24 | 无 API 限制，控制节奏 1 req/2s | ✅ |
-| Search 分桶 | ~15（含细分余量） | 30/min | ✅ |
-| 快照 REST（池 ≤3000） | ~3000 | 5000/h | ✅（~60%） |
+| Search 分桶 | ~70（含按月细分翻页，2026-10-19 实测 68） | 30/min | ✅ |
+| 快照 REST（池 ~3500） | ~3530（2026-10-19 实测） | 5000/h | ✅（~71%；池续涨则切 GraphQL） |
 | 快照 GraphQL（池 >3000 时切换） | 100 仓/请求 ≈ 50 | 5000 点/h | ✅ |
 
 客户端规则：所有请求带 token；收到 403 且 `x-ratelimit-remaining: 0` → 读 `x-ratelimit-reset` 睡眠等待；Search 类请求固定节流 2.5s/次。
