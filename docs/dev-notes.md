@@ -28,3 +28,7 @@
   `GIT_TERMINAL_PROMPT=0` 快速失败
 - 损失：约 10 分钟（建仓 push 流程中断排查）
 - 同类次数：第 1 次（属 windows-env「子进程/凭据交互」家族）
+- 追加（同日）：带 username 提示连续多次调用后 GCM 仍会偶发挂起（30s timeout 都杀不干净）；
+  **无人值守脚本不要反复走 GCM**——API 场景直接读 .env 里的 GH_TOKEN（本会话初始就来自 GCM）。
+  注意 .env 是 CRLF：`sed` 提取的值带尾部 \r，必须 `tr -d '\r'` 再拼 Authorization 头，
+  否则 401（同 toolchain #30「scp 传 .env 被 \r 污染」家族）。GCM 只保留给 git push 用。
