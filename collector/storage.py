@@ -58,7 +58,8 @@ def write_snapshots(day: date, rows: list[dict]) -> Path:
     SNAP_DIR.mkdir(parents=True, exist_ok=True)
     path = snapshot_path(day)
     lines = [json.dumps(r, ensure_ascii=False, separators=(",", ":")) for r in rows]
-    path.write_text("\n".join(lines) + ("\n" if lines else ""), encoding="utf-8")
+    # newline="\n": 统一 LF；每行由 json.dumps 保证单行（控制字符均已转义）
+    path.write_text("\n".join(lines) + ("\n" if lines else ""), encoding="utf-8", newline="\n")
     return path
 
 
@@ -66,9 +67,12 @@ def read_snapshots(day: date) -> list[dict]:
     path = snapshot_path(day)
     if not path.exists():
         return []
+    # 严格按物理 \n 切分，禁止 splitlines()：description 可能含 U+2028/U+2029/U+0085
+    # （JSON 合法、json.dumps 不转义），splitlines() 会把它们当换行把一行 JSON 切成
+    # 两半导致 "Unterminated string"（2026-10-19 实踩，见 docs/dev-notes.md）。
     return [
         json.loads(line)
-        for line in path.read_text(encoding="utf-8").splitlines()
+        for line in path.read_text(encoding="utf-8").split("\n")
         if line.strip()
     ]
 

@@ -23,6 +23,25 @@ def test_snapshot_roundtrip(tmp_path, monkeypatch):
     assert storage.read_snapshots(day) == rows
 
 
+def test_snapshot_roundtrip_with_unicode_line_separator(tmp_path, monkeypatch):
+    """description 含 U+2028（JSON 合法、dumps 不转义、splitlines 会误切）时仍按物理行往返。"""
+    monkeypatch.setattr(storage, "SNAP_DIR", tmp_path / "snapshots")
+    day = date(2026, 10, 19)
+    rows = [
+        {
+            "schema_v": 1, "date": "2026-10-19", "repo_id": 1, "full_name": "a/b",
+            # 运行时构造 U+2028，源码保持纯 ASCII（不可见字面量无法可靠穿透工具链）
+            "description": "Turn Videos into" + chr(0x2028) + "ASCII Frames",
+            "language": None,
+            "topics": [], "owner_type": "User", "created_at": "2026-01-01T00:00:00Z",
+            "pushed_at": None, "stars": 1, "forks": 0, "open_issues": 0, "d1": None,
+        }
+    ]
+    assert chr(0x2028) in rows[0]["description"]
+    storage.write_snapshots(day, rows)
+    assert storage.read_snapshots(day) == rows
+
+
 def test_latest_snapshot_before(tmp_path, monkeypatch):
     monkeypatch.setattr(storage, "SNAP_DIR", tmp_path / "snapshots")
     d1, d2, d3 = date(2026, 10, 17), date(2026, 10, 18), date(2026, 10, 19)
