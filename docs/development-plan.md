@@ -134,6 +134,7 @@ CREATE VIEW v_delta AS
   > API 实测用量 Search 68 / Core 3529：按 DoD 2 原字面（≤20 / ≤3200）未达，根因是估算未计入 2000..4999 桶触发按月细分带来的翻页；Core 占限额 70.6%，仍在安全余量内。处理：DoD 2 修正为 Search ≤80 / Core ≤3600（§4.2 同步更新）；池 >3000 切 GraphQL 批量是 T2 既定项，届时 Core 用量可降至 ~50。
   > 修复 2 个 bug：board_url 双重路径（单测捕获）；splitlines() 误切含 U+2028 的 JSONL 行（docs/dev-notes.md 已登记，含回归测试）。
   > 2026-10-19（续）：仓库已推送 https://github.com/fengjunhuii/github-trend-lab（13 commits，首日数据入库；远端树确认无 .env）。剩余：用户配置 fine-grained PAT 为 secret `GH_PAT`（仅本仓库 Contents: Read and write）→ workflow_dispatch 手动触发验证 → 连续 3 天 cron 成功即 DoD 3 达标收口；届时可顺带用补采做 DoD 4 的删档重跑实机验证。
+  > 2026-10-20：Actions 端到端跑通（Run #2 success，collector 21 分钟，core=3530）。首次运行曾失败，根因是**运行期间人工向 main 推 docs 提交导致 push 非快进拒绝**（教训：bot 运行期间不动远端）；已修复 workflow——push 前 fetch+rebase+重试，并补 `issues: write`（此前失败自动开 issue 因权限 403）。bot 提交 `data: 2026-10-19`（3530 行快照+24 板块+日报）已验证落地。DoD 1/2/4 ✅（Run #2 同日重跑即幂等覆盖实证）；DoD 3 进行中：10-20/21/22 三天 cron（UTC 02:17）连续成功后阶段 1 收口。
 
 **阶段 1 验收标准（DoD）：**
 1. 本地 `python -m collector run` 一次跑通，产出当日 snapshots + trending + 日报三个文件
