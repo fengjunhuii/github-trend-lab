@@ -1,11 +1,11 @@
 {
   "schema_v": 1,
-  "updated_at": "2026-10-19T16:33:56+00:00",
+  "updated_at": "2026-10-20T07:54:43+00:00",
   "stats": {
-    "total": 3530,
+    "total": 3543,
     "by_first_reason": {
-      "new_star": 3350,
-      "trending_recent": 180
+      "new_star": 3362,
+      "trending_recent": 181
     },
     "dropped": 0
   },
@@ -5870,6 +5870,20 @@
       }
     },
     {
+      "full_name": "HaxL0p4/L0p4Map",
+      "repo_id": 1195681752,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-10-20",
+      "meta": {
+        "language": "Python",
+        "description": "Professional network monitoring & visualization tool. L0P4Map combines high-speed ARP discovery with full nmap integration and a real-time interactive network topology engine. Works on both local networks and custom IPs/websites.",
+        "created_at": "2026-03-30T00:37:52Z",
+        "stars": 1003
+      }
+    },
+    {
       "full_name": "HeartMuLa/heartlib",
       "repo_id": 1134789517,
       "reasons": [
@@ -7260,6 +7274,20 @@
       }
     },
     {
+      "full_name": "Lau-Jonathan/LLM-Agent-Interview-Guide",
+      "repo_id": 1169441605,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-10-20",
+      "meta": {
+        "language": null,
+        "description": "🔥 大模型 & Agent 面试八股文完全指南 | LLM & Agent Interview Preparation Guide",
+        "created_at": "2026-02-28T17:36:25Z",
+        "stars": 1000
+      }
+    },
+    {
       "full_name": "LaurieWired/GhidraMCP",
       "repo_id": 953335676,
       "reasons": [
@@ -7533,6 +7561,15 @@
         "created_at": "2026-01-11T23:14:44Z",
         "stars": 1842
       }
+    },
+    {
+      "full_name": "LibreSpark/LibreTV",
+      "repo_id": 961357433,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-10-20",
+      "meta": {}
     },
     {
       "full_name": "Lightricks/LTX-2",
@@ -10219,6 +10256,20 @@
       }
     },
     {
+      "full_name": "OpenMOSS/MOSS-Image",
+      "repo_id": 1421497958,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-10-20",
+      "meta": {
+        "language": "Python",
+        "description": "Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.",
+        "created_at": "2026-10-16T01:18:13Z",
+        "stars": 1054
+      }
+    },
+    {
       "full_name": "OpenMOSS/MOSS-TTS",
       "repo_id": 1152193330,
       "reasons": [
@@ -11907,6 +11958,20 @@
       }
     },
     {
+      "full_name": "RobMitt/grill-me-skill",
+      "repo_id": 1208031361,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-10-20",
+      "meta": {
+        "language": null,
+        "description": "Claude Code / Cowork skill: interview the user relentlessly until reaching shared understanding",
+        "created_at": "2026-04-11T18:15:53Z",
+        "stars": 1008
+      }
+    },
+    {
       "full_name": "Robbyant/lingbot-depth",
       "repo_id": 1141835728,
       "reasons": [
@@ -13406,6 +13471,20 @@
         "description": null,
         "created_at": "2026-05-18T07:54:11Z",
         "stars": 1325
+      }
+    },
+    {
+      "full_name": "Tencent-Hunyuan/Hy-Memory",
+      "repo_id": 1420743720,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-10-20",
+      "meta": {
+        "language": "Python",
+        "description": null,
+        "created_at": "2026-10-15T13:06:56Z",
+        "stars": 1007
       }
     },
     {
@@ -16179,6 +16258,20 @@
       }
     },
     {
+      "full_name": "aicodeking/leanrea",
+      "repo_id": 1422883896,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-10-20",
+      "meta": {
+        "language": "Python",
+        "description": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
+        "created_at": "2026-10-17T02:53:24Z",
+        "stars": 1043
+      }
+    },
+    {
       "full_name": "aidanpark/openclaw-android",
       "repo_id": 1155099363,
       "reasons": [
@@ -16498,6 +16591,20 @@
         "description": "Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic",
         "created_at": "2026-04-19T14:42:06Z",
         "stars": 25394
+      }
+    },
+    {
+      "full_name": "alchaincyf/huashu-motion",
+      "repo_id": 1424340323,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-10-20",
+      "meta": {
+        "language": "JavaScript",
+        "description": "让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it.",
+        "created_at": "2026-10-18T12:19:27Z",
+        "stars": 1027
       }
     },
     {
@@ -30122,6 +30229,20 @@
       }
     },
     {
+      "full_name": "kennss/SiliconScope",
+      "repo_id": 1263158313,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-10-20",
+      "meta": {
+        "language": "Swift",
+        "description": "Sudoless Apple Silicon system monitor (native SwiftUI GUI) with ANE / Media Engine / memory-bandwidth tracking",
+        "created_at": "2026-06-08T17:19:50Z",
+        "stars": 1000
+      }
+    },
+    {
       "full_name": "kepano/obsidian-skills",
       "repo_id": 1126947080,
       "reasons": [
@@ -30440,6 +30561,20 @@
         "description": "Hermes Atlas — the decision layer for Hermes Agent: install guidance, mode & skill picks, and a curated catalog of 240+ ecosystem tools with live GitHub data",
         "created_at": "2026-04-08T17:07:13Z",
         "stars": 1321
+      }
+    },
+    {
+      "full_name": "kuafuai/andee",
+      "repo_id": 1374472673,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-10-20",
+      "meta": {
+        "language": "Kotlin",
+        "description": "An agent that moves into your Android phone and becomes its soul — not an assistant, not a tool. Any app, no integrations, on-device, one APK.",
+        "created_at": "2026-09-17T13:20:59Z",
+        "stars": 1371
       }
     },
     {
@@ -41754,6 +41889,20 @@
       }
     },
     {
+      "full_name": "stepfun-ai/Step-Code",
+      "repo_id": 1255734079,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-10-20",
+      "meta": {
+        "language": "TypeScript",
+        "description": null,
+        "created_at": "2026-06-01T06:00:45Z",
+        "stars": 1014
+      }
+    },
+    {
       "full_name": "stephengpope/thepopebot",
       "repo_id": 1147600037,
       "reasons": [
@@ -46507,6 +46656,20 @@
       }
     },
     {
+      "full_name": "xiaoyang111222/cn-math-taxonomy",
+      "repo_id": 1424183124,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-10-20",
+      "meta": {
+        "language": "Python",
+        "description": "中小学数学知识图谱 + 前置诊断：课标对齐、人教版一–九年级、531 知识点、2271 题、自适应诊断",
+        "created_at": "2026-10-18T09:04:43Z",
+        "stars": 1220
+      }
+    },
+    {
       "full_name": "ximeiorg/Xime",
       "repo_id": 1194657986,
       "reasons": [
@@ -46644,6 +46807,20 @@
         "description": "Fully decentralized and the most secure XRP &  EVM wallet - built by the community, for the community.",
         "created_at": "2026-05-12T07:09:25Z",
         "stars": 2299
+      }
+    },
+    {
+      "full_name": "xscreensaver-official/xscreensaver",
+      "repo_id": 1422399929,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-10-20",
+      "meta": {
+        "language": null,
+        "description": "There is no official XScreenSaver GitHub repository.",
+        "created_at": "2026-10-16T16:24:44Z",
+        "stars": 1007
       }
     },
     {
