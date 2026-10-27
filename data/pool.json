@@ -1,11 +1,11 @@
 {
   "schema_v": 1,
-  "updated_at": "2026-10-26T08:08:18+00:00",
+  "updated_at": "2026-10-27T08:16:33+00:00",
   "stats": {
-    "total": 3957,
+    "total": 4017,
     "by_first_reason": {
-      "new_star": 3543,
-      "trending_recent": 414
+      "new_star": 3568,
+      "trending_recent": 449
     },
     "dropped": 0
   },
@@ -512,6 +512,15 @@
         "created_at": "2026-07-05T01:03:37Z",
         "stars": 1290
       }
+    },
+    {
+      "full_name": "521xueweihan/HelloGitHub",
+      "repo_id": 58028038,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-10-27",
+      "meta": {}
     },
     {
       "full_name": "648540858/wvp-GB28181-pro",
@@ -1961,6 +1970,15 @@
       }
     },
     {
+      "full_name": "AntennaPod/AntennaPod",
+      "repo_id": 5244445,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-10-27",
+      "meta": {}
+    },
+    {
       "full_name": "ApodexAI/FrontierAgent",
       "repo_id": 1342461518,
       "reasons": [
@@ -2134,6 +2152,15 @@
         "created_at": "2026-02-24T12:21:11Z",
         "stars": 1302
       }
+    },
+    {
+      "full_name": "AstrBotDevs/AstrBot",
+      "repo_id": 575865240,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-10-27",
+      "meta": {}
     },
     {
       "full_name": "AstrBotDevs/astrbot-launcher",
@@ -2422,7 +2449,8 @@
       "full_name": "Awakenchan/LanternEngine",
       "repo_id": 1414718338,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-25",
       "meta": {
@@ -2520,7 +2548,8 @@
       "full_name": "BeckyGlobal/PaidToStudyAbroad",
       "repo_id": 1420177366,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-25",
       "meta": {
@@ -3846,6 +3875,20 @@
         "description": "免 ROOT 免 Termux，在手机上跑 DeepSeek Harness。完整 Ubuntu 环境 + proroot 零 ptrace 开销 · AI 输出实时上屏 · ADB 直连 · 数据不丢",
         "created_at": "2026-08-14T16:52:02Z",
         "stars": 1676
+      }
+    },
+    {
+      "full_name": "DUNHKpcc/Claude-Guardian",
+      "repo_id": 1420259750,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-10-27",
+      "meta": {
+        "language": "Python",
+        "description": "Claude Guardian is an all-in-one Claude account safety and risk prevention skill.Claude防封实战 It intelligently assesses your device, account history, network environment, and payment options, then provides personalized guidance for local, VPS, or virtual machine setups. ",
+        "created_at": "2026-10-15T06:09:53Z",
+        "stars": 1089
       }
     },
     {
@@ -5232,7 +5275,8 @@
       "full_name": "Fei2411/DS-Bot",
       "repo_id": 1409013846,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-26",
       "meta": {
@@ -6284,7 +6328,8 @@
       "full_name": "HKUDS/AutoSwarm",
       "repo_id": 1285974683,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {
@@ -6336,6 +6381,15 @@
         "created_at": "2026-02-15T16:41:38Z",
         "stars": 8561
       }
+    },
+    {
+      "full_name": "HKUDS/DeepTutor",
+      "repo_id": 1124219907,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-10-27",
+      "meta": {}
     },
     {
       "full_name": "HKUDS/FastCode",
@@ -6915,6 +6969,15 @@
       }
     },
     {
+      "full_name": "HunxByts/GhostTrack",
+      "repo_id": 628192229,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-10-27",
+      "meta": {}
+    },
+    {
       "full_name": "Hypostasis-Cat/HypoMux",
       "repo_id": 1265875050,
       "reasons": [
@@ -7131,7 +7194,8 @@
       "full_name": "Jakeschincariol/day-trader-skill",
       "repo_id": 1427126014,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-25",
       "meta": {
@@ -7581,7 +7645,8 @@
       "full_name": "JustAResearcher/gpu-unlock-ada",
       "repo_id": 1431545439,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-25",
       "meta": {
@@ -8978,6 +9043,15 @@
         "created_at": "2026-06-09T17:19:42Z",
         "stars": 2481
       }
+    },
+    {
+      "full_name": "MHSanaei/3x-ui",
+      "repo_id": 599735720,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-10-27",
+      "meta": {}
     },
     {
       "full_name": "MIgHTy-alIeN/ethereum-flashloan-mev-bot",
@@ -10585,6 +10659,20 @@
       }
     },
     {
+      "full_name": "NabilRFG12/Reverse-Engineer-anything",
+      "repo_id": 1411021823,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-10-27",
+      "meta": {
+        "language": null,
+        "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+        "created_at": "2026-10-08T22:35:51Z",
+        "stars": 1026
+      }
+    },
+    {
       "full_name": "Nanako0129/sepia",
       "repo_id": 1349253750,
       "reasons": [
@@ -10656,7 +10744,8 @@
       "full_name": "NapNeko/NapCatQQ",
       "repo_id": 777721566,
       "reasons": [
-        "trending_recent"
+        "trending_recent",
+        "fast_riser"
       ],
       "first_seen": "2026-10-25",
       "meta": {}
@@ -10910,7 +10999,8 @@
       "full_name": "Niiiiikiiiiii/McLife-Desk",
       "repo_id": 1413837358,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-26",
       "meta": {
@@ -11011,7 +11101,8 @@
       "repo_id": 1315384578,
       "reasons": [
         "trending_recent",
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-23",
       "meta": {}
@@ -11409,7 +11500,8 @@
       "full_name": "OpenBMB/VoxCPM",
       "repo_id": 1057664813,
       "reasons": [
-        "trending_recent"
+        "trending_recent",
+        "fast_riser"
       ],
       "first_seen": "2026-10-25",
       "meta": {}
@@ -11446,7 +11538,8 @@
       "full_name": "OpenHands/OpenHands",
       "repo_id": 771302083,
       "reasons": [
-        "trending_recent"
+        "trending_recent",
+        "fast_riser"
       ],
       "first_seen": "2026-10-25",
       "meta": {}
@@ -11464,6 +11557,15 @@
         "created_at": "2026-02-26T05:03:51Z",
         "stars": 1162
       }
+    },
+    {
+      "full_name": "OpenListTeam/OpenList",
+      "repo_id": 1000524955,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-10-27",
+      "meta": {}
     },
     {
       "full_name": "OpenMOSS/Awesome-WAM",
@@ -12410,6 +12512,20 @@
       }
     },
     {
+      "full_name": "Pomerado/pomerado",
+      "repo_id": 1406316534,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-10-27",
+      "meta": {
+        "language": "TypeScript",
+        "description": "YC F26. Turn any website into an API / MCP in minutes. Open source core integration minting harness. MIT.",
+        "created_at": "2026-10-05T19:56:00Z",
+        "stars": 1008
+      }
+    },
+    {
       "full_name": "Ponphil/LitePan",
       "repo_id": 1246231570,
       "reasons": [
@@ -13180,6 +13296,20 @@
         "description": null,
         "created_at": "2026-01-17T04:49:27Z",
         "stars": 1200
+      }
+    },
+    {
+      "full_name": "Rice-dog/code-codex",
+      "repo_id": 1315816980,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-10-27",
+      "meta": {
+        "language": "TypeScript",
+        "description": "Local project file tree and preview companion for Codex Desktop",
+        "created_at": "2026-07-29T07:13:59Z",
+        "stars": 1007
       }
     },
     {
@@ -14155,6 +14285,15 @@
       }
     },
     {
+      "full_name": "Shubhamsaboo/awesome-llm-apps",
+      "repo_id": 793375104,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-10-27",
+      "meta": {}
+    },
+    {
       "full_name": "SideloadLabs/EeveeSpotifyReincarnated",
       "repo_id": 1235653880,
       "reasons": [
@@ -14293,6 +14432,20 @@
         "description": "基于 Spring Boot 4.1、Java 25、Spring AI 2.0、React、PostgreSQL/pgvector、Redis 和 RustFS 构建的开源 AI 面试平台，支持简历智能分析、模拟面试、语音面试和知识库 RAG。",
         "created_at": "2026-01-03T11:25:48Z",
         "stars": 3385
+      }
+    },
+    {
+      "full_name": "SoMarkAI/OXR",
+      "repo_id": 1405117672,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-10-27",
+      "meta": {
+        "language": "Python",
+        "description": "An open-source document parsing model with SOTA accuracy and speed, using an RSI loop during post-training.",
+        "created_at": "2026-10-05T04:28:31Z",
+        "stars": 1354
       }
     },
     {
@@ -14877,7 +15030,8 @@
       "full_name": "TauricResearch/TradingAgents",
       "repo_id": 909213664,
       "reasons": [
-        "trending_recent"
+        "trending_recent",
+        "fast_riser"
       ],
       "first_seen": "2026-10-25",
       "meta": {}
@@ -14995,7 +15149,8 @@
       "full_name": "Tencent-Hunyuan/Prism",
       "repo_id": 1379605083,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-25",
       "meta": {
@@ -15620,6 +15775,20 @@
       }
     },
     {
+      "full_name": "UnderleveledBuilder/awesome-short-drama-skills",
+      "repo_id": 1417945786,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-10-27",
+      "meta": {
+        "language": "HTML",
+        "description": "AI 短剧 · 漫剧 Skill（技能包）精选：剧本、改编、分镜、Seedance / 可灵 / MiniMax 视频提示词，千问、豆包、龙虾 OpenClaw、WorkBuddy、Claude Code、Codex 等智能体可用 | Curated agent skills for AI short drama, micro drama / microdrama, vertical drama and manju (AI comic drama): screenwriting, storyboards, Seedance / Kling / MiniMax video prompts",
+        "created_at": "2026-10-13T20:35:18Z",
+        "stars": 1052
+      }
+    },
+    {
       "full_name": "UniXNU/UniXNU",
       "repo_id": 1425469723,
       "reasons": [
@@ -16068,6 +16237,15 @@
       }
     },
     {
+      "full_name": "WebKit/WebKit",
+      "repo_id": 320636477,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-10-27",
+      "meta": {}
+    },
+    {
       "full_name": "WecoAI/awesome-autoresearch",
       "repo_id": 1188845498,
       "reasons": [
@@ -16332,6 +16510,20 @@
       }
     },
     {
+      "full_name": "XCQ0607/lxserver",
+      "repo_id": 1130514534,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-10-27",
+      "meta": {
+        "language": "JavaScript",
+        "description": "LX Music 数据同步服务端，同时支持了部分lx-music-desktop的网页端实现。",
+        "created_at": "2026-01-08T16:04:40Z",
+        "stars": 1006
+      }
+    },
+    {
       "full_name": "XTLS/Xray-core",
       "repo_id": 311315731,
       "reasons": [
@@ -16565,6 +16757,15 @@
         "created_at": "2026-10-09T13:09:11Z",
         "stars": 1062
       }
+    },
+    {
+      "full_name": "YosysHQ/yosys",
+      "repo_id": 7454197,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-10-27",
+      "meta": {}
     },
     {
       "full_name": "YouMind-OpenLab/ai-image-prompts-skill",
@@ -16862,7 +17063,8 @@
       "full_name": "Zagitta/gpu-unlock",
       "repo_id": 1423892373,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-25",
       "meta": {
@@ -17775,7 +17977,8 @@
       "full_name": "agentgateway/agentgateway",
       "repo_id": 950891299,
       "reasons": [
-        "trending_recent"
+        "trending_recent",
+        "fast_riser"
       ],
       "first_seen": "2026-10-22",
       "meta": {}
@@ -19029,7 +19232,8 @@
       "full_name": "amosblomqvist/learnharness",
       "repo_id": 1422597771,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-25",
       "meta": {
@@ -19871,6 +20075,15 @@
       "meta": {}
     },
     {
+      "full_name": "apache/camel",
+      "repo_id": 206317,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-10-27",
+      "meta": {}
+    },
+    {
       "full_name": "apache/cassandra",
       "repo_id": 206424,
       "reasons": [
@@ -19975,6 +20188,15 @@
       "meta": {}
     },
     {
+      "full_name": "apache/pulsar",
+      "repo_id": 62117812,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-10-27",
+      "meta": {}
+    },
+    {
       "full_name": "apache/shenyu",
       "repo_id": 140543886,
       "reasons": [
@@ -20005,6 +20227,15 @@
         "created_at": "2026-01-07T13:37:31Z",
         "stars": 2446
       }
+    },
+    {
+      "full_name": "apirrone/Open_Duck_Mini",
+      "repo_id": 801580724,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-10-27",
+      "meta": {}
     },
     {
       "full_name": "appeeky/aso-skills",
@@ -20151,6 +20382,20 @@
       ],
       "first_seen": "2026-10-22",
       "meta": {}
+    },
+    {
+      "full_name": "arjun988/blender-skills",
+      "repo_id": 1289817225,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-10-27",
+      "meta": {
+        "language": "TypeScript",
+        "description": "94 specialist Blender skills for Cursor, Claude Code, Kiro & Codex -> MCP-powered production pipeline from blockout to engine export.",
+        "created_at": "2026-07-05T08:36:06Z",
+        "stars": 1070
+      }
     },
     {
       "full_name": "armada-os/armada",
@@ -20350,7 +20595,8 @@
       "full_name": "astral-sh/uv",
       "repo_id": 699532645,
       "reasons": [
-        "trending_recent"
+        "trending_recent",
+        "fast_riser"
       ],
       "first_seen": "2026-10-24",
       "meta": {}
@@ -20730,6 +20976,24 @@
         "created_at": "2026-01-22T06:41:44Z",
         "stars": 1049
       }
+    },
+    {
+      "full_name": "ayangweb/BongoCat",
+      "repo_id": 956337638,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-10-27",
+      "meta": {}
+    },
+    {
+      "full_name": "aydencharles/onionHEN",
+      "repo_id": 1306169582,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-10-27",
+      "meta": {}
     },
     {
       "full_name": "ayghri/i-have-adhd",
@@ -21342,6 +21606,15 @@
         "created_at": "2026-03-03T08:15:46Z",
         "stars": 1068
       }
+    },
+    {
+      "full_name": "biomejs/biome",
+      "repo_id": 671654508,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-10-27",
+      "meta": {}
     },
     {
       "full_name": "bitcoin/bitcoin",
@@ -22083,10 +22356,20 @@
       "meta": {}
     },
     {
+      "full_name": "bytecodealliance/wasmtime",
+      "repo_id": 101767772,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-10-27",
+      "meta": {}
+    },
+    {
       "full_name": "byted-technologies/.github",
       "repo_id": 1243645673,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-26",
       "meta": {
@@ -22100,7 +22383,8 @@
       "full_name": "byted-technologies/Fractal-PrivacyPolicy",
       "repo_id": 1174806247,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-26",
       "meta": {
@@ -22221,7 +22505,8 @@
       "full_name": "cactus-compute/needle",
       "repo_id": 1165361576,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {
@@ -22667,6 +22952,15 @@
       }
     },
     {
+      "full_name": "charmbracelet/crush",
+      "repo_id": 987670088,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-10-27",
+      "meta": {}
+    },
+    {
       "full_name": "chaseai-yt/claudex-loop",
       "repo_id": 1259888079,
       "reasons": [
@@ -22765,6 +23059,15 @@
         "created_at": "2026-02-13T12:38:31Z",
         "stars": 79556
       }
+    },
+    {
+      "full_name": "checkstyle/checkstyle",
+      "repo_id": 12499251,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-10-27",
+      "meta": {}
     },
     {
       "full_name": "chen-006/meow-llm-detector",
@@ -23925,6 +24228,15 @@
       }
     },
     {
+      "full_name": "coollabsio/coolify",
+      "repo_id": 332880689,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-10-27",
+      "meta": {}
+    },
+    {
       "full_name": "coollabsio/jean",
       "repo_id": 1140389139,
       "reasons": [
@@ -24023,6 +24335,20 @@
         "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI, Telegram or More.",
         "created_at": "2026-04-20T12:46:31Z",
         "stars": 3434
+      }
+    },
+    {
+      "full_name": "cosmictaserdev-creator/Convx",
+      "repo_id": 1309699761,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-10-27",
+      "meta": {
+        "language": "Kotlin",
+        "description": "A free, open-source Android music player for YouTube Music with an iOS-style Liquid Glass interface, synced lyrics, Automix and Listen Together.",
+        "created_at": "2026-07-23T08:19:17Z",
+        "stars": 1021
       }
     },
     {
@@ -24273,6 +24599,20 @@
       }
     },
     {
+      "full_name": "cth9191/animate",
+      "repo_id": 1403731980,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-10-27",
+      "meta": {
+        "language": "JavaScript",
+        "description": "Procedural animation in any style for Claude Code: short single-file canvas videos with story, look and storyboard check-ins. 7 built-in styles or one matched from your references, your own music (beat-mapped), real product screenshots, every format from one piece.",
+        "created_at": "2026-10-04T00:05:25Z",
+        "stars": 1000
+      }
+    },
+    {
       "full_name": "ctresb/leis",
       "repo_id": 1420038429,
       "reasons": [
@@ -24427,6 +24767,15 @@
         "created_at": "2026-07-20T18:46:29Z",
         "stars": 1505
       }
+    },
+    {
+      "full_name": "dagger/dagger",
+      "repo_id": 222824662,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-10-27",
+      "meta": {}
     },
     {
       "full_name": "daimiaopeng/coolapk-desktop",
@@ -26569,6 +26918,20 @@
       }
     },
     {
+      "full_name": "eagle-hq/EAGLE-4",
+      "repo_id": 1427107663,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-10-27",
+      "meta": {
+        "language": "Python",
+        "description": "Official Inference Code of EAGLE-4",
+        "created_at": "2026-10-20T14:03:04Z",
+        "stars": 1014
+      }
+    },
+    {
       "full_name": "earendil-works/gondolin",
       "repo_id": 1148838610,
       "reasons": [
@@ -27041,6 +27404,15 @@
       }
     },
     {
+      "full_name": "encoredev/encore",
+      "repo_id": 339786950,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-10-27",
+      "meta": {}
+    },
+    {
       "full_name": "endee-io/endee",
       "repo_id": 1141278752,
       "reasons": [
@@ -27066,6 +27438,20 @@
         "description": "Node-based terminal manager for AI coding agents — tmux-backed terminals and parallel agent sessions as draggable nodes on an infinite pan/zoom canvas. macOS, Linux, and a browser Server Edition.",
         "created_at": "2026-06-15T21:25:13Z",
         "stars": 2040
+      }
+    },
+    {
+      "full_name": "enesozturk/dimensional-drawing",
+      "repo_id": 1431010194,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-10-27",
+      "meta": {
+        "language": "HTML",
+        "description": null,
+        "created_at": "2026-10-23T12:20:16Z",
+        "stars": 1084
       }
     },
     {
@@ -27416,6 +27802,15 @@
         "created_at": "2026-02-13T03:21:19Z",
         "stars": 1245
       }
+    },
+    {
+      "full_name": "ever-co/ever-gauzy",
+      "repo_id": 189829392,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-10-27",
+      "meta": {}
     },
     {
       "full_name": "everett7623/airport-recommendations-2026",
@@ -28044,7 +28439,8 @@
       "full_name": "filippocalippo/StykAnimate-App",
       "repo_id": 1362208208,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-25",
       "meta": {
@@ -29039,6 +29435,15 @@
         "created_at": "2026-01-18T02:31:54Z",
         "stars": 1824
       }
+    },
+    {
+      "full_name": "gitbutlerapp/gitbutler",
+      "repo_id": 595662105,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-10-27",
+      "meta": {}
     },
     {
       "full_name": "github/app",
@@ -30170,7 +30575,8 @@
       "full_name": "hanliang97/MatrixMedia",
       "repo_id": 1187686777,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-21",
       "meta": {
@@ -30365,6 +30771,20 @@
         "description": "A curated list of awesome OpenAI Codex / ChatGPT plugins, skills, and resources. The #1 Codex Marketplace.  See live plugins at: https://hol.org/plugins/best-codex-plugins",
         "created_at": "2026-03-28T02:38:44Z",
         "stars": 1347
+      }
+    },
+    {
+      "full_name": "hashgraph-online/hol-guard",
+      "repo_id": 1194748811,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-10-27",
+      "meta": {
+        "language": "Python",
+        "description": "Open-source antivirus for AI agents: block risky tools, secret access, prompt injection, malicious packages, MCP servers, plugins, and skills at runtime.",
+        "created_at": "2026-03-28T19:02:15Z",
+        "stars": 1000
       }
     },
     {
@@ -30757,7 +31177,8 @@
       "full_name": "higgsfield-ai/skills",
       "repo_id": 1206425593,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {
@@ -30793,6 +31214,20 @@
         "description": "Real-time dashboard for monitoring global news, markets, and geopolitical events",
         "created_at": "2026-01-07T18:07:09Z",
         "stars": 4214
+      }
+    },
+    {
+      "full_name": "hkdb/aerion",
+      "repo_id": 1134775169,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-10-27",
+      "meta": {
+        "language": "Go",
+        "description": "An Open Source Lightweight E-Mail Client",
+        "created_at": "2026-01-15T07:25:16Z",
+        "stars": 1000
       }
     },
     {
@@ -31179,6 +31614,15 @@
         "created_at": "2026-07-24T23:31:27Z",
         "stars": 3937
       }
+    },
+    {
+      "full_name": "humanlayer/humanlayer",
+      "repo_id": 838542536,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-10-27",
+      "meta": {}
     },
     {
       "full_name": "humanlayer/skills",
@@ -31790,7 +32234,8 @@
       "full_name": "infiniflow/ragflow",
       "repo_id": 730534580,
       "reasons": [
-        "trending_recent"
+        "trending_recent",
+        "fast_riser"
       ],
       "first_seen": "2026-10-25",
       "meta": {}
@@ -31947,6 +32392,15 @@
         "created_at": "2026-01-21T10:15:35Z",
         "stars": 4996
       }
+    },
+    {
+      "full_name": "is-a-dev/register",
+      "repo_id": 301216792,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-10-27",
+      "meta": {}
     },
     {
       "full_name": "isjiamu/gzh-design-skill",
@@ -32595,7 +33049,8 @@
       "full_name": "jev-chat/jev-chat-jarvis",
       "repo_id": 1379574728,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {
@@ -33713,6 +34168,15 @@
       }
     },
     {
+      "full_name": "keploy/keploy",
+      "repo_id": 449649393,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-10-27",
+      "meta": {}
+    },
+    {
       "full_name": "kernalix7/winpodx",
       "repo_id": 1204405167,
       "reasons": [
@@ -33792,6 +34256,20 @@
       }
     },
     {
+      "full_name": "kgoedecke/doop",
+      "repo_id": 1342943152,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-10-27",
+      "meta": {
+        "language": "TypeScript",
+        "description": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
+        "created_at": "2026-08-22T15:40:51Z",
+        "stars": 1000
+      }
+    },
+    {
       "full_name": "kharmanskyi/open-steps",
       "repo_id": 1346230651,
       "reasons": [
@@ -33818,6 +34296,20 @@
         "description": "A modern, high-performance GUI for the scrcpy",
         "created_at": "2026-01-21T06:34:32Z",
         "stars": 1419
+      }
+    },
+    {
+      "full_name": "kingcharleslzy-ai/dsh-purge",
+      "repo_id": 1421822085,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-10-27",
+      "meta": {
+        "language": "JavaScript",
+        "description": "dsh-purge Community · DeepSeek Harness 社区维护版：宿主兼容、状态诊断、提示词管理、更新与本机备份回滚。基于小杨 / YuJunZhiXue 的 dsh-purge。",
+        "created_at": "2026-10-16T07:44:27Z",
+        "stars": 2916
       }
     },
     {
@@ -34471,7 +34963,8 @@
       "full_name": "langchain-ai/openwiki",
       "repo_id": 1277477208,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {
@@ -35235,7 +35728,8 @@
       "full_name": "liketrek/TREK",
       "repo_id": 1186219527,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {
@@ -35888,7 +36382,8 @@
       "full_name": "ludovic111/horizon",
       "repo_id": 1403446451,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-25",
       "meta": {
@@ -36080,6 +36575,20 @@
       }
     },
     {
+      "full_name": "lyramakesmusic/neuron-explorer",
+      "repo_id": 1427861485,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-10-27",
+      "meta": {
+        "language": "Python",
+        "description": "Steering-first neuron explorer for Qwen3.5-4B: push every MLP neuron, keep every rollout, browse the results",
+        "created_at": "2026-10-21T04:09:05Z",
+        "stars": 1332
+      }
+    },
+    {
       "full_name": "lzhgus/Capso",
       "repo_id": 1206577576,
       "reasons": [
@@ -36134,6 +36643,15 @@
         "created_at": "2026-04-01T08:20:07Z",
         "stars": 2320
       }
+    },
+    {
+      "full_name": "maboloshi/github-chinese",
+      "repo_id": 410808715,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-10-27",
+      "meta": {}
     },
     {
       "full_name": "macaly/almostnode",
@@ -36342,7 +36860,8 @@
       "full_name": "manaflow-ai/cmux",
       "repo_id": 1144115288,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {
@@ -36365,6 +36884,15 @@
         "created_at": "2026-03-18T19:19:40Z",
         "stars": 1498
       }
+    },
+    {
+      "full_name": "mantrakp04/ardia",
+      "repo_id": 1274703665,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-10-27",
+      "meta": {}
     },
     {
       "full_name": "manycoretech/aholo-viewer",
@@ -36964,7 +37492,8 @@
       "full_name": "mg-chao/snow-apps",
       "repo_id": 939207877,
       "reasons": [
-        "trending_recent"
+        "trending_recent",
+        "fast_riser"
       ],
       "first_seen": "2026-10-25",
       "meta": {}
@@ -38033,6 +38562,15 @@
       }
     },
     {
+      "full_name": "moeru-ai/airi",
+      "repo_id": 896924279,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-10-27",
+      "meta": {}
+    },
+    {
       "full_name": "mohi-devhub/antivibe",
       "repo_id": 1207231932,
       "reasons": [
@@ -38175,6 +38713,20 @@
       }
     },
     {
+      "full_name": "morganlinton/BeautifulRust",
+      "repo_id": 1430513158,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-10-27",
+      "meta": {
+        "language": "Python",
+        "description": "Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.",
+        "created_at": "2026-10-23T03:01:11Z",
+        "stars": 1249
+      }
+    },
+    {
       "full_name": "morluto/awesome-reverse-engineering",
       "repo_id": 1412022658,
       "reasons": [
@@ -38217,6 +38769,15 @@
         "created_at": "2026-01-12T16:50:33Z",
         "stars": 1030
       }
+    },
+    {
+      "full_name": "mostlygeek/llama-swap",
+      "repo_id": 867433720,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-10-27",
+      "meta": {}
     },
     {
       "full_name": "motiful/cc-gateway",
@@ -38692,6 +39253,20 @@
         "description": "nanoMuse: an open-source personal agent for every device you own. One agent with a name and a look of its own that does things, keeps working while the app is closed, remembers you, and asks before anything you cannot undo. On Android, iPhone and iPad, Windows / macOS / Linux and in the browser; your phone's screen and your computer as its hands.",
         "created_at": "2026-09-23T06:13:06Z",
         "stars": 1510
+      }
+    },
+    {
+      "full_name": "nanocle/Charakuru",
+      "repo_id": 1406961551,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-10-27",
+      "meta": {
+        "language": null,
+        "description": null,
+        "created_at": "2026-10-06T08:27:57Z",
+        "stars": 1049
       }
     },
     {
@@ -41645,7 +42220,8 @@
       "full_name": "pallavi-shekhar/ai-engineering-interview-questions-company-wise",
       "repo_id": 1376713674,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {
@@ -41924,7 +42500,8 @@
       "full_name": "pch/rawmakase",
       "repo_id": 1389278567,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {
@@ -42506,7 +43083,8 @@
       "full_name": "piperhex/remoteai",
       "repo_id": 1286263096,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {
@@ -42833,7 +43411,8 @@
       "full_name": "promptfoo/promptfoo",
       "repo_id": 633927609,
       "reasons": [
-        "trending_recent"
+        "trending_recent",
+        "fast_riser"
       ],
       "first_seen": "2026-10-25",
       "meta": {}
@@ -42850,6 +43429,20 @@
         "description": "A verified tool that works on any potato computer that will let you bypass discord verification",
         "created_at": "2026-02-10T15:49:55Z",
         "stars": 1562
+      }
+    },
+    {
+      "full_name": "proto-tap/sql-tap",
+      "repo_id": 1157577714,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-10-27",
+      "meta": {
+        "language": "Go",
+        "description": "Watch SQL traffic in real-time with a TUI",
+        "created_at": "2026-02-14T01:41:59Z",
+        "stars": 1594
       }
     },
     {
@@ -42874,6 +43467,15 @@
         "created_at": "2026-03-01T18:56:54Z",
         "stars": 1431
       }
+    },
+    {
+      "full_name": "psiberx/cp2077-archive-xl",
+      "repo_id": 434499045,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-10-27",
+      "meta": {}
     },
     {
       "full_name": "puaclaw/PUAClaw",
@@ -43235,6 +43837,20 @@
         "description": "Build a modern LLM from scratch. Every line commented. Explained like we are five.",
         "created_at": "2026-05-03T21:41:33Z",
         "stars": 4048
+      }
+    },
+    {
+      "full_name": "rampstackco/claude-skills",
+      "repo_id": 1224033309,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-10-27",
+      "meta": {
+        "language": "JavaScript",
+        "description": "Stack-agnostic Claude Skills covering the full website lifecycle: brand, design, content, SEO, dev, ops, growth, and research. Build, ship, audit, optimize.",
+        "created_at": "2026-04-28T22:33:51Z",
+        "stars": 1000
       }
     },
     {
@@ -44647,7 +45263,8 @@
       "full_name": "samber/cc-skills-golang",
       "repo_id": 1188322477,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {
@@ -45383,7 +46000,8 @@
       "full_name": "shinshin86/mesh-avatar-studio",
       "repo_id": 1403847264,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-25",
       "meta": {
@@ -46150,6 +46768,15 @@
       }
     },
     {
+      "full_name": "socquique/TamaPoke",
+      "repo_id": 1265465686,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-10-27",
+      "meta": {}
+    },
+    {
       "full_name": "softaworks/agent-toolkit",
       "repo_id": 1137485434,
       "reasons": [
@@ -46598,6 +47225,20 @@
         "description": "Use any agent to create stunning, interactive presentations",
         "created_at": "2026-07-14T18:23:27Z",
         "stars": 1134
+      }
+    },
+    {
+      "full_name": "stackedlol/ascii-sharks",
+      "repo_id": 1426220635,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-10-27",
+      "meta": {
+        "language": "TypeScript",
+        "description": "ascii shark components in typescript",
+        "created_at": "2026-10-19T21:54:19Z",
+        "stars": 1070
       }
     },
     {
@@ -47404,6 +48045,20 @@
       }
     },
     {
+      "full_name": "t3dotgg/tstack",
+      "repo_id": 1431830406,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-10-27",
+      "meta": {
+        "language": "Python",
+        "description": "The agent skills I use every day. Works with Claude Code and Codex.",
+        "created_at": "2026-10-24T05:00:20Z",
+        "stars": 1705
+      }
+    },
+    {
       "full_name": "t4t5/omdrop-owl",
       "repo_id": 1409860044,
       "reasons": [
@@ -47701,7 +48356,8 @@
       "full_name": "tcchen2026/VibeOffice",
       "repo_id": 1409806011,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-23",
       "meta": {
@@ -49364,6 +50020,20 @@
       }
     },
     {
+      "full_name": "unclebob/ub-mode",
+      "repo_id": 1433377156,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-10-27",
+      "meta": {
+        "language": null,
+        "description": null,
+        "created_at": "2026-10-25T16:04:09Z",
+        "stars": 1100
+      }
+    },
+    {
       "full_name": "undefined-ui/second-brain-os",
       "repo_id": 1360367824,
       "reasons": [
@@ -49544,6 +50214,15 @@
         "created_at": "2026-01-26T13:59:24Z",
         "stars": 1358
       }
+    },
+    {
+      "full_name": "unslothai/unsloth",
+      "repo_id": 725205304,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-10-27",
+      "meta": {}
     },
     {
       "full_name": "unstablebuild/rune",
@@ -50236,7 +50915,8 @@
       "full_name": "video-db/call.md",
       "repo_id": 1166606658,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {
@@ -50692,6 +51372,15 @@
         "created_at": "2026-01-12T00:47:24Z",
         "stars": 4240
       }
+    },
+    {
+      "full_name": "wailsapp/wails",
+      "repo_id": 161951219,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-10-27",
+      "meta": {}
     },
     {
       "full_name": "waligoraamodio288-rgb/hongguo-desktop-releases",
@@ -52187,6 +52876,20 @@
       }
     },
     {
+      "full_name": "xweiba/location-spoofer",
+      "repo_id": 1321016011,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-10-27",
+      "meta": {
+        "language": "Swift",
+        "description": "面向 iOS 定位服务行为研究和开发测试的虚拟定位工具，支持地图选点、本地与第三方代理、WGS-84 / GCJ-02 双坐标、环境检测和问题诊断。",
+        "created_at": "2026-08-03T00:16:56Z",
+        "stars": 1001
+      }
+    },
+    {
       "full_name": "xyTom/coding-tools-mcp",
       "repo_id": 1245329241,
       "reasons": [
@@ -52426,7 +53129,8 @@
       "full_name": "yb2460/harness-anything",
       "repo_id": 1251086916,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {
@@ -52510,7 +53214,8 @@
       "full_name": "yeqv111/mccarbon",
       "repo_id": 1415387508,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-25",
       "meta": {
