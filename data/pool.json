@@ -1,11 +1,11 @@
 {
   "schema_v": 1,
-  "updated_at": "2026-10-30T09:03:16+00:00",
+  "updated_at": "2026-10-31T08:47:04+00:00",
   "stats": {
-    "total": 4172,
+    "total": 4228,
     "by_first_reason": {
-      "new_star": 3659,
-      "trending_recent": 513
+      "new_star": 3682,
+      "trending_recent": 546
     },
     "dropped": 0
   },
@@ -332,7 +332,8 @@
       "full_name": "1lck/Lithe-IDEA",
       "repo_id": 1320091816,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {
@@ -1594,7 +1595,8 @@
       "full_name": "AienTech/dossier",
       "repo_id": 1403649056,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-28",
       "meta": {
@@ -2107,7 +2109,8 @@
       "full_name": "ArcReel/ArcReel",
       "repo_id": 1152014383,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {
@@ -2196,7 +2199,8 @@
       "full_name": "Asabeneh/30-Days-Of-Python",
       "repo_id": 222751131,
       "reasons": [
-        "trending_recent"
+        "trending_recent",
+        "fast_riser"
       ],
       "first_seen": "2026-10-28",
       "meta": {}
@@ -2210,6 +2214,20 @@
       ],
       "first_seen": "2026-10-27",
       "meta": {}
+    },
+    {
+      "full_name": "AstrBotDevs/AstrBot-desktop",
+      "repo_id": 1161409654,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-10-31",
+      "meta": {
+        "language": "Rust",
+        "description": "The desktop edition of AstrBot, designed for fast local installation and convenient access to ChatUI and plugins.",
+        "created_at": "2026-02-19T04:25:10Z",
+        "stars": 1001
+      }
     },
     {
       "full_name": "AstrBotDevs/astrbot-launcher",
@@ -3749,6 +3767,15 @@
       }
     },
     {
+      "full_name": "CopilotKit/CopilotKit",
+      "repo_id": 655515393,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-10-31",
+      "meta": {}
+    },
+    {
       "full_name": "CopilotKit/OpenBot",
       "repo_id": 1336502227,
       "reasons": [
@@ -4301,7 +4328,8 @@
       "full_name": "DenisSergeevitch/ex-ussr-kinship-research",
       "repo_id": 1433057196,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-28",
       "meta": {
@@ -6895,7 +6923,8 @@
       "full_name": "HelixDB/helix-foundry",
       "repo_id": 1408277479,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {
@@ -7257,7 +7286,8 @@
       "full_name": "Ikaleio/lm-detector",
       "repo_id": 1368475153,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-28",
       "meta": {
@@ -7458,6 +7488,20 @@
       }
     },
     {
+      "full_name": "JMAN730/opendroid",
+      "repo_id": 1245561762,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-10-31",
+      "meta": {
+        "language": "Kotlin",
+        "description": "Your Open Autonomous Android Agent — A production-ready, self-planning AI assistant powered by local/remote LLMs and accessibility-driven screen automation.",
+        "created_at": "2026-05-21T10:38:16Z",
+        "stars": 1227
+      }
+    },
+    {
       "full_name": "JabRef/jabref",
       "repo_id": 17634071,
       "reasons": [
@@ -7465,6 +7509,20 @@
       ],
       "first_seen": "2026-10-25",
       "meta": {}
+    },
+    {
+      "full_name": "JailbrokenAI/wallbreaker",
+      "repo_id": 1281511009,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-10-31",
+      "meta": {
+        "language": "Python",
+        "description": null,
+        "created_at": "2026-06-26T16:20:47Z",
+        "stars": 1557
+      }
     },
     {
       "full_name": "Jakeschincariol/arena-skill",
@@ -7637,6 +7695,20 @@
       }
     },
     {
+      "full_name": "Jarvis322/macos-sysdata",
+      "repo_id": 1358633852,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-10-31",
+      "meta": {
+        "language": "Swift",
+        "description": "See what is really inside macOS System Data and delete it item by item. A free menu bar app that explains every category and shows each command before it runs.",
+        "created_at": "2026-09-05T23:29:13Z",
+        "stars": 1366
+      }
+    },
+    {
       "full_name": "Jasonzhu1207/ZenConverter",
       "repo_id": 1294990410,
       "reasons": [
@@ -7763,7 +7835,8 @@
       "full_name": "JimLiu/baoyu-design",
       "repo_id": 1261650101,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {
@@ -8183,6 +8256,15 @@
       }
     },
     {
+      "full_name": "KeygraphHQ/shannon",
+      "repo_id": 1065059442,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-10-31",
+      "meta": {}
+    },
+    {
       "full_name": "Kianmhz/GooseRelayVPN",
       "repo_id": 1221364817,
       "reasons": [
@@ -8496,7 +8578,8 @@
       "full_name": "LNPANDY/NX2Apple",
       "repo_id": 1427401105,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-28",
       "meta": {
@@ -9424,6 +9507,20 @@
       }
     },
     {
+      "full_name": "MMFoundation/WallpaperMachine",
+      "repo_id": 1370071127,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-10-31",
+      "meta": {
+        "language": "Swift",
+        "description": "Wallpaper Engine wallpapers on your Mac. A free, open-source app that plays scene, video and web wallpapers from the Steam Workshop. Apple silicon, macOS 15+.",
+        "created_at": "2026-09-14T14:43:38Z",
+        "stars": 1028
+      }
+    },
+    {
       "full_name": "MaaAssistantArknights/MaaAssistantArknights",
       "repo_id": 384520418,
       "reasons": [
@@ -9887,7 +9984,8 @@
       "full_name": "MemPalace/mempalace",
       "repo_id": 1201656210,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {
@@ -11227,7 +11325,8 @@
       "full_name": "Nasiko-Labs/nasiko",
       "repo_id": 1156170875,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {
@@ -12625,6 +12724,15 @@
       }
     },
     {
+      "full_name": "PaperMC/Paper",
+      "repo_id": 50160261,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-10-31",
+      "meta": {}
+    },
+    {
       "full_name": "Paramchoudhary/ResumeSkills",
       "repo_id": 1145879202,
       "reasons": [
@@ -12986,7 +13094,8 @@
       "full_name": "Pouzor/homelable",
       "repo_id": 1174815292,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {
@@ -13168,6 +13277,20 @@
         "description": "Agent OS: the agent gets smarter on its own. We just hold the line: Interview-gated, staged evaluation, budgeted evolution loop. MCP server, 14 runtimes: Claude Code, Codex CLI, Gemini CLI, OpenCode, Copilot, Kiro and more.",
         "created_at": "2026-01-14T01:14:04Z",
         "stars": 6247
+      }
+    },
+    {
+      "full_name": "QAQLeonard/a7c2-fl23-research",
+      "repo_id": 1423410732,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-10-31",
+      "meta": {
+        "language": "Python",
+        "description": "Desktop tool for Sony A7C II (ILCE-7CM2) firmware 2.01: one-click FL2/FL3, custom Creative Looks (LUT/DCP), electronic shutter sound, Vertical Display and factory restore. Windows/macOS. | Sony A7C II 固件 2.01 桌面工具：一键安装 FL2/FL3、自定义创意外观、电子快门声、竖屏显示，并可一键恢复原厂。",
+        "created_at": "2026-10-17T14:25:48Z",
+        "stars": 1029
       }
     },
     {
@@ -13792,7 +13915,8 @@
       "full_name": "Rice-dog/code-codex",
       "repo_id": 1315816980,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-27",
       "meta": {
@@ -14887,7 +15011,8 @@
       "full_name": "SimoneAvogadro/android-reverse-engineering-skill",
       "repo_id": 1148127041,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {
@@ -15215,6 +15340,15 @@
         "created_at": "2026-08-23T12:26:40Z",
         "stars": 1195
       }
+    },
+    {
+      "full_name": "StarRocks/starrocks",
+      "repo_id": 402945349,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-10-31",
+      "meta": {}
     },
     {
       "full_name": "StarTrail-org/PixelRAG",
@@ -16404,7 +16538,8 @@
       "full_name": "UniXNU/UniXNU",
       "repo_id": 1425469723,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-26",
       "meta": {
@@ -16922,6 +17057,15 @@
         "created_at": "2026-01-08T16:48:25Z",
         "stars": 1372
       }
+    },
+    {
+      "full_name": "Wei-Shaw/sub2api",
+      "repo_id": 1118601518,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-10-31",
+      "meta": {}
     },
     {
       "full_name": "WenXiaoWendy/cyberboss",
@@ -19813,7 +19957,8 @@
       "full_name": "amirh00sain/SpiderPanel",
       "repo_id": 1338563299,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {
@@ -20112,7 +20257,8 @@
       "full_name": "andyhuo520/digital-human-koubo",
       "repo_id": 1433904617,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-28",
       "meta": {
@@ -20183,7 +20329,8 @@
       "full_name": "anhao/ai-pose-gallery-zh",
       "repo_id": 1435695423,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-28",
       "meta": {
@@ -20241,7 +20388,8 @@
       "repo_id": 1304469751,
       "reasons": [
         "trending_recent",
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-25",
       "meta": {}
@@ -20271,6 +20419,20 @@
       }
     },
     {
+      "full_name": "anonnerdfrenzy/survival-llm",
+      "repo_id": 1432512301,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-10-31",
+      "meta": {
+        "language": "Python",
+        "description": "A free AI assistant and survival library that runs on your own computer, with no internet needed. Shows the source of every answer.",
+        "created_at": "2026-10-24T19:12:41Z",
+        "stars": 1034
+      }
+    },
+    {
       "full_name": "anonvector/SlipNet",
       "repo_id": 1147541225,
       "reasons": [
@@ -20283,6 +20445,15 @@
         "created_at": "2026-02-01T22:36:34Z",
         "stars": 1504
       }
+    },
+    {
+      "full_name": "ansible/ansible",
+      "repo_id": 3638964,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-10-31",
+      "meta": {}
     },
     {
       "full_name": "ant-research/4DAnyone",
@@ -20821,6 +20992,15 @@
       "meta": {}
     },
     {
+      "full_name": "apache/dolphinscheduler",
+      "repo_id": 173335706,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-10-31",
+      "meta": {}
+    },
+    {
       "full_name": "apache/doris",
       "repo_id": 99919302,
       "reasons": [
@@ -20954,6 +21134,15 @@
         "trending_recent"
       ],
       "first_seen": "2026-10-27",
+      "meta": {}
+    },
+    {
+      "full_name": "appdevforall/CodeOnTheGo",
+      "repo_id": 902008244,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-10-31",
       "meta": {}
     },
     {
@@ -22284,7 +22473,8 @@
       "full_name": "betterleaks/betterleaks",
       "repo_id": 1149107700,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {
@@ -22821,7 +23011,8 @@
       "full_name": "breezeblue-ai/breeze-tts",
       "repo_id": 1346367348,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-28",
       "meta": {
@@ -23601,7 +23792,8 @@
       "full_name": "cbrock84/headcount",
       "repo_id": 1349898907,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {
@@ -23623,6 +23815,20 @@
         "description": "🚀 An 800KB RAM ultra-lightweight Cloudflare WARP SOCKS5 proxy in Docker. 仅需 800KB 内存的纯内核态 Cloudflare WARP 代理 - Docker",
         "created_at": "2026-03-21T10:26:03Z",
         "stars": 1450
+      }
+    },
+    {
+      "full_name": "ccch1mneyyy/dsh-Go",
+      "repo_id": 1432967563,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-10-31",
+      "meta": {
+        "language": "Dart",
+        "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+        "created_at": "2026-10-25T08:09:52Z",
+        "stars": 2997
       }
     },
     {
@@ -25459,6 +25665,15 @@
       }
     },
     {
+      "full_name": "cryptomator/cryptomator",
+      "repo_id": 16446099,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-10-31",
+      "meta": {}
+    },
+    {
       "full_name": "cshuangyy/videdown",
       "repo_id": 1210260086,
       "reasons": [
@@ -26305,7 +26520,8 @@
       "full_name": "ddcat-ai/open-ai-canvas",
       "repo_id": 1308460307,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {
@@ -26449,7 +26665,8 @@
       "full_name": "deeplethe/sandstorm",
       "repo_id": 1235832354,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-28",
       "meta": {
@@ -26501,6 +26718,20 @@
         "description": "非自回归System 1决策引擎，专为结构化类型决策场景设计  DeepOpen Multilingual, non-autoregressive System 1 decision engine. ",
         "created_at": "2026-09-21T02:12:24Z",
         "stars": 2046
+      }
+    },
+    {
+      "full_name": "deepopen-com/deepopen-3d-webs",
+      "repo_id": 1434335249,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-10-31",
+      "meta": {
+        "language": "Python",
+        "description": "Image-driven 3D scene generation system. Users provide a reference image and prompt words, and the system generates previewable, replayable, and traceable scene results according to the camera trajectory; official 3D demonstration assets allow direct viewing of color/depth animations and Gaussian point clouds in the browser 图像驱动的三维场景生成系统",
+        "created_at": "2026-10-26T12:13:47Z",
+        "stars": 1019
       }
     },
     {
@@ -26649,6 +26880,15 @@
         "created_at": "2026-06-28T03:39:34Z",
         "stars": 2032
       }
+    },
+    {
+      "full_name": "defold/defold",
+      "repo_id": 4315538,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-10-31",
+      "meta": {}
     },
     {
       "full_name": "degoog-org/degoog",
@@ -27209,6 +27449,15 @@
         "created_at": "2026-07-17T02:01:45Z",
         "stars": 2775
       }
+    },
+    {
+      "full_name": "dji-sdk/Cloud-API-2",
+      "repo_id": 1294918981,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-10-31",
+      "meta": {}
     },
     {
       "full_name": "dmmulroy/anti-slop",
@@ -30292,7 +30541,8 @@
       "full_name": "get-bb/bb",
       "repo_id": 1166119443,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {
@@ -30602,7 +30852,8 @@
       "full_name": "gitroomhq/postiz-app",
       "repo_id": 664013991,
       "reasons": [
-        "trending_recent"
+        "trending_recent",
+        "fast_riser"
       ],
       "first_seen": "2026-10-28",
       "meta": {}
@@ -31145,6 +31396,15 @@
       }
     },
     {
+      "full_name": "google/or-tools",
+      "repo_id": 31102092,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-10-31",
+      "meta": {}
+    },
+    {
       "full_name": "google/perfetto",
       "repo_id": 227091502,
       "reasons": [
@@ -31450,6 +31710,20 @@
         "description": null,
         "created_at": "2026-05-08T15:16:17Z",
         "stars": 1823
+      }
+    },
+    {
+      "full_name": "gufo-org/gufo",
+      "repo_id": 1331203700,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-10-31",
+      "meta": {
+        "language": "C++",
+        "description": "The Open Source Strix Halo AI engine. Qwen 3.8  Flash Next Q4_K_XL: 1,801.01 pp, 73.17 tg single user, 194.37 tok/s 8 users; Qwen 3.8 27B Q4_K_XL: 656.33pp, 70.56tg tok/s single user with DFlash2",
+        "created_at": "2026-08-11T17:49:45Z",
+        "stars": 1007
       }
     },
     {
@@ -32135,6 +32409,20 @@
       }
     },
     {
+      "full_name": "herdrdev/herdr-app",
+      "repo_id": 1422648476,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-10-31",
+      "meta": {
+        "language": "Rust",
+        "description": "herdr desktop app",
+        "created_at": "2026-10-16T20:36:36Z",
+        "stars": 1042
+      }
+    },
+    {
       "full_name": "hero8152/Infinite-Canvas",
       "repo_id": 1235082631,
       "reasons": [
@@ -32202,6 +32490,20 @@
         "description": "SIA is a Self Improving AI framework to autonomously improve the performance of any AI system (Model / Agent) on a benchmark task.",
         "created_at": "2026-03-25T16:00:10Z",
         "stars": 2162
+      }
+    },
+    {
+      "full_name": "heydamir/unslop",
+      "repo_id": 1438623288,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-10-31",
+      "meta": {
+        "language": "JavaScript",
+        "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+        "created_at": "2026-10-29T15:41:21Z",
+        "stars": 1821
       }
     },
     {
@@ -32902,6 +33204,15 @@
       }
     },
     {
+      "full_name": "hydro-project/infinity",
+      "repo_id": 1209766308,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-10-31",
+      "meta": {}
+    },
+    {
       "full_name": "hyhmrright/brooks-lint",
       "repo_id": 1192608669,
       "reasons": [
@@ -33332,7 +33643,8 @@
       "full_name": "impacifist/Windows-GPU-UNLOCK",
       "repo_id": 1426503435,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-28",
       "meta": {
@@ -33426,7 +33738,8 @@
       "full_name": "indexable-inc/blaze",
       "repo_id": 1426287665,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-28",
       "meta": {
@@ -33549,7 +33862,8 @@
       "full_name": "interplains/Zero-Breach-Toolkit",
       "repo_id": 1433297111,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-28",
       "meta": {
@@ -33796,6 +34110,15 @@
         "created_at": "2026-08-15T14:20:36Z",
         "stars": 1114
       }
+    },
+    {
+      "full_name": "jackc/pgx",
+      "repo_id": 9120526,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-10-31",
+      "meta": {}
     },
     {
       "full_name": "jackwener/OpenCLI",
@@ -34136,6 +34459,20 @@
       }
     },
     {
+      "full_name": "javranking/javranking-extension",
+      "repo_id": 1359600707,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-10-31",
+      "meta": {
+        "language": "TypeScript",
+        "description": "Show all JAV cover and ranking in one click.",
+        "created_at": "2026-09-07T00:19:59Z",
+        "stars": 1002
+      }
+    },
+    {
       "full_name": "jayminwest/overstory",
       "repo_id": 1156351367,
       "reasons": [
@@ -34262,6 +34599,15 @@
       }
     },
     {
+      "full_name": "jenkinsci/jenkins",
+      "repo_id": 1103607,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-10-31",
+      "meta": {}
+    },
+    {
       "full_name": "jephersonRD/Maquina-V5",
       "repo_id": 1147245654,
       "reasons": [
@@ -34302,6 +34648,15 @@
         "created_at": "2026-01-20T08:22:28Z",
         "stars": 1184
       }
+    },
+    {
+      "full_name": "jesseduffield/lazygit",
+      "repo_id": 134017286,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-10-31",
+      "meta": {}
     },
     {
       "full_name": "jev-chat/jev-chat-jarvis",
@@ -35058,7 +35413,8 @@
       "full_name": "juspay/hyperswitch",
       "repo_id": 552877440,
       "reasons": [
-        "trending_recent"
+        "trending_recent",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {}
@@ -35546,6 +35902,15 @@
         "created_at": "2026-01-30T04:14:18Z",
         "stars": 2420
       }
+    },
+    {
+      "full_name": "keycloak/keycloak",
+      "repo_id": 11125589,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-10-31",
+      "meta": {}
     },
     {
       "full_name": "kgoedecke/doop",
@@ -36704,6 +37069,15 @@
       }
     },
     {
+      "full_name": "lemonade-sdk/lemonade",
+      "repo_id": 984341155,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-10-31",
+      "meta": {}
+    },
+    {
       "full_name": "lennney/stop-that-shit",
       "repo_id": 1331079127,
       "reasons": [
@@ -36831,6 +37205,20 @@
       }
     },
     {
+      "full_name": "lexifina/global-law",
+      "repo_id": 1437131455,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-10-31",
+      "meta": {
+        "language": "HTML",
+        "description": "Git for Global Law: the law of every country as one git history, each country's record a submodule, every commit one law taking effect",
+        "created_at": "2026-10-28T13:34:16Z",
+        "stars": 1157
+      }
+    },
+    {
       "full_name": "lexmount/moli",
       "repo_id": 1329849289,
       "reasons": [
@@ -36844,6 +37232,15 @@
         "created_at": "2026-08-10T13:20:30Z",
         "stars": 19590
       }
+    },
+    {
+      "full_name": "lfnovo/open-notebook",
+      "repo_id": 876286167,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-10-31",
+      "meta": {}
     },
     {
       "full_name": "lgse/strata",
@@ -37027,7 +37424,8 @@
       "full_name": "liguobao/ds-harness-remote",
       "repo_id": 1334325657,
       "reasons": [
-        "trending_recent"
+        "trending_recent",
+        "new_star"
       ],
       "first_seen": "2026-10-25",
       "meta": {}
@@ -37200,6 +37598,20 @@
         "description": "Windows 笔记导出与迁移工具：七平台适配、四格式导出、离线阅读，明确验证范围与失败状态。",
         "created_at": "2026-09-08T01:44:22Z",
         "stars": 1005
+      }
+    },
+    {
+      "full_name": "lingyired/status-trio",
+      "repo_id": 1367294837,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-10-31",
+      "meta": {
+        "language": "Swift",
+        "description": "Status Trio — a native macOS app that combines Wi-Fi, battery, and volume into one compact, configurable status icon for the menu bar, the Dock, or both, inspired by the iPhone Duo combined status bar.",
+        "created_at": "2026-09-12T12:52:21Z",
+        "stars": 1075
       }
     },
     {
@@ -38089,7 +38501,8 @@
       "full_name": "magnitudedev/magnitude",
       "repo_id": 1267145484,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {
@@ -39176,6 +39589,20 @@
       }
     },
     {
+      "full_name": "microsoft/TokenEconomizer",
+      "repo_id": 1416442720,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-10-31",
+      "meta": {
+        "language": "Python",
+        "description": "Experience-Driven Black-Box Cost Control for Coding Agents",
+        "created_at": "2026-10-13T04:16:50Z",
+        "stars": 2382
+      }
+    },
+    {
       "full_name": "microsoft/TypeScript",
       "repo_id": 20929025,
       "reasons": [
@@ -39699,6 +40126,20 @@
         "description": "雲の音 — Native macOS NetEase Cloud Music client built with SwiftUI",
         "created_at": "2026-08-16T10:01:52Z",
         "stars": 1159
+      }
+    },
+    {
+      "full_name": "mistralai/timestral",
+      "repo_id": 1420531062,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-10-31",
+      "meta": {
+        "language": "Python",
+        "description": "Repository for Timestral, the time-series foundation model by Mistral AI",
+        "created_at": "2026-10-15T10:20:18Z",
+        "stars": 1006
       }
     },
     {
@@ -40899,6 +41340,15 @@
       }
     },
     {
+      "full_name": "neo4j/neo4j",
+      "repo_id": 6650539,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-10-31",
+      "meta": {}
+    },
+    {
       "full_name": "nesquena/hermes-webui",
       "repo_id": 1196617276,
       "reasons": [
@@ -40916,7 +41366,8 @@
       "full_name": "net-merge/net-merge",
       "repo_id": 1416044960,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-30",
       "meta": {
@@ -41982,7 +42433,8 @@
       "full_name": "nyakang/nyaterm",
       "repo_id": 1222665950,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {
@@ -42810,7 +43262,8 @@
       "full_name": "open-pencil/open-pencil",
       "repo_id": 1168481509,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {
@@ -43388,6 +43841,15 @@
       }
     },
     {
+      "full_name": "openobserve/openobserve",
+      "repo_id": 596377730,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-10-31",
+      "meta": {}
+    },
+    {
       "full_name": "openocta/openocta",
       "repo_id": 1167413446,
       "reasons": [
@@ -43753,6 +44215,15 @@
       }
     },
     {
+      "full_name": "p-e-w/heretic",
+      "repo_id": 1061041576,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-10-31",
+      "meta": {}
+    },
+    {
       "full_name": "p1neappleXpress/OpenFlux",
       "repo_id": 1276362063,
       "reasons": [
@@ -43835,6 +44306,20 @@
         "description": null,
         "created_at": "2026-06-07T19:21:25Z",
         "stars": 1126
+      }
+    },
+    {
+      "full_name": "paipiange/nvzhuang",
+      "repo_id": 1438018242,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-10-31",
+      "meta": {
+        "language": "Go",
+        "description": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
+        "created_at": "2026-10-29T06:08:00Z",
+        "stars": 1437
       }
     },
     {
@@ -44091,6 +44576,20 @@
         "description": "Bypass DPI with IP/TCP-Header manipulation",
         "created_at": "2026-04-12T10:47:30Z",
         "stars": 2801
+      }
+    },
+    {
+      "full_name": "pauljoda/Crest",
+      "repo_id": 1335443418,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-10-31",
+      "meta": {
+        "language": "Swift",
+        "description": "An open source browser for Mac, iPhone, and iPad.",
+        "created_at": "2026-08-15T21:50:11Z",
+        "stars": 1014
       }
     },
     {
@@ -44961,6 +45460,15 @@
       }
     },
     {
+      "full_name": "prisma/orm",
+      "repo_id": 192925833,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-10-31",
+      "meta": {}
+    },
+    {
       "full_name": "processing/p5.js",
       "repo_id": 8424040,
       "reasons": [
@@ -45333,6 +45841,20 @@
         "description": "不用命令行，小白也能轻松玩转 OpenClaw",
         "created_at": "2026-03-28T16:17:01Z",
         "stars": 2801
+      }
+    },
+    {
+      "full_name": "qiz029/dscode",
+      "repo_id": 1365776373,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-10-31",
+      "meta": {
+        "language": "JavaScript",
+        "description": "A DeepSeek coding agent harness: persistent shell, Ultra subagents, auto approval, Chrome MCP and session telemetry",
+        "created_at": "2026-09-11T09:40:02Z",
+        "stars": 1000
       }
     },
     {
@@ -45973,6 +46495,15 @@
       }
     },
     {
+      "full_name": "reisxd/TizenTube",
+      "repo_id": 666132902,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-10-31",
+      "meta": {}
+    },
+    {
       "full_name": "reladraw/reladraw",
       "repo_id": 1360620930,
       "reasons": [
@@ -46072,7 +46603,8 @@
       "full_name": "repowise-dev/repowise",
       "repo_id": 1189384516,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {
@@ -46327,7 +46859,8 @@
       "full_name": "rocketride-org/rocketride-server",
       "repo_id": 1155576139,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {
@@ -46580,6 +47113,15 @@
       }
     },
     {
+      "full_name": "ros-navigation/navigation2",
+      "repo_id": 135363400,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-10-31",
+      "meta": {}
+    },
+    {
       "full_name": "rosemarycox5334-debug/PA_Agent",
       "repo_id": 1243011353,
       "reasons": [
@@ -46782,7 +47324,8 @@
       "full_name": "ruvnet/RuView",
       "repo_id": 997737944,
       "reasons": [
-        "trending_recent"
+        "trending_recent",
+        "fast_riser"
       ],
       "first_seen": "2026-10-28",
       "meta": {}
@@ -47144,6 +47687,15 @@
         "created_at": "2026-08-08T01:53:32Z",
         "stars": 1098
       }
+    },
+    {
+      "full_name": "screenpipe/screenpipe",
+      "repo_id": 817326197,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-10-31",
+      "meta": {}
     },
     {
       "full_name": "scrya-com/rotorquant",
@@ -48361,7 +48913,8 @@
       "full_name": "smicallef/spiderfoot",
       "repo_id": 4165675,
       "reasons": [
-        "trending_recent"
+        "trending_recent",
+        "fast_riser"
       ],
       "first_seen": "2026-10-28",
       "meta": {}
@@ -48874,6 +49427,15 @@
         "trending_recent"
       ],
       "first_seen": "2026-10-24",
+      "meta": {}
+    },
+    {
+      "full_name": "spring-projects/spring-security",
+      "repo_id": 3148979,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-10-31",
       "meta": {}
     },
     {
@@ -49696,6 +50258,15 @@
       "meta": {}
     },
     {
+      "full_name": "sveltejs/svelte",
+      "repo_id": 74293321,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-10-31",
+      "meta": {}
+    },
+    {
       "full_name": "sw33tLie/macshot",
       "repo_id": 1179087934,
       "reasons": [
@@ -49798,7 +50369,8 @@
       "full_name": "syv-ai/HyperQwen",
       "repo_id": 1334946608,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {
@@ -49879,6 +50451,15 @@
         "created_at": "2026-02-23T00:43:05Z",
         "stars": 5011
       }
+    },
+    {
+      "full_name": "tailscale/tailcat",
+      "repo_id": 880414192,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-10-31",
+      "meta": {}
     },
     {
       "full_name": "tailscale/tailscale",
@@ -50841,6 +51422,15 @@
         "created_at": "2026-01-22T19:41:14Z",
         "stars": 2259
       }
+    },
+    {
+      "full_name": "tinygo-org/tinygo",
+      "repo_id": 136505169,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-10-31",
+      "meta": {}
     },
     {
       "full_name": "tinyhumansai/openhuman",
@@ -52013,7 +52603,8 @@
       "full_name": "unslothai/unsloth",
       "repo_id": 725205304,
       "reasons": [
-        "trending_recent"
+        "trending_recent",
+        "fast_riser"
       ],
       "first_seen": "2026-10-27",
       "meta": {}
@@ -52069,6 +52660,15 @@
         "created_at": "2026-09-17T20:52:03Z",
         "stars": 1165
       }
+    },
+    {
+      "full_name": "usebruno/bruno",
+      "repo_id": 542284380,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-10-31",
+      "meta": {}
     },
     {
       "full_name": "usestrix/strix",
@@ -52162,6 +52762,20 @@
         "description": "poc it like it's hot",
         "created_at": "2026-05-13T08:17:58Z",
         "stars": 1124
+      }
+    },
+    {
+      "full_name": "valentderah/totk-pc-recomp",
+      "repo_id": 1438394948,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-10-31",
+      "meta": {
+        "language": "C",
+        "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game files not included.",
+        "created_at": "2026-10-29T12:32:46Z",
+        "stars": 1940
       }
     },
     {
@@ -52924,6 +53538,15 @@
       }
     },
     {
+      "full_name": "vllm-project/semantic-router",
+      "repo_id": 1045247072,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-10-31",
+      "meta": {}
+    },
+    {
       "full_name": "vllm-project/vllm",
       "repo_id": 599547518,
       "reasons": [
@@ -53301,6 +53924,20 @@
       }
     },
     {
+      "full_name": "wangzan101/Mika",
+      "repo_id": 1438540053,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-10-31",
+      "meta": {
+        "language": "Kotlin",
+        "description": "Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that operates apps and the web to get things done for you.",
+        "created_at": "2026-10-29T14:34:07Z",
+        "stars": 1923
+      }
+    },
+    {
       "full_name": "wangziqi06/724-office",
       "repo_id": 1183972690,
       "reasons": [
@@ -53404,7 +54041,8 @@
       "full_name": "wdcpclover/ai4paper",
       "repo_id": 1168792019,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {
@@ -53484,6 +54122,15 @@
         "created_at": "2026-05-22T07:10:04Z",
         "stars": 1750
       }
+    },
+    {
+      "full_name": "webpack/webpack",
+      "repo_id": 3678731,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-10-31",
+      "meta": {}
     },
     {
       "full_name": "webstonehq/tuxedo",
@@ -53739,6 +54386,20 @@
         "description": "ClawTeam fork fully adapted for OpenClaw — multi-agent swarm coordination with OpenClaw as the default agent",
         "created_at": "2026-03-18T09:52:54Z",
         "stars": 1465
+      }
+    },
+    {
+      "full_name": "windows-GPU-UNLOCK/Windows-GPU-UNLOCK",
+      "repo_id": 1426503435,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-10-31",
+      "meta": {
+        "language": "C",
+        "description": "Windows GPU UNLOCK: RTX3090 UEFI port, Korean no-reset Windows boot guide, verified source and benchmark evidence",
+        "created_at": "2026-10-20T04:41:07Z",
+        "stars": 1346
       }
     },
     {
@@ -56452,7 +57113,8 @@
       "full_name": "zhuyansen/awesome-claude-video-skills",
       "repo_id": 1390088311,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-26",
       "meta": {
