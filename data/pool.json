@@ -1,11 +1,11 @@
 {
   "schema_v": 1,
-  "updated_at": "2026-11-02T10:00:20+00:00",
+  "updated_at": "2026-11-03T09:58:36+00:00",
   "stats": {
-    "total": 4351,
+    "total": 4411,
     "by_first_reason": {
-      "new_star": 3738,
-      "trending_recent": 613
+      "new_star": 3767,
+      "trending_recent": 644
     },
     "dropped": 0
   },
@@ -75,6 +75,15 @@
         "created_at": "2026-04-01T15:25:45Z",
         "stars": 7505
       }
+    },
+    {
+      "full_name": "0xJacky/nginx-ui",
+      "repo_id": 340339997,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-03",
+      "meta": {}
     },
     {
       "full_name": "0xMassi/webclaw",
@@ -1337,6 +1346,20 @@
         "description": " An advanced, unified platform for code quality, architectural metrics, and Agile analytics. Features Python AST parsing, Java static analysis (code smells), and interactive project health dashboards built with Streamlit.",
         "created_at": "2026-04-26T13:20:08Z",
         "stars": 1639
+      }
+    },
+    {
+      "full_name": "AhmadHassan-BTed/Coldimail",
+      "repo_id": 1233759638,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-03",
+      "meta": {
+        "language": null,
+        "description": "Intelligent faculty outreach and research matching for prospective graduate applicants",
+        "created_at": "2026-05-09T10:19:19Z",
+        "stars": 5961
       }
     },
     {
@@ -3017,6 +3040,20 @@
       }
     },
     {
+      "full_name": "BookracyFOS/bookracy",
+      "repo_id": 1434463018,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-03",
+      "meta": {
+        "language": "TypeScript",
+        "description": "Free, open-source book search, reader and library.",
+        "created_at": "2026-10-26T14:02:02Z",
+        "stars": 1054
+      }
+    },
+    {
       "full_name": "BrandonKowalski/slot",
       "repo_id": 1328757447,
       "reasons": [
@@ -3057,7 +3094,8 @@
       "full_name": "BryceYuuu/RUN",
       "repo_id": 1438326535,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-11-01",
       "meta": {
@@ -3807,7 +3845,8 @@
       "full_name": "ComputerUseAgent/AutoCua",
       "repo_id": 1410960439,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-11-01",
       "meta": {
@@ -4164,6 +4203,15 @@
         "created_at": "2026-10-26T13:48:11Z",
         "stars": 1140
       }
+    },
+    {
+      "full_name": "D4Vinci/Scrapling",
+      "repo_id": 872119017,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-03",
+      "meta": {}
     },
     {
       "full_name": "DAIR-AutoResearch/AutoSci",
@@ -4761,7 +4809,8 @@
       "full_name": "Djihads80/Eglantine",
       "repo_id": 1437774066,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-11-01",
       "meta": {
@@ -4939,6 +4988,20 @@
         "description": "DroidDeck brings the SteamOS experience to Android",
         "created_at": "2026-09-24T15:14:13Z",
         "stars": 11166
+      }
+    },
+    {
+      "full_name": "Droid-VM/DroidVM",
+      "repo_id": 1180903014,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-03",
+      "meta": {
+        "language": "Java",
+        "description": "Run virtual machine on Android Phones",
+        "created_at": "2026-03-13T14:34:41Z",
+        "stars": 1004
       }
     },
     {
@@ -6734,7 +6797,8 @@
       "full_name": "HD838A/remote-mic-app",
       "repo_id": 1308856749,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {
@@ -7870,7 +7934,8 @@
       "full_name": "Jakeschincariol/trader-skill",
       "repo_id": 1419857441,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-11-01",
       "meta": {
@@ -8454,6 +8519,20 @@
       }
     },
     {
+      "full_name": "KardDev/dsh-plugins",
+      "repo_id": 1427751911,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-03",
+      "meta": {
+        "language": "JavaScript",
+        "description": null,
+        "created_at": "2026-10-21T01:39:43Z",
+        "stars": 1048
+      }
+    },
+    {
       "full_name": "KartikLabhshetwar/better-shot",
       "repo_id": 1132082476,
       "reasons": [
@@ -8871,6 +8950,15 @@
         "created_at": "2026-10-20T18:16:07Z",
         "stars": 1210
       }
+    },
+    {
+      "full_name": "LSPosed/LSPatch",
+      "repo_id": 343535217,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-03",
+      "meta": {}
     },
     {
       "full_name": "LSPosed/LSPosed",
@@ -9306,6 +9394,15 @@
         "created_at": "2026-01-11T23:14:44Z",
         "stars": 1842
       }
+    },
+    {
+      "full_name": "LibreChat-AI/LibreChat",
+      "repo_id": 600596928,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-03",
+      "meta": {}
     },
     {
       "full_name": "LibreSpark/LibreTV",
@@ -10128,6 +10225,20 @@
       }
     },
     {
+      "full_name": "Mastershort/neonplan3d",
+      "repo_id": 1391423600,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-03",
+      "meta": {
+        "language": "TypeScript",
+        "description": "3D floor plan for Home Assistant: draw your home in the built-in editor (rooms, walls, doors, windows, furniture, roof) and see and control lights, covers, windows, climate, media, sensors and cameras live in a neon 3D view – as a sidebar panel and dashboard card.",
+        "created_at": "2026-09-27T21:31:26Z",
+        "stars": 1007
+      }
+    },
+    {
       "full_name": "MatinSenPai/Aether-GUI",
       "repo_id": 1300909192,
       "reasons": [
@@ -10195,6 +10306,20 @@
         "description": "Runescape automation library, optimized for use by coding agents.",
         "created_at": "2026-01-22T17:09:22Z",
         "stars": 1014
+      }
+    },
+    {
+      "full_name": "MaxGramser/homeassistant_espscreen",
+      "repo_id": 1367089920,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-03",
+      "meta": {
+        "language": "Python",
+        "description": "Tessera: beautiful, easy touch screens for Home Assistant on affordable ESP32 panels, 2.8 to 10.1 inch (CYD, Guition, Waveshare). Drag-and-drop editor, no YAML, no MQTT.",
+        "created_at": "2026-09-12T08:05:49Z",
+        "stars": 1006
       }
     },
     {
@@ -10469,7 +10594,8 @@
       "full_name": "Mesh-LLM/mesh-llm",
       "repo_id": 1155025406,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {
@@ -10535,7 +10661,8 @@
       "full_name": "MewX/light-novel-library_Wenku8_Android",
       "repo_id": 25021196,
       "reasons": [
-        "trending_recent"
+        "trending_recent",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {}
@@ -11118,7 +11245,8 @@
       "full_name": "Murea-Labs/InWorld",
       "repo_id": 1416593913,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-11-01",
       "meta": {
@@ -11406,7 +11534,8 @@
       "full_name": "NVIDIA/auto-ontology",
       "repo_id": 1222953295,
       "reasons": [
-        "trending_recent"
+        "trending_recent",
+        "new_star"
       ],
       "first_seen": "2026-10-30",
       "meta": {}
@@ -11890,6 +12019,20 @@
       }
     },
     {
+      "full_name": "NiazMorshed2007/reanimate",
+      "repo_id": 1438029127,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-03",
+      "meta": {
+        "language": "JavaScript",
+        "description": "A Claude Code skill that reverse-engineers any animation frame by frame, then proves the copy moves the same.",
+        "created_at": "2026-10-29T06:20:59Z",
+        "stars": 1008
+      }
+    },
+    {
       "full_name": "Niiiiikiiiiii/McLife-Desk",
       "repo_id": 1413837358,
       "reasons": [
@@ -12056,6 +12199,15 @@
         "created_at": "2026-03-04T03:09:32Z",
         "stars": 3473
       }
+    },
+    {
+      "full_name": "NotHarshhaa/DevOps-Projects",
+      "repo_id": 676377723,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-03",
+      "meta": {}
     },
     {
       "full_name": "NotProtonNot/NotProton",
@@ -14700,6 +14852,20 @@
       }
     },
     {
+      "full_name": "RuoJi6/ARTEX",
+      "repo_id": 1411113692,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-03",
+      "meta": {
+        "language": "Go",
+        "description": "Autumn-27/ARTEX 持续维护开源版本",
+        "created_at": "2026-10-09T00:56:36Z",
+        "stars": 1064
+      }
+    },
+    {
       "full_name": "RuoJi6/audit-skills",
       "repo_id": 1140266390,
       "reasons": [
@@ -15292,7 +15458,8 @@
       "full_name": "Shrey113/Android-Dex",
       "repo_id": 1148143229,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {
@@ -15325,6 +15492,20 @@
       ],
       "first_seen": "2026-10-27",
       "meta": {}
+    },
+    {
+      "full_name": "ShyVortex/dlss-unlocked",
+      "repo_id": 1356886213,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-03",
+      "meta": {
+        "language": "Rich Text Format",
+        "description": "Unlock DLSS Upscaler, Multi-Frame Generation (MFG) and DLSS Neural Rendering features on any NVIDIA RTX GPU in any DirectX 12 game that supports DLSS2 and DLSS3 natively.",
+        "created_at": "2026-09-04T08:19:52Z",
+        "stars": 1008
+      }
     },
     {
       "full_name": "SideloadLabs/EeveeSpotifyReincarnated",
@@ -16373,6 +16554,20 @@
       }
     },
     {
+      "full_name": "Tencent/openclaw-weixin",
+      "repo_id": 1193527047,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-03",
+      "meta": {
+        "language": "TypeScript",
+        "description": null,
+        "created_at": "2026-03-27T10:17:43Z",
+        "stars": 1002
+      }
+    },
+    {
       "full_name": "Tencent/teamai-cli",
       "repo_id": 1222364235,
       "reasons": [
@@ -16532,6 +16727,15 @@
         "created_at": "2026-03-01T05:25:36Z",
         "stars": 4326
       }
+    },
+    {
+      "full_name": "TheNetsky/Microsoft-Rewards-Script",
+      "repo_id": 696211939,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-03",
+      "meta": {}
     },
     {
       "full_name": "TheTom/turboquant_plus",
@@ -16826,6 +17030,15 @@
       }
     },
     {
+      "full_name": "TranslucentTB/TranslucentTB",
+      "repo_id": 78483432,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-03",
+      "meta": {}
+    },
+    {
       "full_name": "TriliumNext/Trilium",
       "repo_id": 92111509,
       "reasons": [
@@ -17075,6 +17288,15 @@
       }
     },
     {
+      "full_name": "ValveSoftware/source-sdk-2013",
+      "repo_id": 10980729,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-03",
+      "meta": {}
+    },
+    {
       "full_name": "VectifyAI/OpenKB",
       "repo_id": 1201253077,
       "reasons": [
@@ -17110,6 +17332,20 @@
         "description": "a terminal weather app with ascii animation",
         "created_at": "2026-02-08T17:52:29Z",
         "stars": 3069
+      }
+    },
+    {
+      "full_name": "Verlintas/NOIR",
+      "repo_id": 1441272552,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-03",
+      "meta": {
+        "language": "Kotlin",
+        "description": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
+        "created_at": "2026-10-31T21:34:39Z",
+        "stars": 1589
       }
     },
     {
@@ -17476,7 +17712,8 @@
       "full_name": "Wei-Shaw/sub2api",
       "repo_id": 1118601518,
       "reasons": [
-        "trending_recent"
+        "trending_recent",
+        "fast_riser"
       ],
       "first_seen": "2026-10-31",
       "meta": {}
@@ -17716,6 +17953,15 @@
         "created_at": "2026-01-08T16:04:40Z",
         "stars": 1006
       }
+    },
+    {
+      "full_name": "XIU2/CloudflareSpeedTest",
+      "repo_id": 291485614,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-03",
+      "meta": {}
     },
     {
       "full_name": "XTLS/Xray-core",
@@ -18474,6 +18720,20 @@
         "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
         "created_at": "2026-01-10T06:43:20Z",
         "stars": 66728
+      }
+    },
+    {
+      "full_name": "ZiChuanLan/agent-purge",
+      "repo_id": 1432883796,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-03",
+      "meta": {
+        "language": "JavaScript",
+        "description": "One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console.",
+        "created_at": "2026-10-25T06:06:02Z",
+        "stars": 1072
       }
     },
     {
@@ -19528,6 +19788,20 @@
       }
     },
     {
+      "full_name": "aicodeking/pandacode",
+      "repo_id": 1423919056,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-03",
+      "meta": {
+        "language": "Rust",
+        "description": "PandaCode: a calm desktop workspace for coding agents",
+        "created_at": "2026-10-18T02:21:29Z",
+        "stars": 1028
+      }
+    },
+    {
       "full_name": "aidanpark/openclaw-android",
       "repo_id": 1155099363,
       "reasons": [
@@ -20055,7 +20329,8 @@
       "full_name": "alexgaoth/awesome-reverse-engineered",
       "repo_id": 1414599291,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-11-01",
       "meta": {
@@ -20635,6 +20910,15 @@
       }
     },
     {
+      "full_name": "andreavolpato/spektrafilm",
+      "repo_id": 928909775,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-03",
+      "meta": {}
+    },
+    {
       "full_name": "andrewjiang/palantir-for-family-trips",
       "repo_id": 1209209260,
       "reasons": [
@@ -20666,7 +20950,8 @@
       "full_name": "andrewyng/openworker",
       "repo_id": 1306128367,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {
@@ -21227,7 +21512,8 @@
       "full_name": "anthropics/skills",
       "repo_id": 1061953414,
       "reasons": [
-        "trending_recent"
+        "trending_recent",
+        "fast_riser"
       ],
       "first_seen": "2026-11-01",
       "meta": {}
@@ -22568,7 +22854,8 @@
       "full_name": "babygoton/WorkDaddy",
       "repo_id": 1338532566,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {
@@ -22615,6 +22902,20 @@
         "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
         "created_at": "2026-06-18T08:40:15Z",
         "stars": 27855
+      }
+    },
+    {
+      "full_name": "bangtutorial/bang-motion",
+      "repo_id": 1358561036,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-03",
+      "meta": {
+        "language": "HTML",
+        "description": "Agent skill for browser motion graphics — openers, promos, bumpers, kinetic typography, and five explainer styles that move like video, not slides. Single index.html output. Works with Claude Code, Codex, Gemini CLI, Cursor.",
+        "created_at": "2026-09-05T21:07:55Z",
+        "stars": 1007
       }
     },
     {
@@ -22869,6 +23170,20 @@
         "description": "The visual feedback tool for agents.",
         "created_at": "2026-01-18T02:01:24Z",
         "stars": 5003
+      }
+    },
+    {
+      "full_name": "benjitaylor/skills",
+      "repo_id": 1433974029,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-03",
+      "meta": {
+        "language": "TypeScript",
+        "description": "Skills for AI coding agents.",
+        "created_at": "2026-10-26T06:08:56Z",
+        "stars": 1095
       }
     },
     {
@@ -23205,6 +23520,15 @@
         "created_at": "2026-01-18T05:30:15Z",
         "stars": 58321
       }
+    },
+    {
+      "full_name": "bleachbit/bleachbit",
+      "repo_id": 17578592,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-03",
+      "meta": {}
     },
     {
       "full_name": "blendi-remade/sprite-sheet-creator",
@@ -24305,6 +24629,20 @@
         "description": "AIにまじなPPTXを作らせる Claude Code / Codex スキル",
         "created_at": "2026-09-02T11:53:05Z",
         "stars": 1182
+      }
+    },
+    {
+      "full_name": "caru-ini/stack-diagram",
+      "repo_id": 1441517767,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-03",
+      "meta": {
+        "language": "TypeScript",
+        "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
+        "created_at": "2026-11-01T05:35:12Z",
+        "stars": 1341
       }
     },
     {
@@ -26445,7 +26783,8 @@
       "full_name": "daeuniverse/honk",
       "repo_id": 1306615848,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-11-01",
       "meta": {
@@ -27002,7 +27341,8 @@
       "full_name": "daveebbelaar/bama",
       "repo_id": 1431986839,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-11-01",
       "meta": {
@@ -27120,7 +27460,8 @@
       "full_name": "ddalcu/mlx-serve",
       "repo_id": 1159656889,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {
@@ -27486,7 +27827,8 @@
       "full_name": "deepseek-ai/dsh-superagent-prototype",
       "repo_id": 1440705679,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-11-01",
       "meta": {
@@ -27617,7 +27959,8 @@
       "full_name": "derv82/wifit3",
       "repo_id": 1275465781,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {
@@ -28694,7 +29037,8 @@
       "full_name": "duty1g/x64dbg-mcp-server",
       "repo_id": 1342886503,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {
@@ -29538,6 +29882,15 @@
         "created_at": "2026-01-31T02:45:07Z",
         "stars": 1596
       }
+    },
+    {
+      "full_name": "eriklindernoren/ML-From-Scratch",
+      "repo_id": 80990461,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-03",
+      "meta": {}
     },
     {
       "full_name": "erincatto/box3d",
@@ -30669,6 +31022,15 @@
       }
     },
     {
+      "full_name": "florinp93/hells-gate-recomp",
+      "repo_id": 1352176972,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-03",
+      "meta": {}
+    },
+    {
       "full_name": "flowable/flowable-engine",
       "repo_id": 70780002,
       "reasons": [
@@ -30769,6 +31131,20 @@
         "description": "Unofficial PC Port of Animal Crossing Gamecube",
         "created_at": "2026-03-09T20:31:09Z",
         "stars": 1505
+      }
+    },
+    {
+      "full_name": "flyngmt/Nookery",
+      "repo_id": 1177228792,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-03",
+      "meta": {
+        "language": "C",
+        "description": "Unofficial Windows/Linux/macOS/Android/iOS Port of Animal Crossing Gamecube",
+        "created_at": "2026-03-09T20:31:09Z",
+        "stars": 1534
       }
     },
     {
@@ -31047,7 +31423,8 @@
       "full_name": "fxgl/steamac",
       "repo_id": 1404241593,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-11-01",
       "meta": {
@@ -31429,6 +31806,15 @@
         "created_at": "2026-03-20T19:31:34Z",
         "stars": 1125
       }
+    },
+    {
+      "full_name": "ghostty-org/ghostty",
+      "repo_id": 475553026,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-03",
+      "meta": {}
     },
     {
       "full_name": "ghostwright/ghost-os",
@@ -31867,6 +32253,15 @@
       }
     },
     {
+      "full_name": "google-ai-edge/LiteRT-LM",
+      "repo_id": 966386486,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-03",
+      "meta": {}
+    },
+    {
       "full_name": "google-antigravity/antigravity-cli",
       "repo_id": 1237979735,
       "reasons": [
@@ -31893,6 +32288,15 @@
         "created_at": "2026-04-29T21:12:19Z",
         "stars": 3790
       }
+    },
+    {
+      "full_name": "google-deepmind/mujoco",
+      "repo_id": 400501136,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-03",
+      "meta": {}
     },
     {
       "full_name": "google-deepmind/science-skills",
@@ -32329,6 +32733,15 @@
       }
     },
     {
+      "full_name": "greensock/GSAP",
+      "repo_id": 5905330,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-03",
+      "meta": {}
+    },
+    {
       "full_name": "greensock/gsap-skills",
       "repo_id": 1172781277,
       "reasons": [
@@ -32509,6 +32922,15 @@
         "created_at": "2026-08-11T17:49:45Z",
         "stars": 1007
       }
+    },
+    {
+      "full_name": "guillaumeblanc/ozz-animation",
+      "repo_id": 41325282,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-03",
+      "meta": {}
     },
     {
       "full_name": "guillaumemeyer/watermarks-remover",
@@ -33059,7 +33481,8 @@
       "full_name": "haydenschmitty/floorplan",
       "repo_id": 1435672472,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-11-01",
       "meta": {
@@ -33442,7 +33865,8 @@
       "full_name": "hieunc229/mailflare",
       "repo_id": 1249703818,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {
@@ -34114,7 +34538,8 @@
       "full_name": "hyprwm/Hyprland",
       "repo_id": 470730648,
       "reasons": [
-        "trending_recent"
+        "trending_recent",
+        "fast_riser"
       ],
       "first_seen": "2026-11-01",
       "meta": {}
@@ -35152,7 +35577,8 @@
       "full_name": "janhq/jan",
       "repo_id": 679506386,
       "reasons": [
-        "trending_recent"
+        "trending_recent",
+        "fast_riser"
       ],
       "first_seen": "2026-11-01",
       "meta": {}
@@ -36124,7 +36550,8 @@
       "full_name": "jrouwe/JoltPhysics",
       "repo_id": 395341383,
       "reasons": [
-        "trending_recent"
+        "trending_recent",
+        "fast_riser"
       ],
       "first_seen": "2026-11-01",
       "meta": {}
@@ -36642,6 +37069,20 @@
       "meta": {}
     },
     {
+      "full_name": "kelai141/dsh-mobile-apk",
+      "repo_id": 1333629201,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-03",
+      "meta": {
+        "language": "Kotlin",
+        "description": "dsh 安卓壳 APK——WebView UI + 内嵌 Termux 运行时快照（解压即跑），为dsh本地运行设计的高性能方案",
+        "created_at": "2026-08-13T23:55:34Z",
+        "stars": 1004
+      }
+    },
+    {
       "full_name": "kellyvv/PhoneClaw",
       "repo_id": 1201495229,
       "reasons": [
@@ -36819,7 +37260,8 @@
       "full_name": "kevinraymond/florilegium",
       "repo_id": 1439430391,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-11-01",
       "meta": {
@@ -37077,6 +37519,15 @@
       "meta": {}
     },
     {
+      "full_name": "kornia/kornia",
+      "repo_id": 145693916,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-03",
+      "meta": {}
+    },
+    {
       "full_name": "kort0881/telegram-proxy-collector",
       "repo_id": 1156078552,
       "reasons": [
@@ -37102,6 +37553,20 @@
         "description": "Agent Skills for Marketing — SEO, Social, Influencer & More. 160+ open-source skills for SEO, content, 40+ page types, paid ads, channels, and strategies. Add project context; get tailored, production-ready output. Cursor, Claude Code, OpenClaw — no lock-in.",
         "created_at": "2026-02-26T06:24:41Z",
         "stars": 1051
+      }
+    },
+    {
+      "full_name": "kota-zo/myspoti",
+      "repo_id": 1418930230,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-03",
+      "meta": {
+        "language": "Kotlin",
+        "description": "Native Android client for Spotify, built with Jetpack Compose",
+        "created_at": "2026-10-14T13:01:34Z",
+        "stars": 1011
       }
     },
     {
@@ -37719,7 +38184,8 @@
       "full_name": "larashero3-dotcom/lieflat-gongwen",
       "repo_id": 1354909737,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {
@@ -38386,7 +38852,8 @@
       "full_name": "lightpanda-io/browser",
       "repo_id": 598667202,
       "reasons": [
-        "trending_recent"
+        "trending_recent",
+        "fast_riser"
       ],
       "first_seen": "2026-11-01",
       "meta": {}
@@ -38957,6 +39424,20 @@
       ],
       "first_seen": "2026-10-25",
       "meta": {}
+    },
+    {
+      "full_name": "lonewolf0622/HelixSR",
+      "repo_id": 1405556861,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-03",
+      "meta": {
+        "language": null,
+        "description": "Drop-in FSR 3.1 upscaler for Direct3D 12 that runs DLSS's network (Model E) on AMD GPUs",
+        "created_at": "2026-10-05T10:19:07Z",
+        "stars": 1005
+      }
     },
     {
       "full_name": "longbridge/gpui-kit",
@@ -39645,7 +40126,8 @@
       "full_name": "man15h/tellyscope",
       "repo_id": 1430208916,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-11-01",
       "meta": {
@@ -39674,7 +40156,8 @@
       "full_name": "mandiant/flare-learning-hub",
       "repo_id": 1185620041,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {
@@ -40068,6 +40551,15 @@
       }
     },
     {
+      "full_name": "mayswind/ezbookkeeping",
+      "repo_id": 304836585,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-03",
+      "meta": {}
+    },
+    {
       "full_name": "mayukh4/linux-android",
       "repo_id": 1170184328,
       "reasons": [
@@ -40232,6 +40724,15 @@
         "created_at": "2026-02-04T04:25:33Z",
         "stars": 5800
       }
+    },
+    {
+      "full_name": "memvid/memvid",
+      "repo_id": 991431142,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-03",
+      "meta": {}
     },
     {
       "full_name": "mengjian-github/openclaw101",
@@ -41001,6 +41502,20 @@
       }
     },
     {
+      "full_name": "mikroverk/esp32sim",
+      "repo_id": 1345842700,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-03",
+      "meta": {
+        "language": "Rust",
+        "description": "Open-source ESP32 emulator. Run real firmware locally or in your browser — no hardware, no cloud, no subscription.",
+        "created_at": "2026-08-25T07:51:17Z",
+        "stars": 1020
+      }
+    },
+    {
       "full_name": "mikubaka88/CCFA-Skills",
       "repo_id": 1259058888,
       "reasons": [
@@ -41445,6 +41960,20 @@
       "meta": {}
     },
     {
+      "full_name": "modelflare-ai/AnyModelBot",
+      "repo_id": 1435475558,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-03",
+      "meta": {
+        "language": "TypeScript",
+        "description": "🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM and 70+ more through one Modelflare key. Reach them in the app, WeChat or Feishu; they remember you, work in the background, run commands and use your computer. Pay per use.",
+        "created_at": "2026-10-27T08:51:18Z",
+        "stars": 1996
+      }
+    },
+    {
       "full_name": "modem-dev/hunk",
       "repo_id": 1184626912,
       "reasons": [
@@ -41700,6 +42229,15 @@
         "created_at": "2026-03-31T22:07:01Z",
         "stars": 3065
       }
+    },
+    {
+      "full_name": "motiondivision/motion",
+      "repo_id": 157846876,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-03",
+      "meta": {}
     },
     {
       "full_name": "mozilla-ai/cq",
@@ -42124,7 +42662,8 @@
       "full_name": "n8n-io/n8n",
       "repo_id": 193215554,
       "reasons": [
-        "trending_recent"
+        "trending_recent",
+        "fast_riser"
       ],
       "first_seen": "2026-11-01",
       "meta": {}
@@ -43925,7 +44464,8 @@
       "full_name": "omnimind-ai/OmniInfer",
       "repo_id": 1187180897,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-22",
       "meta": {
@@ -45132,6 +45672,15 @@
       }
     },
     {
+      "full_name": "oraios/serena",
+      "repo_id": 953683578,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-03",
+      "meta": {}
+    },
+    {
       "full_name": "orange2ai/renwei-writing",
       "repo_id": 1267797347,
       "reasons": [
@@ -45653,7 +46202,8 @@
       "full_name": "patch-gg/pixelfx",
       "repo_id": 1439372976,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-11-01",
       "meta": {
@@ -45662,6 +46212,15 @@
         "created_at": "2026-10-30T06:43:25Z",
         "stars": 1848
       }
+    },
+    {
+      "full_name": "patchy631/ai-engineering-hub",
+      "repo_id": 876064934,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-03",
+      "meta": {}
     },
     {
       "full_name": "patchy631/time-to-first-token",
@@ -45870,7 +46429,8 @@
       "full_name": "peetzweg/opendisplay",
       "repo_id": 1264883757,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {
@@ -46690,6 +47250,15 @@
       }
     },
     {
+      "full_name": "poteto/hiring-without-whiteboards",
+      "repo_id": 85031442,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-03",
+      "meta": {}
+    },
+    {
       "full_name": "prisma/orm",
       "repo_id": 192925833,
       "reasons": [
@@ -46875,6 +47444,15 @@
       }
     },
     {
+      "full_name": "public-apis/public-apis",
+      "repo_id": 54346799,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-03",
+      "meta": {}
+    },
+    {
       "full_name": "public-clis/bilibili-cli",
       "repo_id": 1172405518,
       "reasons": [
@@ -46980,6 +47558,15 @@
         "trending_recent"
       ],
       "first_seen": "2026-10-19",
+      "meta": {}
+    },
+    {
+      "full_name": "python/cpython",
+      "repo_id": 81598961,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-03",
       "meta": {}
     },
     {
@@ -47284,6 +47871,20 @@
       "meta": {}
     },
     {
+      "full_name": "ranxi2001/zero2Agent",
+      "repo_id": 1193444422,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-03",
+      "meta": {
+        "language": "Python",
+        "description": "面向大厂Agent研发岗位求职的agent教程网站，涵盖技术路线与面试八股文",
+        "created_at": "2026-03-27T08:25:00Z",
+        "stars": 1002
+      }
+    },
+    {
       "full_name": "ranxianglei/billion-context",
       "repo_id": 1324949198,
       "reasons": [
@@ -47367,6 +47968,15 @@
         "created_at": "2026-03-04T10:37:00Z",
         "stars": 1091
       }
+    },
+    {
+      "full_name": "rasonyang/ai-native-callcenter",
+      "repo_id": 1331444342,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-03",
+      "meta": {}
     },
     {
       "full_name": "raullenchai/Rapid-MLX",
@@ -48546,6 +49156,20 @@
       }
     },
     {
+      "full_name": "rushiranpise/morphe-patches",
+      "repo_id": 1255669474,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-03",
+      "meta": {
+        "language": "Kotlin",
+        "description": "New mask, same task.                                                                 All patches answer to Doom.",
+        "created_at": "2026-06-01T04:15:09Z",
+        "stars": 1002
+      }
+    },
+    {
       "full_name": "russellromney/honker",
       "repo_id": 1214645274,
       "reasons": [
@@ -49633,7 +50257,8 @@
       "full_name": "showheyohtaki/motion-prompt",
       "repo_id": 1418805110,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-11-01",
       "meta": {
@@ -49728,6 +50353,15 @@
         "created_at": "2026-01-14T17:48:09Z",
         "stars": 47933
       }
+    },
+    {
+      "full_name": "siddharthvaddem/openscreen",
+      "repo_id": 1073433866,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-03",
+      "meta": {}
     },
     {
       "full_name": "siddsachar/row-bot",
@@ -49856,7 +50490,8 @@
       "full_name": "simonlin1212/a-stock-data",
       "repo_id": 1235056479,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {
@@ -50733,7 +51368,8 @@
       "full_name": "spotify/portal-ai-plugins",
       "repo_id": 1310374568,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {
@@ -52288,6 +52924,15 @@
       "meta": {}
     },
     {
+      "full_name": "termux/termux-api",
+      "repo_id": 38464245,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-03",
+      "meta": {}
+    },
+    {
       "full_name": "termux/termux-app",
       "repo_id": 44804216,
       "reasons": [
@@ -52537,6 +53182,20 @@
         "description": "Claude Code skill：把内容套进内置手绘画风配方,产出可直接复制的生图提示词。内置儿童涂色/极简线条/蜡笔童涂/吉卜力/小豆人涂鸦 5 种已验证画风。",
         "created_at": "2026-06-28T15:35:13Z",
         "stars": 2456
+      }
+    },
+    {
+      "full_name": "threerocks/sweety-handdraw-video",
+      "repo_id": 1415556604,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-03",
+      "meta": {
+        "language": "JavaScript",
+        "description": "从主题或文章制作完整手绘讲解视频：按部位描线、逐字书写、VoiceStudio 配音、五项内置制作依赖。",
+        "created_at": "2026-10-12T12:16:18Z",
+        "stars": 1003
       }
     },
     {
@@ -54038,6 +54697,15 @@
       }
     },
     {
+      "full_name": "upscayl/upscayl",
+      "repo_id": 519577891,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-03",
+      "meta": {}
+    },
+    {
       "full_name": "urfave/cli",
       "repo_id": 11393110,
       "reasons": [
@@ -54766,6 +55434,20 @@
         "description": "Turn meetings into live agent loops. Record, transcribe, and analyze meetings with real-time AI intelligence — before, during, and after calls.",
         "created_at": "2026-02-25T12:05:19Z",
         "stars": 1558
+      }
+    },
+    {
+      "full_name": "viettranx/3dviz-pro-max",
+      "repo_id": 1363399964,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-03",
+      "meta": {
+        "language": "JavaScript",
+        "description": "Agent skill for creative 3D visualization: turn an idea into a Three.js/Blender scene worth exploring. Claude Code + Codex plugin, 223 recipes, 440 knowledge records, 22 proved kits, 37 runnable studies.",
+        "created_at": "2026-09-10T01:42:59Z",
+        "stars": 1007
       }
     },
     {
@@ -56030,6 +56712,20 @@
       }
     },
     {
+      "full_name": "worldbench/DiffusionOPSD",
+      "repo_id": 1316298951,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-03",
+      "meta": {
+        "language": "Python",
+        "description": "🔥 On-Policy Self-Distillation in Diffusion Models",
+        "created_at": "2026-07-29T15:40:30Z",
+        "stars": 1005
+      }
+    },
+    {
       "full_name": "wouterdebie/davit",
       "repo_id": 1289364610,
       "reasons": [
@@ -56885,6 +57581,20 @@
       }
     },
     {
+      "full_name": "xvirobotics/metabot",
+      "repo_id": 1152181595,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-03",
+      "meta": {
+        "language": "TypeScript",
+        "description": "构建受监督的、自我进化的 Agent 组织的基础设施 | Infrastructure for supervised, self-improving agent organization. 飞书/Telegram 手机端运行 Claude Code 或 Kimi Code（双引擎，两家原生订阅直接用），共享记忆、Agent 工厂、定时任务、通信总线。",
+        "created_at": "2026-02-07T13:44:14Z",
+        "stars": 1001
+      }
+    },
+    {
       "full_name": "xweiba/location-spoofer",
       "repo_id": 1321016011,
       "reasons": [
@@ -57637,7 +58347,8 @@
       "full_name": "ys-ll/uniterm",
       "repo_id": 1235467345,
       "reasons": [
-        "trending_recent"
+        "trending_recent",
+        "new_star"
       ],
       "first_seen": "2026-10-23",
       "meta": {}
@@ -57828,6 +58539,20 @@
         "description": "一款面向 Android +Windows 双端聚合网盘解析与管理软件，目前支持16家主流网盘解析",
         "created_at": "2026-09-19T05:55:03Z",
         "stars": 1101
+      }
+    },
+    {
+      "full_name": "z91772524-ai/pojia-next",
+      "repo_id": 1374412145,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-03",
+      "meta": {
+        "language": "Python",
+        "description": "三个 AI 客户端的内置提示词一键替换：DSH / WorkBuddy / ZCode。双击即用、可自证、改前备份、一键还原。v8.29：卡片式界面、登录强制激活码、DSH 插件自动注入、官方群验证。免装 Python 单文件 exe，完全免费开源。",
+        "created_at": "2026-09-17T12:36:10Z",
+        "stars": 1014
       }
     },
     {
