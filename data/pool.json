@@ -1,11 +1,11 @@
 {
   "schema_v": 1,
-  "updated_at": "2026-11-03T09:58:36+00:00",
+  "updated_at": "2026-11-04T09:42:20+00:00",
   "stats": {
-    "total": 4411,
+    "total": 4458,
     "by_first_reason": {
-      "new_star": 3767,
-      "trending_recent": 644
+      "new_star": 3794,
+      "trending_recent": 664
     },
     "dropped": 0
   },
@@ -675,6 +675,20 @@
         "description": "A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.",
         "created_at": "2026-10-21T11:11:57Z",
         "stars": 1007
+      }
+    },
+    {
+      "full_name": "ADWMC/helm-d",
+      "repo_id": 1334304098,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-04",
+      "meta": {
+        "language": "TypeScript",
+        "description": "DeepSeek Harness 破甲一体化安全分析插件：Android · Web · Native · Protocol · Malware · AI-Security 全领域聚合（9 bundle + 1 preset）",
+        "created_at": "2026-08-14T15:09:38Z",
+        "stars": 1030
       }
     },
     {
@@ -1352,7 +1366,8 @@
       "full_name": "AhmadHassan-BTed/Coldimail",
       "repo_id": 1233759638,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-11-03",
       "meta": {
@@ -1958,6 +1973,15 @@
       "meta": {}
     },
     {
+      "full_name": "AndroidCSOfficial/android-code-studio",
+      "repo_id": 1064071160,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-04",
+      "meta": {}
+    },
+    {
       "full_name": "AndroidIDEOfficial/AndroidIDE",
       "repo_id": 387801795,
       "reasons": [
@@ -2204,7 +2228,8 @@
       "full_name": "Arjun-Ingole/hop",
       "repo_id": 1440160468,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-11-02",
       "meta": {
@@ -2643,7 +2668,8 @@
       "full_name": "BaaRai/ARTEX",
       "repo_id": 1410961834,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-11-02",
       "meta": {
@@ -3232,6 +3258,15 @@
       }
     },
     {
+      "full_name": "CNCKitchen/ScanRuler",
+      "repo_id": 1333252617,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-04",
+      "meta": {}
+    },
+    {
       "full_name": "CNCKitchen/stlTexturizer",
       "repo_id": 1184260351,
       "reasons": [
@@ -3414,6 +3449,20 @@
         "description": "Beautiful, open source, WebGPU-based charting library",
         "created_at": "2026-01-17T00:52:00Z",
         "stars": 3255
+      }
+    },
+    {
+      "full_name": "ChatCut-Inc/agent-plugin",
+      "repo_id": 1280129499,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-04",
+      "meta": {
+        "language": "JavaScript",
+        "description": "Plugin for agents to interact with Chatcut",
+        "created_at": "2026-06-25T09:45:29Z",
+        "stars": 1000
       }
     },
     {
@@ -3703,6 +3752,20 @@
         "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 50+ tests passed.",
         "created_at": "2026-02-22T08:09:57Z",
         "stars": 32310
+      }
+    },
+    {
+      "full_name": "CloakHQ/CloakBrowser-Manager",
+      "repo_id": 1178490874,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-04",
+      "meta": {
+        "language": "Python",
+        "description": "Web-based browser profile manager for CloakBrowser — create, launch, and manage isolated browser profiles with unique fingerprints. Free, self-hosted   Multilogin alternative",
+        "created_at": "2026-03-11T04:24:38Z",
+        "stars": 1001
       }
     },
     {
@@ -4194,7 +4257,8 @@
       "full_name": "D3voz/openjutsu",
       "repo_id": 1434445560,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-11-02",
       "meta": {
@@ -4480,6 +4544,15 @@
         "created_at": "2026-07-16T13:38:20Z",
         "stars": 5018
       }
+    },
+    {
+      "full_name": "DavidHDev/react-bits",
+      "repo_id": 838695230,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-04",
+      "meta": {}
     },
     {
       "full_name": "DeadWaveWave/opencove",
@@ -5033,6 +5106,15 @@
         "created_at": "2026-07-18T20:41:24Z",
         "stars": 13744
       }
+    },
+    {
+      "full_name": "Duecki1/CalibRaw",
+      "repo_id": 1299682787,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-04",
+      "meta": {}
     },
     {
       "full_name": "EEliberto/Pastel-macOS",
@@ -5711,7 +5793,8 @@
       "full_name": "FareedKhan-dev/kimi-k3-in-c",
       "repo_id": 1319154759,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {
@@ -7019,7 +7102,8 @@
       "full_name": "HRuiCcc/RuiC-PoseAtlas",
       "repo_id": 1436721854,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-11-02",
       "meta": {
@@ -7301,6 +7385,20 @@
       }
     },
     {
+      "full_name": "HeyChengC/vibe-knowledge-film",
+      "repo_id": 1407571878,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-04",
+      "meta": {
+        "language": "JavaScript",
+        "description": "抖音爆款Vibe知识大赏知识短片skill，深度拆解爆款视频，复刻画风，导演分镜表，自动配音效，一键出片",
+        "created_at": "2026-10-06T15:53:56Z",
+        "stars": 1020
+      }
+    },
+    {
       "full_name": "HeyPuter/everything",
       "repo_id": 1417456983,
       "reasons": [
@@ -7524,6 +7622,20 @@
         "description": "Open Source Speech Language Model",
         "created_at": "2026-03-07T18:47:16Z",
         "stars": 1020
+      }
+    },
+    {
+      "full_name": "HunYiSage/dsh-purge",
+      "repo_id": 1339256252,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-04",
+      "meta": {
+        "language": "JavaScript",
+        "description": "DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分",
+        "created_at": "2026-08-19T07:41:12Z",
+        "stars": 17531
       }
     },
     {
@@ -8153,7 +8265,8 @@
       "full_name": "JiaFeiMiao-K-Cat/DiscImageStudio",
       "repo_id": 1343344945,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-11-02",
       "meta": {
@@ -8463,6 +8576,20 @@
       }
     },
     {
+      "full_name": "KKKKhazix/agent-autoloop",
+      "repo_id": 1443985070,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-04",
+      "meta": {
+        "language": "TypeScript",
+        "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+        "created_at": "2026-11-03T08:02:11Z",
+        "stars": 1697
+      }
+    },
+    {
       "full_name": "KKKKhazix/human-writing",
       "repo_id": 1323511527,
       "reasons": [
@@ -8587,6 +8714,15 @@
         "created_at": "2026-06-15T19:13:22Z",
         "stars": 1001
       }
+    },
+    {
+      "full_name": "Keeperorowner/NagramXF",
+      "repo_id": 1024401850,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-04",
+      "meta": {}
     },
     {
       "full_name": "Kelsidavis/WoWee",
@@ -9468,6 +9604,20 @@
         "description": "AI 驱动的学术论文配图生成平台。上传论文 → AI 分析内容生成 Prompt → 一键生成高质量科研配图，还有配套的skill可在主流agent中使用",
         "created_at": "2026-03-01T10:25:27Z",
         "stars": 2670
+      }
+    },
+    {
+      "full_name": "Lijiaxin0111/Open-d4rt",
+      "repo_id": 1227034616,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-04",
+      "meta": {
+        "language": "Python",
+        "description": null,
+        "created_at": "2026-05-02T05:51:08Z",
+        "stars": 1005
       }
     },
     {
@@ -11535,7 +11685,8 @@
       "repo_id": 1222953295,
       "reasons": [
         "trending_recent",
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-30",
       "meta": {}
@@ -12019,6 +12170,20 @@
       }
     },
     {
+      "full_name": "Neywa-Labs/nativ",
+      "repo_id": 1306758289,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-04",
+      "meta": {
+        "language": "Swift",
+        "description": "Nativ is an open-source local AI app for Mac. It runs open AI models on Apple Silicon, and nothing leaves your Mac.",
+        "created_at": "2026-07-20T15:37:29Z",
+        "stars": 1573
+      }
+    },
+    {
       "full_name": "NiazMorshed2007/reanimate",
       "repo_id": 1438029127,
       "reasons": [
@@ -12454,6 +12619,20 @@
       }
     },
     {
+      "full_name": "Oleafly/Oleafly",
+      "repo_id": 1289704847,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-04",
+      "meta": {
+        "language": "TypeScript",
+        "description": "LaTeX and Typst editor with live collaboration and AI agents. Open-source IDE and Overleaf alternative for Mac, Windows and Linux.",
+        "created_at": "2026-07-05T05:09:48Z",
+        "stars": 1002
+      }
+    },
+    {
       "full_name": "Ontos-AI/knowhere",
       "repo_id": 1225188401,
       "reasons": [
@@ -12587,6 +12766,20 @@
         "description": "Open-source AI agent desktop app for Windows & macOS. One-click install Claude Code, MCP tools, and Skills — with sandbox isolation, multi-model support, and Feishu/Slack integration.",
         "created_at": "2026-01-13T16:43:05Z",
         "stars": 2219
+      }
+    },
+    {
+      "full_name": "OpenDCAI/GameFactory-3A",
+      "repo_id": 1290774731,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-04",
+      "meta": {
+        "language": "Python",
+        "description": "A comprehensive open-source 3A game-generation skill and asset framework.",
+        "created_at": "2026-07-06T08:21:41Z",
+        "stars": 1003
       }
     },
     {
@@ -12814,6 +13007,20 @@
       ],
       "first_seen": "2026-10-25",
       "meta": {}
+    },
+    {
+      "full_name": "OpenSelena/omniget",
+      "repo_id": 1293138603,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-04",
+      "meta": {
+        "language": "Rust",
+        "description": "Open-source download manager for courses (Udemy/Hotmart), YouTube, music & 1,800+ sites. Built with Tauri 2.0, Rust & Svelte.",
+        "created_at": "2026-07-08T06:17:59Z",
+        "stars": 2096
+      }
     },
     {
       "full_name": "OpenSenseNova/SenseNova-Skills",
@@ -13452,6 +13659,20 @@
       }
     },
     {
+      "full_name": "Pika-Labs/Pika-H3-Flex",
+      "repo_id": 1438724252,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-04",
+      "meta": {
+        "language": "Python",
+        "description": "Pika H3 Flex: video and audio generation inference",
+        "created_at": "2026-10-29T17:08:59Z",
+        "stars": 1494
+      }
+    },
+    {
       "full_name": "Pika-Labs/Pika-Skills",
       "repo_id": 1197919927,
       "reasons": [
@@ -13493,6 +13714,15 @@
         "created_at": "2026-07-24T07:28:41Z",
         "stars": 2588
       }
+    },
+    {
+      "full_name": "PixarAnimationStudios/OpenUSD",
+      "repo_id": 58168143,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-04",
+      "meta": {}
     },
     {
       "full_name": "Player-YN/BrowserKitten",
@@ -16686,7 +16916,8 @@
       "full_name": "The-PR-Agent/pr-agent",
       "repo_id": 662766482,
       "reasons": [
-        "trending_recent"
+        "trending_recent",
+        "fast_riser"
       ],
       "first_seen": "2026-11-02",
       "meta": {}
@@ -17102,6 +17333,15 @@
         "created_at": "2026-02-12T20:54:53Z",
         "stars": 1866
       }
+    },
+    {
+      "full_name": "UE4SS-RE/RE-UE4SS",
+      "repo_id": 561442199,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-04",
+      "meta": {}
     },
     {
       "full_name": "UditAkhourii/adhd",
@@ -18288,6 +18528,20 @@
       }
     },
     {
+      "full_name": "Yu9191/wloc",
+      "repo_id": 1278830624,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-04",
+      "meta": {
+        "language": "JavaScript",
+        "description": "修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位",
+        "created_at": "2026-06-24T06:15:30Z",
+        "stars": 10379
+      }
+    },
+    {
       "full_name": "YuJunZhiXue/dsh-purge",
       "repo_id": 1339256252,
       "reasons": [
@@ -18803,6 +19057,20 @@
       "meta": {}
     },
     {
+      "full_name": "Zyrexnn/Cybermes",
+      "repo_id": 1339614046,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-04",
+      "meta": {
+        "language": "Python",
+        "description": "Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning skills, and multi-model LLM orchestration.",
+        "created_at": "2026-08-19T13:25:08Z",
+        "stars": 1003
+      }
+    },
+    {
       "full_name": "ZzzLc0405/photo-abstract-editorial",
       "repo_id": 1322768766,
       "reasons": [
@@ -18953,7 +19221,8 @@
       "full_name": "abue-ammar/tinycast",
       "repo_id": 1284153858,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {
@@ -19192,6 +19461,15 @@
         "created_at": "2026-01-22T08:18:47Z",
         "stars": 1189
       }
+    },
+    {
+      "full_name": "adityatandon15/Low-Level-Design-Course",
+      "repo_id": 938856534,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-04",
+      "meta": {}
     },
     {
       "full_name": "adminsyspro/proxcenter-ui",
@@ -19654,6 +19932,20 @@
         "description": "A structured course built from personal study notes of the book Linux Basics for Hackers by OccupyTheWeb.",
         "created_at": "2026-05-09T21:29:32Z",
         "stars": 1833
+      }
+    },
+    {
+      "full_name": "ahujasid/camera-to-blender",
+      "repo_id": 1355833393,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-04",
+      "meta": {
+        "language": "JavaScript",
+        "description": "Take a photo of real objects, and paste them in Blender",
+        "created_at": "2026-09-03T10:34:30Z",
+        "stars": 1224
       }
     },
     {
@@ -22109,6 +22401,15 @@
       "meta": {}
     },
     {
+      "full_name": "aria2/aria2",
+      "repo_id": 1116542,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-04",
+      "meta": {}
+    },
+    {
       "full_name": "arjun988/blender-skills",
       "repo_id": 1289817225,
       "reasons": [
@@ -23451,6 +23752,20 @@
       "meta": {}
     },
     {
+      "full_name": "bitjaru/styleseed",
+      "repo_id": 1203405919,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-04",
+      "meta": {
+        "language": "JavaScript",
+        "description": "Open-source design-method engine for Claude Code, Codex & Cursor. One agent skill with 22 internal workflows for fixed design judgment, multiple grammars, semantic palettes, reference compilation, and evidence-verified UI. MIT.",
+        "created_at": "2026-04-07T02:32:20Z",
+        "stars": 1000
+      }
+    },
+    {
       "full_name": "bjarneo/cliamp",
       "repo_id": 1165453205,
       "reasons": [
@@ -23888,7 +24203,8 @@
       "full_name": "bregman-arie/devops-exercises",
       "repo_id": 212639071,
       "reasons": [
-        "trending_recent"
+        "trending_recent",
+        "fast_riser"
       ],
       "first_seen": "2026-11-02",
       "meta": {}
@@ -24091,6 +24407,20 @@
         "description": "302 open exercise illustrations and a framework-neutral npm package by Bryl Lim",
         "created_at": "2026-08-24T02:14:20Z",
         "stars": 1367
+      }
+    },
+    {
+      "full_name": "bubblesonchain/8lackout",
+      "repo_id": 1286383656,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-04",
+      "meta": {
+        "language": "Rust",
+        "description": "Offline-first resilience network for blackouts and disasters - phone mesh, on-device Claude, Solana proof.",
+        "created_at": "2026-07-01T18:15:44Z",
+        "stars": 1055
       }
     },
     {
@@ -25681,7 +26011,8 @@
       "full_name": "cloudflare/nimbus",
       "repo_id": 1294964139,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {
@@ -27259,6 +27590,20 @@
       }
     },
     {
+      "full_name": "datawhalechina/agentic-rl-lab",
+      "repo_id": 1290768088,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-04",
+      "meta": {
+        "language": "Python",
+        "description": "Reproducing and studying RL algorithms for LLM agents, including GRPO, GSPO, DAPO, OPD, Search-R1, ReTool, ALFWorld and beyond.",
+        "created_at": "2026-07-06T08:14:15Z",
+        "stars": 1118
+      }
+    },
+    {
       "full_name": "datawhalechina/deepagents-in-action",
       "repo_id": 1229618308,
       "reasons": [
@@ -27531,6 +27876,15 @@
       }
     },
     {
+      "full_name": "debezium/debezium",
+      "repo_id": 50205233,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-04",
+      "meta": {}
+    },
+    {
       "full_name": "debpalash/VoiceStudio",
       "repo_id": 1206390571,
       "reasons": [
@@ -27600,6 +27954,20 @@
         "description": "Bridge Feishu/Lark to AI coding CLIs — Claude Code, Codex, Gemini, OpenCode… every DM, group or topic spawns its own live-streaming CLI session",
         "created_at": "2026-03-11T16:59:54Z",
         "stars": 1694
+      }
+    },
+    {
+      "full_name": "deepfounder-ai/desigma",
+      "repo_id": 1413789019,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-04",
+      "meta": {
+        "language": "Rust",
+        "description": "Free Figma alternative made on Rust",
+        "created_at": "2026-10-11T00:26:12Z",
+        "stars": 1030
       }
     },
     {
@@ -28456,6 +28824,20 @@
       "meta": {}
     },
     {
+      "full_name": "dmellok/tesserae",
+      "repo_id": 1248940745,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-04",
+      "meta": {
+        "language": "Python",
+        "description": "E-ink dashboard companion. Compose dashboards in a browser, render server-side, and push to e-ink panels over REST or MQTT.",
+        "created_at": "2026-05-25T07:37:15Z",
+        "stars": 1000
+      }
+    },
+    {
       "full_name": "dmlc/xgboost",
       "repo_id": 16587283,
       "reasons": [
@@ -28609,6 +28991,15 @@
         "created_at": "2026-04-02T01:49:14Z",
         "stars": 1308
       }
+    },
+    {
+      "full_name": "doitsujin/dxvk",
+      "repo_id": 106558568,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-04",
+      "meta": {}
     },
     {
       "full_name": "dominikmartn/nothing-design-skill",
@@ -29579,7 +29970,8 @@
       "full_name": "elvarofficial/teardown",
       "repo_id": 1439522537,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-11-02",
       "meta": {
@@ -30749,6 +31141,20 @@
       }
     },
     {
+      "full_name": "fif7y/dimble",
+      "repo_id": 1340761570,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-04",
+      "meta": {
+        "language": "Swift",
+        "description": "A calm menu bar, done the native way. Hides the icons you don't need until you do.",
+        "created_at": "2026-08-20T13:57:48Z",
+        "stars": 1039
+      }
+    },
+    {
       "full_name": "fikrikarim/parlor",
       "repo_id": 1202171123,
       "reasons": [
@@ -30968,6 +31374,15 @@
         "created_at": "2026-09-03T00:12:32Z",
         "stars": 1394
       }
+    },
+    {
+      "full_name": "fleetbase/fleetbase",
+      "repo_id": 540371158,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-04",
+      "meta": {}
     },
     {
       "full_name": "fleetdm/fleet",
@@ -32965,7 +33380,8 @@
       "full_name": "guohuiyuan/go-music-dl",
       "repo_id": 1136941149,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {
@@ -33525,7 +33941,8 @@
       "full_name": "heartleo/zlib",
       "repo_id": 1206531299,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {
@@ -34472,7 +34889,8 @@
       "full_name": "hydro-project/infinity",
       "repo_id": 1209766308,
       "reasons": [
-        "trending_recent"
+        "trending_recent",
+        "fast_riser"
       ],
       "first_seen": "2026-10-31",
       "meta": {}
@@ -35406,6 +35824,20 @@
       "meta": {}
     },
     {
+      "full_name": "jacke-pp/open-yoki",
+      "repo_id": 1436834115,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-04",
+      "meta": {
+        "language": "JavaScript",
+        "description": "An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X",
+        "created_at": "2026-10-28T08:58:27Z",
+        "stars": 1072
+      }
+    },
+    {
       "full_name": "jackwener/OpenCLI",
       "repo_id": 1181982220,
       "reasons": [
@@ -35892,6 +36324,15 @@
         "trending_recent"
       ],
       "first_seen": "2026-10-22",
+      "meta": {}
+    },
+    {
+      "full_name": "jellyfin/jellyfin-desktop",
+      "repo_id": 354476107,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-04",
       "meta": {}
     },
     {
@@ -36989,6 +37430,15 @@
         "created_at": "2026-03-14T20:45:40Z",
         "stars": 2030
       }
+    },
+    {
+      "full_name": "karpathy/nanochat",
+      "repo_id": 1075431749,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-04",
+      "meta": {}
     },
     {
       "full_name": "kasothaphie/GenRecon",
@@ -38214,7 +38664,8 @@
       "full_name": "larashero3-dotcom/writing-dna-skill",
       "repo_id": 1282265183,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {
@@ -39450,6 +39901,20 @@
       "meta": {}
     },
     {
+      "full_name": "longbridge/nsh",
+      "repo_id": 1419211419,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-04",
+      "meta": {
+        "language": "Rust",
+        "description": "Native Shell is a native UI framework for iOS, Android, macOS, Windows, Linux and the web, built in Rust.",
+        "created_at": "2026-10-14T14:59:36Z",
+        "stars": 1069
+      }
+    },
+    {
       "full_name": "loopx-project/loopx",
       "repo_id": 1255217938,
       "reasons": [
@@ -40035,7 +40500,8 @@
       "full_name": "maillab/cloud-mail",
       "repo_id": 971999086,
       "reasons": [
-        "trending_recent"
+        "trending_recent",
+        "fast_riser"
       ],
       "first_seen": "2026-11-02",
       "meta": {}
@@ -40630,6 +41096,15 @@
         "created_at": "2026-01-27T14:53:01Z",
         "stars": 1953
       }
+    },
+    {
+      "full_name": "mealie-recipes/mealie",
+      "repo_id": 319167362,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-04",
+      "meta": {}
     },
     {
       "full_name": "medusajs/medusa",
@@ -41832,6 +42307,15 @@
       }
     },
     {
+      "full_name": "mlmvpn/mlmvpn_android",
+      "repo_id": 1267291874,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-04",
+      "meta": {}
+    },
+    {
       "full_name": "mmalmi/nostr-vpn",
       "repo_id": 1179199801,
       "reasons": [
@@ -42285,6 +42769,20 @@
       ],
       "first_seen": "2026-10-19",
       "meta": {}
+    },
+    {
+      "full_name": "mromidev/claude-animated-shorts",
+      "repo_id": 1441526188,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-04",
+      "meta": {
+        "language": "TypeScript",
+        "description": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
+        "created_at": "2026-11-01T05:50:38Z",
+        "stars": 1337
+      }
     },
     {
       "full_name": "mrpaidsocial/arcads-claude-code-mrpaidsocial",
@@ -42984,7 +43482,8 @@
       "full_name": "netbirdio/netbird",
       "repo_id": 357897199,
       "reasons": [
-        "trending_recent"
+        "trending_recent",
+        "fast_riser"
       ],
       "first_seen": "2026-11-02",
       "meta": {}
@@ -45458,7 +45957,8 @@
       "full_name": "openkursar/hello-halo",
       "repo_id": 1133165145,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {
@@ -45509,7 +46009,8 @@
       "full_name": "openobserve/openobserve",
       "repo_id": 596377730,
       "reasons": [
-        "trending_recent"
+        "trending_recent",
+        "fast_riser"
       ],
       "first_seen": "2026-10-31",
       "meta": {}
@@ -46108,7 +46609,8 @@
       "full_name": "paperless-ngx/paperless-ngx",
       "repo_id": 458648791,
       "reasons": [
-        "trending_recent"
+        "trending_recent",
+        "fast_riser"
       ],
       "first_seen": "2026-11-02",
       "meta": {}
@@ -46781,7 +47283,8 @@
       "full_name": "phone-harness/phone-harness",
       "repo_id": 1327214801,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-11-02",
       "meta": {
@@ -46884,7 +47387,8 @@
       "full_name": "physicsdolphin/nv-uefi-unlocker",
       "repo_id": 1433985108,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-11-02",
       "meta": {
@@ -47153,6 +47657,15 @@
         "trending_recent"
       ],
       "first_seen": "2026-10-24",
+      "meta": {}
+    },
+    {
+      "full_name": "pocket-id/pocket-id",
+      "repo_id": 841141075,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-04",
       "meta": {}
     },
     {
@@ -50119,6 +50632,20 @@
       }
     },
     {
+      "full_name": "sheprd-labs/sheprd",
+      "repo_id": 1377952273,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-04",
+      "meta": {
+        "language": "Rust",
+        "description": "Native client for Herdr on macOS, Linux, and Windows, built with Rust and GPUI. View terminal sessions, workspaces, Git worktrees, and agent activity through your local Herdr daemon.",
+        "created_at": "2026-09-20T05:22:39Z",
+        "stars": 2137
+      }
+    },
+    {
       "full_name": "shift-labs-ai/markit",
       "repo_id": 1191650086,
       "reasons": [
@@ -51746,7 +52273,8 @@
       "full_name": "storytold/craft-anything",
       "repo_id": 1440956372,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-11-02",
       "meta": {
@@ -52128,6 +52656,15 @@
         "created_at": "2026-06-02T00:11:00Z",
         "stars": 1181
       }
+    },
+    {
+      "full_name": "sundowndev/phoneinfoga",
+      "repo_id": 154643390,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-04",
+      "meta": {}
     },
     {
       "full_name": "sunny-glow/Auto-BenchMax",
@@ -52901,6 +53438,20 @@
       }
     },
     {
+      "full_name": "tenfoldmarc/llm-council-skill",
+      "repo_id": 1214556362,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-04",
+      "meta": {
+        "language": null,
+        "description": null,
+        "created_at": "2026-04-18T18:30:25Z",
+        "stars": 1000
+      }
+    },
+    {
       "full_name": "teng-lin/notebooklm-py",
       "repo_id": 1129786550,
       "reasons": [
@@ -53171,6 +53722,20 @@
       }
     },
     {
+      "full_name": "thisisgm/flea",
+      "repo_id": 1354236772,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-04",
+      "meta": {
+        "language": "Rust",
+        "description": "The fastest GUI file manager on Omarchy.",
+        "created_at": "2026-09-02T02:46:14Z",
+        "stars": 1019
+      }
+    },
+    {
       "full_name": "threerocks/hand-drawn-styles",
       "repo_id": 1283138527,
       "reasons": [
@@ -53202,7 +53767,8 @@
       "full_name": "thtbee/nectarlink",
       "repo_id": 1404840859,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-11-02",
       "meta": {
@@ -56125,6 +56691,15 @@
       }
     },
     {
+      "full_name": "warmbly/warmbly",
+      "repo_id": 1136203389,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-04",
+      "meta": {}
+    },
+    {
       "full_name": "wassgha/rescript",
       "repo_id": 1313215450,
       "reasons": [
@@ -57408,6 +57983,15 @@
         "created_at": "2026-08-13T13:50:42Z",
         "stars": 2188
       }
+    },
+    {
+      "full_name": "xpzouying/xiaohongshu-mcp",
+      "repo_id": 1031215137,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-04",
+      "meta": {}
     },
     {
       "full_name": "xqy2006/ModelTrace",
