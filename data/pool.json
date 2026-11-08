@@ -1,11 +1,11 @@
 {
   "schema_v": 1,
-  "updated_at": "2026-11-07T09:12:23+00:00",
+  "updated_at": "2026-11-08T09:25:15+00:00",
   "stats": {
-    "total": 4599,
+    "total": 4696,
     "by_first_reason": {
-      "new_star": 3866,
-      "trending_recent": 733
+      "new_star": 3891,
+      "trending_recent": 805
     },
     "dropped": 0
   },
@@ -585,7 +585,8 @@
       "full_name": "66HEX/frame",
       "repo_id": 1137837751,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {
@@ -1828,6 +1829,15 @@
         "created_at": "2026-06-24T12:34:36Z",
         "stars": 1079
       }
+    },
+    {
+      "full_name": "Alexays/Waybar",
+      "repo_id": 144071425,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {}
     },
     {
       "full_name": "AlexsJones/llmfit",
@@ -3724,6 +3734,20 @@
         "description": "One-click installer for Big Walk VR and Titanfall 2 VR",
         "created_at": "2026-08-06T03:58:24Z",
         "stars": 1356
+      }
+    },
+    {
+      "full_name": "Clash-Projects/LastWave-Desktop",
+      "repo_id": 1363543912,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {
+        "language": "Dart",
+        "description": "Simple Desktop YouTube Music client with WinUI for Windows, Linux & MacOS, Bit-Perfect playback, Automix, Lossless addons & advanced audiophile features.",
+        "created_at": "2026-09-10T05:07:52Z",
+        "stars": 1000
       }
     },
     {
@@ -7107,7 +7131,8 @@
       "full_name": "HKUDS/AgentPilot",
       "repo_id": 1190363679,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-11-02",
       "meta": {
@@ -12067,6 +12092,15 @@
       }
     },
     {
+      "full_name": "NVIDIA/TensorRT-LLM",
+      "repo_id": 679366051,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {}
+    },
+    {
       "full_name": "NVIDIA/auto-ontology",
       "repo_id": 1222953295,
       "reasons": [
@@ -12807,6 +12841,20 @@
       }
     },
     {
+      "full_name": "NotRexed/Hookshot",
+      "repo_id": 1446962520,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {
+        "language": "C++",
+        "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
+        "created_at": "2026-11-05T12:18:58Z",
+        "stars": 2146
+      }
+    },
+    {
       "full_name": "NousResearch/autonovel",
       "repo_id": 1181397760,
       "reasons": [
@@ -13361,6 +13409,20 @@
       }
     },
     {
+      "full_name": "OpenMontageInc/OpenMontage",
+      "repo_id": 1195360525,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {
+        "language": "Python",
+        "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+        "created_at": "2026-03-29T15:23:22Z",
+        "stars": 78403
+      }
+    },
+    {
       "full_name": "OpenMouse-Project/openmouse",
       "repo_id": 1313372896,
       "reasons": [
@@ -13895,6 +13957,15 @@
         "trending_recent"
       ],
       "first_seen": "2026-10-31",
+      "meta": {}
+    },
+    {
+      "full_name": "ParadevAI/Paradev",
+      "repo_id": 1080370450,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-08",
       "meta": {}
     },
     {
@@ -15291,6 +15362,20 @@
       }
     },
     {
+      "full_name": "RizRiyz/luvus",
+      "repo_id": 1276618080,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {
+        "language": "Rust",
+        "description": "Mission control for your AI agents",
+        "created_at": "2026-06-22T06:26:38Z",
+        "stars": 1000
+      }
+    },
+    {
       "full_name": "Rizzo-AI-Academy/rizzo-pii",
       "repo_id": 1283007956,
       "reasons": [
@@ -15840,6 +15925,20 @@
         "description": "一个长达 10 小时的 AI 全自动编程实验",
         "created_at": "2026-02-13T19:25:20Z",
         "stars": 1018
+      }
+    },
+    {
+      "full_name": "Sandflow-ai/sand3d",
+      "repo_id": 1444005452,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {
+        "language": "HTML",
+        "description": "3D modeling in Python, built for LLMs.",
+        "created_at": "2026-11-03T08:23:03Z",
+        "stars": 1162
       }
     },
     {
@@ -17119,6 +17218,20 @@
         "description": "AuK: An Open-Source Foundational Model for Speech Generation and Editing",
         "created_at": "2026-08-19T01:39:24Z",
         "stars": 1526
+      }
+    },
+    {
+      "full_name": "Tencent-Hunyuan/HY-WU",
+      "repo_id": 1173321992,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {
+        "language": "Python",
+        "description": "HY-WU (Part I): An Extensible Functional Neural Memory Framework and An Instantiation in Text-Guided Image Editing",
+        "created_at": "2026-03-05T08:36:50Z",
+        "stars": 1007
       }
     },
     {
@@ -18744,6 +18857,20 @@
       "meta": {}
     },
     {
+      "full_name": "Xanerix/guoapp",
+      "repo_id": 1401569410,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {
+        "language": "Dart",
+        "description": "红果鉴/真果鉴 - 专属私有短剧客户端",
+        "created_at": "2026-10-02T11:23:34Z",
+        "stars": 1048
+      }
+    },
+    {
       "full_name": "Xiangyu-CAS/xiaohongshu-ops-skill",
       "repo_id": 1158991995,
       "reasons": [
@@ -18882,6 +19009,20 @@
         "description": "Surge-style whole-home gateway and control plane for macOS with IPv4/IPv6 support— mihomo TUN, dnsmasq-powered DHCP/DNS, per-device routing, and an agent-friendly validation workspace.",
         "created_at": "2026-06-29T15:41:44Z",
         "stars": 2520
+      }
+    },
+    {
+      "full_name": "YangYuHou/github-skill-forge",
+      "repo_id": 1139906417,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {
+        "language": "Python",
+        "description": "一个\"制造技能的技能\"。这个工具自动化了将任意 GitHub 仓库转换为标准化技能的全过程，是扩展 AI Agent 能力的核心工具。",
+        "created_at": "2026-01-22T15:17:36Z",
+        "stars": 1009
       }
     },
     {
@@ -19056,6 +19197,20 @@
         "description": "Your GitHub stats, turned into a World-Cup-style player card ",
         "created_at": "2026-06-24T01:17:51Z",
         "stars": 2646
+      }
+    },
+    {
+      "full_name": "Yu-369/VibeCurb",
+      "repo_id": 1293142835,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {
+        "language": "JavaScript",
+        "description": "VibeCurb - Injects taste into AI workflows to stop agents from generating boring, AI slop.",
+        "created_at": "2026-07-08T06:22:28Z",
+        "stars": 1000
       }
     },
     {
@@ -20813,6 +20968,15 @@
       }
     },
     {
+      "full_name": "airbytehq/airbyte",
+      "repo_id": 283046497,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {}
+    },
+    {
       "full_name": "aiwithremy/claude-skills-llm-council",
       "repo_id": 1221232109,
       "reasons": [
@@ -21939,6 +22103,15 @@
       }
     },
     {
+      "full_name": "angular/angular",
+      "repo_id": 24195339,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {}
+    },
+    {
       "full_name": "angusdevgo/IDM_Pro_Tool",
       "repo_id": 1363844653,
       "reasons": [
@@ -22064,7 +22237,8 @@
       "full_name": "anomalyco/rune",
       "repo_id": 1429303647,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-11-06",
       "meta": {
@@ -22498,6 +22672,15 @@
       }
     },
     {
+      "full_name": "antoniaci/blackbird",
+      "repo_id": 489384246,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {}
+    },
+    {
       "full_name": "antoniolupetti/algebrica",
       "repo_id": 1220144875,
       "reasons": [
@@ -22612,6 +22795,15 @@
         "created_at": "2026-04-05T08:46:34Z",
         "stars": 1249
       }
+    },
+    {
+      "full_name": "apache/airflow",
+      "repo_id": 33884891,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {}
     },
     {
       "full_name": "apache/arrow",
@@ -22734,9 +22926,19 @@
       "full_name": "apache/kafka",
       "repo_id": 2211243,
       "reasons": [
-        "trending_recent"
+        "trending_recent",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
+      "meta": {}
+    },
+    {
+      "full_name": "apache/lucene",
+      "repo_id": 341631350,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-08",
       "meta": {}
     },
     {
@@ -22905,6 +23107,15 @@
       }
     },
     {
+      "full_name": "appsmithorg/appsmith",
+      "repo_id": 275993885,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {}
+    },
+    {
       "full_name": "aquasecurity/trivy",
       "repo_id": 180687624,
       "reasons": [
@@ -22960,7 +23171,8 @@
       "full_name": "arcsin1/oh-my-ppt",
       "repo_id": 1219896053,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {
@@ -23277,6 +23489,15 @@
         "created_at": "2026-06-10T15:32:07Z",
         "stars": 1375
       }
+    },
+    {
+      "full_name": "astral-sh/ruff",
+      "repo_id": 523043277,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {}
     },
     {
       "full_name": "astral-sh/uv",
@@ -23870,10 +24091,20 @@
       }
     },
     {
+      "full_name": "baldurk/renderdoc",
+      "repo_id": 17253131,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {}
+    },
+    {
       "full_name": "bangtutorial/bang-motion",
       "repo_id": 1358561036,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-11-03",
       "meta": {
@@ -25286,6 +25517,20 @@
       }
     },
     {
+      "full_name": "byted-technologies/Coldimail",
+      "repo_id": 1233759638,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {
+        "language": null,
+        "description": "Intelligent faculty outreach and research matching for prospective graduate applicants",
+        "created_at": "2026-05-09T10:19:19Z",
+        "stars": 5959
+      }
+    },
+    {
       "full_name": "byted-technologies/Fractal-PrivacyPolicy",
       "repo_id": 1174806247,
       "reasons": [
@@ -25298,6 +25543,20 @@
         "description": null,
         "created_at": "2026-03-06T21:32:22Z",
         "stars": 1462
+      }
+    },
+    {
+      "full_name": "byted-technologies/fractalgithubreadme",
+      "repo_id": 1243645673,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {
+        "language": null,
+        "description": null,
+        "created_at": "2026-05-19T14:29:08Z",
+        "stars": 1413
       }
     },
     {
@@ -25561,6 +25820,15 @@
         "trending_recent"
       ],
       "first_seen": "2026-11-01",
+      "meta": {}
+    },
+    {
+      "full_name": "can1357/oh-my-pi",
+      "repo_id": 1125856365,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-08",
       "meta": {}
     },
     {
@@ -25891,6 +26159,15 @@
         "created_at": "2026-09-18T14:35:08Z",
         "stars": 12635
       }
+    },
+    {
+      "full_name": "ceph/ceph",
+      "repo_id": 2310495,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {}
     },
     {
       "full_name": "cft0808/edict",
@@ -26542,6 +26819,15 @@
         "fast_riser"
       ],
       "first_seen": "2026-10-26",
+      "meta": {}
+    },
+    {
+      "full_name": "clap-rs/clap",
+      "repo_id": 31315121,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-08",
       "meta": {}
     },
     {
@@ -27238,6 +27524,15 @@
         "created_at": "2026-03-06T07:47:40Z",
         "stars": 5094
       }
+    },
+    {
+      "full_name": "containerd/containerd",
+      "repo_id": 46089560,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {}
     },
     {
       "full_name": "context-labs/HALO",
@@ -29121,7 +29416,8 @@
       "full_name": "denoland/deno",
       "repo_id": 133442384,
       "reasons": [
-        "trending_recent"
+        "trending_recent",
+        "fast_riser"
       ],
       "first_seen": "2026-11-01",
       "meta": {}
@@ -29336,6 +29632,15 @@
         "created_at": "2026-01-23T02:51:19Z",
         "stars": 1253
       }
+    },
+    {
+      "full_name": "dgtlmoon/changedetection.io",
+      "repo_id": 333483116,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {}
     },
     {
       "full_name": "diasurgical/DevilutionX",
@@ -29632,6 +29937,15 @@
         "created_at": "2026-07-17T02:01:45Z",
         "stars": 2775
       }
+    },
+    {
+      "full_name": "django/django",
+      "repo_id": 4164482,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {}
     },
     {
       "full_name": "dji-sdk/Cloud-API-2",
@@ -30640,7 +30954,8 @@
       "full_name": "elder-plinius/OBLITERATUS",
       "repo_id": 1171949255,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {
@@ -31226,7 +31541,8 @@
       "full_name": "etcd-io/etcd",
       "repo_id": 11225014,
       "reasons": [
-        "trending_recent"
+        "trending_recent",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {}
@@ -31294,7 +31610,8 @@
       "full_name": "ethanplusai/sellbird",
       "repo_id": 1179388779,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-11-07",
       "meta": {
@@ -31303,6 +31620,15 @@
         "created_at": "2026-03-12T01:24:50Z",
         "stars": 4662
       }
+    },
+    {
+      "full_name": "ethereum-optimism/optimism",
+      "repo_id": 238797860,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {}
     },
     {
       "full_name": "eugene1g/agent-safehouse",
@@ -31506,6 +31832,15 @@
         "trending_recent"
       ],
       "first_seen": "2026-11-01",
+      "meta": {}
+    },
+    {
+      "full_name": "expressjs/express",
+      "repo_id": 237159,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-08",
       "meta": {}
     },
     {
@@ -31845,6 +32180,15 @@
         "created_at": "2026-03-02T19:51:43Z",
         "stars": 1158
       }
+    },
+    {
+      "full_name": "fastify/fastify",
+      "repo_id": 69495170,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {}
     },
     {
       "full_name": "fastrepl/anarlog",
@@ -32444,7 +32788,8 @@
       "full_name": "flyfish-dev/file-viewer",
       "repo_id": 1242251592,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {
@@ -32481,6 +32826,15 @@
         "created_at": "2026-03-09T20:31:09Z",
         "stars": 1534
       }
+    },
+    {
+      "full_name": "fmtlib/fmt",
+      "repo_id": 7056202,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {}
     },
     {
       "full_name": "forloopcodes/contextplus",
@@ -32523,6 +32877,15 @@
         "created_at": "2026-02-22T13:51:44Z",
         "stars": 3726
       }
+    },
+    {
+      "full_name": "foundry-rs/foundry",
+      "repo_id": 404320053,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {}
     },
     {
       "full_name": "frank890417/taiwan-md",
@@ -33235,7 +33598,8 @@
       "full_name": "gin-gonic/gin",
       "repo_id": 20904437,
       "reasons": [
-        "trending_recent"
+        "trending_recent",
+        "fast_riser"
       ],
       "first_seen": "2026-10-22",
       "meta": {}
@@ -33933,6 +34297,15 @@
       }
     },
     {
+      "full_name": "google/flatbuffers",
+      "repo_id": 19953044,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {}
+    },
+    {
       "full_name": "google/googletest",
       "repo_id": 39840932,
       "reasons": [
@@ -33984,6 +34357,15 @@
       "meta": {}
     },
     {
+      "full_name": "google/osv-scanner",
+      "repo_id": 565629124,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {}
+    },
+    {
       "full_name": "google/perfetto",
       "repo_id": 227091502,
       "reasons": [
@@ -34011,7 +34393,8 @@
       "full_name": "googlecolab/google-colab-cli",
       "repo_id": 1213901015,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {
@@ -34124,6 +34507,15 @@
         "trending_recent"
       ],
       "first_seen": "2026-10-30",
+      "meta": {}
+    },
+    {
+      "full_name": "grafana/mimir",
+      "repo_id": 385634291,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-08",
       "meta": {}
     },
     {
@@ -34487,7 +34879,8 @@
       "full_name": "hacksider/Deep-Live-Cam",
       "repo_id": 695864515,
       "reasons": [
-        "trending_recent"
+        "trending_recent",
+        "fast_riser"
       ],
       "first_seen": "2026-11-02",
       "meta": {}
@@ -34823,6 +35216,20 @@
         "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
         "created_at": "2026-03-18T03:07:18Z",
         "stars": 23040
+      }
+    },
+    {
+      "full_name": "hashgraph-online/awesome-ai-plugins",
+      "repo_id": 1204165322,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {
+        "language": "Python",
+        "description": "A curated list of the best awesome AI plugins for AI assistants including Claude Code, OpenAI Codex / ChatGPT, Gemini, Antigravity, Pi / Oh My Pi, Grok, OpenCodek DSH, Kimi and More. https://hol.org/plugins",
+        "created_at": "2026-04-07T18:49:58Z",
+        "stars": 1004
       }
     },
     {
@@ -36918,6 +37325,20 @@
       }
     },
     {
+      "full_name": "jackotom/hongguo-drama",
+      "repo_id": 1408042332,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {
+        "language": "JavaScript",
+        "description": "红果短剧桌面版 · 支持 M 系列 Mac、Intel Mac 和 Windows · 三来源搜索、播放、下载与追剧 · GPL-3.0 开源",
+        "created_at": "2026-10-07T00:06:45Z",
+        "stars": 1029
+      }
+    },
+    {
       "full_name": "jackwener/OpenCLI",
       "repo_id": 1181982220,
       "reasons": [
@@ -37522,6 +37943,15 @@
       "meta": {}
     },
     {
+      "full_name": "jetty/jetty.project",
+      "repo_id": 2045207,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {}
+    },
+    {
       "full_name": "jev-chat/jev-chat-jarvis",
       "repo_id": 1379574728,
       "reasons": [
@@ -38106,6 +38536,20 @@
         "description": "Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.",
         "created_at": "2026-08-27T22:24:31Z",
         "stars": 1226
+      }
+    },
+    {
+      "full_name": "jqssun/android-airplay-server",
+      "repo_id": 1205086761,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {
+        "language": "Kotlin",
+        "description": "First open-source AirPlay receiver implementation for Android with mirroring, video and audio support",
+        "created_at": "2026-04-08T16:11:34Z",
+        "stars": 1010
       }
     },
     {
@@ -39319,6 +39763,15 @@
       "meta": {}
     },
     {
+      "full_name": "kubevirt/kubevirt",
+      "repo_id": 76686583,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {}
+    },
+    {
       "full_name": "kui123456789/free-account-tool",
       "repo_id": 1282277298,
       "reasons": [
@@ -40383,7 +40836,8 @@
       "full_name": "liandu2024/Open-Box",
       "repo_id": 1335751078,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {
@@ -41009,6 +41463,15 @@
         "created_at": "2026-09-02T04:36:34Z",
         "stars": 9495
       }
+    },
+    {
+      "full_name": "lobehub/lobehub",
+      "repo_id": 643445235,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {}
     },
     {
       "full_name": "loc567/loc567",
@@ -41921,7 +42384,8 @@
       "repo_id": 1274703665,
       "reasons": [
         "trending_recent",
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-27",
       "meta": {}
@@ -42323,6 +42787,20 @@
       }
     },
     {
+      "full_name": "mbillow/localthings",
+      "repo_id": 1285492676,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {
+        "language": "Python",
+        "description": "Control your Samsung appliances from Home Assistant over your home network, with no cloud account.",
+        "created_at": "2026-06-30T21:30:14Z",
+        "stars": 1117
+      }
+    },
+    {
       "full_name": "mchughalex/skate3recomp",
       "repo_id": 1259764673,
       "reasons": [
@@ -42589,6 +43067,15 @@
         "created_at": "2026-01-09T16:20:32Z",
         "stars": 13809
       }
+    },
+    {
+      "full_name": "meta/rocksdb",
+      "repo_id": 6934395,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {}
     },
     {
       "full_name": "metasequoiaime/msime",
@@ -42920,7 +43407,8 @@
       "full_name": "microsoft/TypeScript",
       "repo_id": 20929025,
       "reasons": [
-        "trending_recent"
+        "trending_recent",
+        "fast_riser"
       ],
       "first_seen": "2026-10-24",
       "meta": {}
@@ -43206,6 +43694,15 @@
         "created_at": "2026-04-03T15:50:37Z",
         "stars": 3477
       }
+    },
+    {
+      "full_name": "microsoft/vscode",
+      "repo_id": 41881900,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {}
     },
     {
       "full_name": "microsoft/waza",
@@ -43636,6 +44133,15 @@
       }
     },
     {
+      "full_name": "mlflow/mlflow",
+      "repo_id": 136202695,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {}
+    },
+    {
       "full_name": "mlmvpn/mlmvpn_android",
       "repo_id": 1267291874,
       "reasons": [
@@ -43656,6 +44162,20 @@
         "description": null,
         "created_at": "2026-03-11T19:41:13Z",
         "stars": 1213
+      }
+    },
+    {
+      "full_name": "mmdoctor/google-pro-helper",
+      "repo_id": 1446548114,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {
+        "language": "Python",
+        "description": null,
+        "created_at": "2026-11-05T04:52:28Z",
+        "stars": 1178
       }
     },
     {
@@ -43767,7 +44287,8 @@
       "full_name": "moby/moby",
       "repo_id": 7691631,
       "reasons": [
-        "trending_recent"
+        "trending_recent",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {}
@@ -44098,6 +44619,15 @@
         "created_at": "2026-04-11T21:01:43Z",
         "stars": 1508
       }
+    },
+    {
+      "full_name": "mpv-player/mpv",
+      "repo_id": 6201092,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {}
     },
     {
       "full_name": "mrdoob/three.js",
@@ -44549,6 +45079,20 @@
       }
     },
     {
+      "full_name": "namannn04/Veronica",
+      "repo_id": 1340486130,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {
+        "language": "Rust",
+        "description": "Native Ubuntu control center for agent usage, system utilities, media, clipboard, emoji and GNOME integration.",
+        "created_at": "2026-08-20T08:51:05Z",
+        "stars": 1009
+      }
+    },
+    {
       "full_name": "nanaism/yomiyasu",
       "repo_id": 1397771878,
       "reasons": [
@@ -44877,6 +45421,29 @@
         "description": "Use LLMs to hide messages inside normal looking conversations",
         "created_at": "2026-07-17T04:58:22Z",
         "stars": 1257
+      }
+    },
+    {
+      "full_name": "netty/netty",
+      "repo_id": 1064563,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {}
+    },
+    {
+      "full_name": "neuregex/freefield",
+      "repo_id": 1426547898,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {
+        "language": "Python",
+        "description": null,
+        "created_at": "2026-10-20T05:32:55Z",
+        "stars": 1020
       }
     },
     {
@@ -45679,6 +46246,15 @@
       }
     },
     {
+      "full_name": "novuhq/novu",
+      "repo_id": 400215964,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {}
+    },
+    {
       "full_name": "nowork-studio/notfair-plugin",
       "repo_id": 1193374549,
       "reasons": [
@@ -45863,6 +46439,24 @@
         "created_at": "2026-01-02T13:14:28Z",
         "stars": 1051
       }
+    },
+    {
+      "full_name": "numpy/numpy",
+      "repo_id": 908607,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {}
+    },
+    {
+      "full_name": "nushell/nushell",
+      "repo_id": 186024298,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {}
     },
     {
       "full_name": "nv-tlabs/PiD",
@@ -46401,6 +46995,15 @@
       }
     },
     {
+      "full_name": "onnx/onnx",
+      "repo_id": 102692863,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {}
+    },
+    {
       "full_name": "onvoyage-ai/gtm-engineer-skills",
       "repo_id": 1167172023,
       "reasons": [
@@ -46794,6 +47397,15 @@
         "created_at": "2026-02-27T12:48:35Z",
         "stars": 9120
       }
+    },
+    {
+      "full_name": "open-policy-agent/opa",
+      "repo_id": 48714685,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {}
     },
     {
       "full_name": "open-slide/open-slide",
@@ -47372,7 +47984,8 @@
       "full_name": "openlake-project/openlake",
       "repo_id": 1222120468,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {
@@ -47500,6 +48113,15 @@
       "meta": {}
     },
     {
+      "full_name": "openssl/openssl",
+      "repo_id": 7634677,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {}
+    },
+    {
       "full_name": "opentabs-dev/opentabs",
       "repo_id": 1153299137,
       "reasons": [
@@ -47512,6 +48134,15 @@
         "created_at": "2026-02-09T06:17:27Z",
         "stars": 1002
       }
+    },
+    {
+      "full_name": "opentoonz/opentoonz",
+      "repo_id": 54221232,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {}
     },
     {
       "full_name": "openvinotoolkit/openvino",
@@ -47633,6 +48264,15 @@
         "created_at": "2026-06-01T12:52:57Z",
         "stars": 2629
       }
+    },
+    {
+      "full_name": "orhun/git-cliff",
+      "repo_id": 372193147,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {}
     },
     {
       "full_name": "orhun/ratty",
@@ -47762,7 +48402,8 @@
       "full_name": "oven-sh/bun",
       "repo_id": 357728969,
       "reasons": [
-        "trending_recent"
+        "trending_recent",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {}
@@ -47959,6 +48600,15 @@
       }
     },
     {
+      "full_name": "pandas-dev/pandas",
+      "repo_id": 858127,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {}
+    },
+    {
       "full_name": "pandorafuture/wx-cli",
       "repo_id": 1259496152,
       "reasons": [
@@ -48140,7 +48790,8 @@
       "full_name": "patchy631/time-to-first-token",
       "repo_id": 1320191889,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-22",
       "meta": {
@@ -48627,6 +49278,15 @@
       }
     },
     {
+      "full_name": "pgjdbc/pgjdbc",
+      "repo_id": 3370128,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {}
+    },
+    {
       "full_name": "pgrundev/pgbot",
       "repo_id": 1331441014,
       "reasons": [
@@ -48868,6 +49528,15 @@
       }
     },
     {
+      "full_name": "pingcap/tidb",
+      "repo_id": 41986369,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {}
+    },
+    {
       "full_name": "pingdotgg/t3code",
       "repo_id": 1153130349,
       "reasons": [
@@ -48925,6 +49594,15 @@
         "created_at": "2026-07-01T15:46:22Z",
         "stars": 1093
       }
+    },
+    {
+      "full_name": "pipeshub-ai/pipeshub-ai",
+      "repo_id": 944080744,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {}
     },
     {
       "full_name": "pireel/pireel",
@@ -49310,7 +49988,8 @@
       "full_name": "prometheus/prometheus",
       "repo_id": 6838921,
       "reasons": [
-        "trending_recent"
+        "trending_recent",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {}
@@ -49389,6 +50068,24 @@
         "created_at": "2026-03-01T18:56:54Z",
         "stars": 1431
       }
+    },
+    {
+      "full_name": "psf/black",
+      "repo_id": 125266328,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {}
+    },
+    {
+      "full_name": "psf/requests",
+      "repo_id": 1362490,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {}
     },
     {
       "full_name": "psiberx/cp2077-archive-xl",
@@ -49530,6 +50227,24 @@
         "trending_recent"
       ],
       "first_seen": "2026-10-19",
+      "meta": {}
+    },
+    {
+      "full_name": "pydantic/pydantic",
+      "repo_id": 90194616,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {}
+    },
+    {
+      "full_name": "python-poetry/poetry",
+      "repo_id": 123303402,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-08",
       "meta": {}
     },
     {
@@ -49800,6 +50515,15 @@
         "created_at": "2026-10-25T05:25:45Z",
         "stars": 1074
       }
+    },
+    {
+      "full_name": "rails/rails",
+      "repo_id": 8514,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {}
     },
     {
       "full_name": "raindrop-ai/workshop",
@@ -50111,7 +50835,8 @@
       "full_name": "reacher-z/Awesome-REA",
       "repo_id": 1421473933,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-11-06",
       "meta": {
@@ -50492,6 +51217,15 @@
         "created_at": "2026-03-23T09:12:28Z",
         "stars": 7851
       }
+    },
+    {
+      "full_name": "rerun-io/rerun",
+      "repo_id": 479289739,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {}
     },
     {
       "full_name": "reticlehq/reticle",
@@ -51205,6 +51939,15 @@
       }
     },
     {
+      "full_name": "rust-lang/cargo",
+      "repo_id": 17420913,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {}
+    },
+    {
       "full_name": "rust-lang/rust",
       "repo_id": 724712,
       "reasons": [
@@ -51212,6 +51955,15 @@
         "fast_riser"
       ],
       "first_seen": "2026-10-19",
+      "meta": {}
+    },
+    {
+      "full_name": "rust-lang/rust-clippy",
+      "repo_id": 26850443,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-08",
       "meta": {}
     },
     {
@@ -51369,7 +52121,8 @@
       "full_name": "s1dashu/quiet-md",
       "repo_id": 1441897000,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-11-06",
       "meta": {
@@ -51549,7 +52302,8 @@
       "full_name": "saragordic/window-sweaters",
       "repo_id": 1370747786,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-11-06",
       "meta": {
@@ -51557,6 +52311,20 @@
         "description": "A macOS menu-bar app that dresses your windows in knitted borders.",
         "created_at": "2026-09-15T01:51:36Z",
         "stars": 1142
+      }
+    },
+    {
+      "full_name": "sarpstar/cinecode",
+      "repo_id": 1444112593,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {
+        "language": "Python",
+        "description": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.",
+        "created_at": "2026-11-03T10:08:16Z",
+        "stars": 1133
       }
     },
     {
@@ -51842,6 +52610,15 @@
       }
     },
     {
+      "full_name": "servo/servo",
+      "repo_id": 3390243,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {}
+    },
+    {
       "full_name": "setube/stackprism",
       "repo_id": 1232897321,
       "reasons": [
@@ -52102,6 +52879,24 @@
       }
     },
     {
+      "full_name": "sharkdp/bat",
+      "repo_id": 130464961,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {}
+    },
+    {
+      "full_name": "sharkdp/fd",
+      "repo_id": 90793418,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {}
+    },
+    {
       "full_name": "sharpemu/sharpemu",
       "repo_id": 1178856997,
       "reasons": [
@@ -52201,6 +52996,15 @@
       }
     },
     {
+      "full_name": "sherlock-project/sherlock",
+      "repo_id": 162998479,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {}
+    },
+    {
       "full_name": "shift-labs-ai/markit",
       "repo_id": 1191650086,
       "reasons": [
@@ -52271,6 +53075,20 @@
         "description": "Turn one illustration into an animated 2D mesh avatar with a coding agent and a local editor",
         "created_at": "2026-10-04T03:33:57Z",
         "stars": 1026
+      }
+    },
+    {
+      "full_name": "shirai91/nx2android",
+      "repo_id": 1432420324,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {
+        "language": "C",
+        "description": "A compatibility layer for porting Switch games to Android, one game at a time",
+        "created_at": "2026-10-24T17:21:12Z",
+        "stars": 1027
       }
     },
     {
@@ -52621,6 +53439,15 @@
       }
     },
     {
+      "full_name": "simple-icons/simple-icons",
+      "repo_id": 6720403,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {}
+    },
+    {
       "full_name": "simplifaisoul/osiris",
       "repo_id": 1237031497,
       "reasons": [
@@ -52887,6 +53714,15 @@
         "created_at": "2026-03-29T10:01:35Z",
         "stars": 2118
       }
+    },
+    {
+      "full_name": "slint-ui/slint",
+      "repo_id": 261124045,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {}
     },
     {
       "full_name": "slkiser/opencode-quota",
@@ -53235,6 +54071,15 @@
       }
     },
     {
+      "full_name": "solidjs/solid",
+      "repo_id": 130884470,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {}
+    },
+    {
       "full_name": "solod-dev/solod",
       "repo_id": 1176200616,
       "reasons": [
@@ -53429,6 +54274,15 @@
       }
     },
     {
+      "full_name": "spf13/cobra",
+      "repo_id": 12574344,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {}
+    },
+    {
       "full_name": "spicetify/cli",
       "repo_id": 159981830,
       "reasons": [
@@ -53493,7 +54347,8 @@
       "full_name": "spring-projects/spring-boot",
       "repo_id": 6296790,
       "reasons": [
-        "trending_recent"
+        "trending_recent",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {}
@@ -54360,10 +55215,20 @@
       "meta": {}
     },
     {
+      "full_name": "sveltejs/kit",
+      "repo_id": 304344049,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {}
+    },
+    {
       "full_name": "sveltejs/svelte",
       "repo_id": 74293321,
       "reasons": [
-        "trending_recent"
+        "trending_recent",
+        "fast_riser"
       ],
       "first_seen": "2026-10-31",
       "meta": {}
@@ -54439,6 +55304,15 @@
       }
     },
     {
+      "full_name": "symfony/symfony",
+      "repo_id": 458058,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {}
+    },
+    {
       "full_name": "syncthing/syncthing",
       "repo_id": 14712850,
       "reasons": [
@@ -54446,6 +55320,15 @@
         "fast_riser"
       ],
       "first_seen": "2026-11-02",
+      "meta": {}
+    },
+    {
+      "full_name": "synfig/synfig",
+      "repo_id": 1691967,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-08",
       "meta": {}
     },
     {
@@ -54596,6 +55479,15 @@
         "created_at": "2026-04-05T22:23:55Z",
         "stars": 1196
       }
+    },
+    {
+      "full_name": "tailwindlabs/tailwindcss",
+      "repo_id": 106017343,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {}
     },
     {
       "full_name": "talivia-group/talivia",
@@ -55059,7 +55951,8 @@
       "full_name": "tensorflow/tensorflow",
       "repo_id": 45717250,
       "reasons": [
-        "trending_recent"
+        "trending_recent",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {}
@@ -55125,6 +56018,20 @@
         "description": "A modern launcher for downloading, installing, and running apps from GitHub and GitLab releases. With a personal library, community catalog subscriptions, and flexible filtering.",
         "created_at": "2026-06-18T10:53:02Z",
         "stars": 2404
+      }
+    },
+    {
+      "full_name": "th0mk/nfsu2-web",
+      "repo_id": 1425343979,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {
+        "language": "C",
+        "description": null,
+        "created_at": "2026-10-19T08:47:39Z",
+        "stars": 1091
       }
     },
     {
@@ -55196,6 +56103,20 @@
         "description": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
         "created_at": "2026-08-02T11:15:16Z",
         "stars": 3704
+      }
+    },
+    {
+      "full_name": "theclaymethod/unslop",
+      "repo_id": 1152852420,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {
+        "language": "Python",
+        "description": "An agent skill to de-AI your writing",
+        "created_at": "2026-02-08T14:38:42Z",
+        "stars": 1007
       }
     },
     {
@@ -55746,6 +56667,15 @@
       }
     },
     {
+      "full_name": "tldraw/tldraw",
+      "repo_id": 365739812,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {}
+    },
+    {
       "full_name": "tllovesxs/wandao",
       "repo_id": 1276479597,
       "reasons": [
@@ -55844,6 +56774,15 @@
         "created_at": "2026-06-18T18:21:25Z",
         "stars": 3213
       }
+    },
+    {
+      "full_name": "tokio-rs/tokio",
+      "repo_id": 67836789,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {}
     },
     {
       "full_name": "tokio-rs/topcoat",
@@ -56522,6 +57461,15 @@
       }
     },
     {
+      "full_name": "ueberdosis/tiptap",
+      "repo_id": 145464445,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {}
+    },
+    {
       "full_name": "ufy2024/AuC",
       "repo_id": 1258862322,
       "reasons": [
@@ -57008,7 +57956,8 @@
       "full_name": "vAPI-Network/vapi-network",
       "repo_id": 1401744296,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-11-06",
       "meta": {
@@ -57293,7 +58242,8 @@
       "full_name": "vercel-labs/json-render",
       "repo_id": 1134411737,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {
@@ -57666,6 +58616,20 @@
       }
     },
     {
+      "full_name": "vincentsch/explainroo",
+      "repo_id": 1387743071,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {
+        "language": "JavaScript",
+        "description": "Explainer videos and product demos made by your AI agent. Free and open source: a local voice (Kokoro), word timing (Whisper) and a canvas renderer turn a script into a narrated MP4.",
+        "created_at": "2026-09-25T15:09:54Z",
+        "stars": 1039
+      }
+    },
+    {
       "full_name": "vinhhien112/img2obj",
       "repo_id": 1295531254,
       "reasons": [
@@ -57769,7 +58733,8 @@
       "full_name": "vitejs/vite",
       "repo_id": 257485422,
       "reasons": [
-        "trending_recent"
+        "trending_recent",
+        "fast_riser"
       ],
       "first_seen": "2026-10-24",
       "meta": {}
@@ -58010,6 +58975,15 @@
         "created_at": "2026-01-21T07:10:27Z",
         "stars": 2909
       }
+    },
+    {
+      "full_name": "vuejs/vue",
+      "repo_id": 11730342,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {}
     },
     {
       "full_name": "vvxw/deploy-vercel",
@@ -58716,6 +59690,15 @@
       }
     },
     {
+      "full_name": "windmill-labs/windmill",
+      "repo_id": 488804911,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {}
+    },
+    {
       "full_name": "windows-GPU-UNLOCK/Windows-GPU-UNLOCK",
       "repo_id": 1426503435,
       "reasons": [
@@ -58729,6 +59712,15 @@
         "created_at": "2026-10-20T04:41:07Z",
         "stars": 1346
       }
+    },
+    {
+      "full_name": "withastro/astro",
+      "repo_id": 348060227,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {}
     },
     {
       "full_name": "withastro/flue",
@@ -58800,6 +59792,15 @@
         "created_at": "2026-04-29T15:16:15Z",
         "stars": 1027
       }
+    },
+    {
+      "full_name": "wled/WLED",
+      "repo_id": 76990209,
+      "reasons": [
+        "trending_recent"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {}
     },
     {
       "full_name": "wlzh/dji-4g-vohive-mac",
@@ -59627,7 +60628,8 @@
       "full_name": "xoreaxeaxeax/skitter-creek-bath-salts",
       "repo_id": 1333170396,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {
@@ -60259,6 +61261,20 @@
         "description": null,
         "created_at": "2026-03-29T09:13:27Z",
         "stars": 2426
+      }
+    },
+    {
+      "full_name": "yexi-by/dsh-unrestricted",
+      "repo_id": 1342560370,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {
+        "language": "JavaScript",
+        "description": "DeepSeek Harness 提示词破限插件：通过系统提示词解除模型回答限制，深度适配 Web 与桌面端多模式及工具调用",
+        "created_at": "2026-08-22T07:39:48Z",
+        "stars": 1007
       }
     },
     {
@@ -61271,6 +62287,20 @@
       }
     },
     {
+      "full_name": "zephium-browser/Zephium",
+      "repo_id": 1270526311,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-08",
+      "meta": {
+        "language": "Rust",
+        "description": "A fast, fully-featured browser and work environment reimagined for you and your agents",
+        "created_at": "2026-06-15T19:55:15Z",
+        "stars": 1006
+      }
+    },
+    {
       "full_name": "zerobootdev/zeroboot",
       "repo_id": 1182712729,
       "reasons": [
@@ -61861,7 +62891,8 @@
       "full_name": "zvec-ai/zvec-grep",
       "repo_id": 1295987763,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {

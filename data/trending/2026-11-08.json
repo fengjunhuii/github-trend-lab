@@ -1,0 +1,127 @@
+{
+  "schema_v": 1,
+  "date": "2026-11-08",
+  "captured_at_utc": "2026-11-08T09:08:29+00:00",
+  "boards": [
+    {
+      "language": "",
+      "period": "daily",
+      "repos": []
+    },
+    {
+      "language": "",
+      "period": "weekly",
+      "repos": []
+    },
+    {
+      "language": "",
+      "period": "monthly",
+      "repos": []
+    },
+    {
+      "language": "python",
+      "period": "daily",
+      "repos": []
+    },
+    {
+      "language": "python",
+      "period": "weekly",
+      "repos": []
+    },
+    {
+      "language": "python",
+      "period": "monthly",
+      "repos": []
+    },
+    {
+      "language": "typescript",
+      "period": "daily",
+      "repos": []
+    },
+    {
+      "language": "typescript",
+      "period": "weekly",
+      "repos": []
+    },
+    {
+      "language": "typescript",
+      "period": "monthly",
+      "repos": []
+    },
+    {
+      "language": "javascript",
+      "period": "daily",
+      "repos": []
+    },
+    {
+      "language": "javascript",
+      "period": "weekly",
+      "repos": []
+    },
+    {
+      "language": "javascript",
+      "period": "monthly",
+      "repos": []
+    },
+    {
+      "language": "go",
+      "period": "daily",
+      "repos": []
+    },
+    {
+      "language": "go",
+      "period": "weekly",
+      "repos": []
+    },
+    {
+      "language": "go",
+      "period": "monthly",
+      "repos": []
+    },
+    {
+      "language": "rust",
+      "period": "daily",
+      "repos": []
+    },
+    {
+      "language": "rust",
+      "period": "weekly",
+      "repos": []
+    },
+    {
+      "language": "rust",
+      "period": "monthly",
+      "repos": []
+    },
+    {
+      "language": "java",
+      "period": "daily",
+      "repos": []
+    },
+    {
+      "language": "java",
+      "period": "weekly",
+      "repos": []
+    },
+    {
+      "language": "java",
+      "period": "monthly",
+      "repos": []
+    },
+    {
+      "language": "c++",
+      "period": "daily",
+      "repos": []
+    },
+    {
+      "language": "c++",
+      "period": "weekly",
+      "repos": []
+    },
+    {
+      "language": "c++",
+      "period": "monthly",
+      "repos": []
+    }
+  ]
+}
