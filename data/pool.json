@@ -1,10 +1,10 @@
 {
   "schema_v": 1,
-  "updated_at": "2026-11-08T09:25:15+00:00",
+  "updated_at": "2026-11-09T10:13:03+00:00",
   "stats": {
-    "total": 4696,
+    "total": 4735,
     "by_first_reason": {
-      "new_star": 3891,
+      "new_star": 3930,
       "trending_recent": 805
     },
     "dropped": 0
@@ -846,6 +846,20 @@
         "description": null,
         "created_at": "2026-07-29T06:24:13Z",
         "stars": 1110
+      }
+    },
+    {
+      "full_name": "ARMSX2/ARMSX3",
+      "repo_id": 1325238447,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-09",
+      "meta": {
+        "language": "C++",
+        "description": "Android port of RPCS3 for ARM64 devices. From one of the founders of ARMSX2: jpolo1224",
+        "created_at": "2026-08-06T12:53:26Z",
+        "stars": 1003
       }
     },
     {
@@ -3352,7 +3366,8 @@
       "repo_id": 1333252617,
       "reasons": [
         "trending_recent",
-        "fast_riser"
+        "fast_riser",
+        "new_star"
       ],
       "first_seen": "2026-11-04",
       "meta": {}
@@ -3466,6 +3481,20 @@
       ],
       "first_seen": "2026-10-26",
       "meta": {}
+    },
+    {
+      "full_name": "Cappybara12/mcp-use",
+      "repo_id": 1315026281,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-09",
+      "meta": {
+        "language": "Python",
+        "description": null,
+        "created_at": "2026-07-28T13:42:01Z",
+        "stars": 1001
+      }
     },
     {
       "full_name": "Card-Forge/forge",
@@ -3583,6 +3612,20 @@
         "description": "Check Risk WAF is an all-in-one Web Application Firewall with Anti-Bot and Anti-DDoS protection at L3, L4, and L7. Available on-premises or as SaaS, it protects web apps against OWASP Top 10 attacks, CWE vulnerabilities, botnets, and DoS/DDoS. Free and unlimited for everyone, forever for personal, non-commercial use.",
         "created_at": "2026-06-06T08:04:43Z",
         "stars": 1043
+      }
+    },
+    {
+      "full_name": "ChiefGyk3D/Clouds-Against-Humanity",
+      "repo_id": 1413495967,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-09",
+      "meta": {
+        "language": "Python",
+        "description": "Learn cloud security by building it! An open-source homelab teaching Zero Trust, DevSecOps, IaC, and cloud architecture from the ground up.",
+        "created_at": "2026-10-10T17:50:27Z",
+        "stars": 1026
       }
     },
     {
@@ -4346,6 +4389,20 @@
       }
     },
     {
+      "full_name": "CzJam/gjgjxweb",
+      "repo_id": 1443699236,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-09",
+      "meta": {
+        "language": "HTML",
+        "description": "《搞机工具箱》Web移植版",
+        "created_at": "2026-11-03T02:00:54Z",
+        "stars": 1365
+      }
+    },
+    {
       "full_name": "D2I-CUHKSZ/MicroWorld",
       "repo_id": 1191318010,
       "reasons": [
@@ -4399,6 +4456,20 @@
       }
     },
     {
+      "full_name": "DDDMUC/dsh-free-search",
+      "repo_id": 1334384058,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-09",
+      "meta": {
+        "language": "JavaScript",
+        "description": "为DeepSeek Harness提供的免费网络搜索服务商——即使没有API密钥也可使用。Free web search provider for DeepSeek Harness - usable even without an API key.",
+        "created_at": "2026-08-14T16:42:17Z",
+        "stars": 1009
+      }
+    },
+    {
       "full_name": "DEEIX-AI/DEEIX-Chat",
       "repo_id": 1245476031,
       "reasons": [
@@ -4410,6 +4481,20 @@
         "description": "An enterprise AI workspace for model routing, multimodal chat, files, tools, billing, identity, and operations.",
         "created_at": "2026-05-21T08:57:01Z",
         "stars": 1591
+      }
+    },
+    {
+      "full_name": "DIYgod/pinky",
+      "repo_id": 1448515937,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-09",
+      "meta": {
+        "language": "Go",
+        "description": "Let AI agents use your phone, with you in the loop.",
+        "created_at": "2026-11-06T16:53:14Z",
+        "stars": 1210
       }
     },
     {
@@ -5082,7 +5167,8 @@
       "full_name": "Downvid/downvid",
       "repo_id": 1343176628,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {
@@ -5157,6 +5243,20 @@
       ],
       "first_seen": "2026-10-19",
       "meta": {}
+    },
+    {
+      "full_name": "DrWhax/unfairplay",
+      "repo_id": 1433636611,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-09",
+      "meta": {
+        "language": "Go",
+        "description": "Decrypt IPA's on MacOS",
+        "created_at": "2026-10-25T21:22:20Z",
+        "stars": 1044
+      }
     },
     {
       "full_name": "DravenALG/awesome-vla-wam",
@@ -5286,7 +5386,8 @@
       "full_name": "ELY-Open-Source/ElyOffice",
       "repo_id": 1426270002,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-26",
       "meta": {
@@ -5352,7 +5453,8 @@
       "full_name": "Ebony-Vinyl/EAC-Desktop",
       "repo_id": 1334373503,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {
@@ -5360,6 +5462,20 @@
         "description": "Embracing All Creation (Desktop) — Dedicated to the Harmonious Coexistence of Hundreds of DSH Plugins / 揽尽万象（桌面版） —— 致力于让数百个DSH插件和谐共存",
         "created_at": "2026-08-14T16:29:54Z",
         "stars": 2127
+      }
+    },
+    {
+      "full_name": "Ebony-Vinyl/EAC-design-world",
+      "repo_id": 1423035785,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-09",
+      "meta": {
+        "language": "JavaScript",
+        "description": "DeepSeek Harness 本地视频制作与设计插件：多轨剪辑、模板与设计体系、原生预览画布和真实文件导出",
+        "created_at": "2026-10-17T06:46:19Z",
+        "stars": 1126
       }
     },
     {
@@ -5444,6 +5560,20 @@
       ],
       "first_seen": "2026-10-19",
       "meta": {}
+    },
+    {
+      "full_name": "Eglantine-Community/Eglantine",
+      "repo_id": 1437774066,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-09",
+      "meta": {
+        "language": "C++",
+        "description": "VERY experimental Nintendo Switch 2 emulator",
+        "created_at": "2026-10-29T00:25:18Z",
+        "stars": 5503
+      }
     },
     {
       "full_name": "Egonex-AI/Understand-Anything",
@@ -6850,6 +6980,20 @@
       }
     },
     {
+      "full_name": "Get-Concord-AI/concord-mcp",
+      "repo_id": 1300719974,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-09",
+      "meta": {
+        "language": "TypeScript",
+        "description": "Live messaging for coding agents",
+        "created_at": "2026-07-14T16:30:00Z",
+        "stars": 1004
+      }
+    },
+    {
       "full_name": "GeyserMC/Geyser",
       "repo_id": 195856796,
       "reasons": [
@@ -7930,6 +8074,20 @@
       }
     },
     {
+      "full_name": "IPedrax/BIMCraft",
+      "repo_id": 1420807520,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-09",
+      "meta": {
+        "language": "Rust",
+        "description": "BIMCraft: building information modeling; an open-source, clean-room take on the Revit workflow in pure Rust, built to be driven by agents",
+        "created_at": "2026-10-15T13:51:18Z",
+        "stars": 1008
+      }
+    },
+    {
       "full_name": "IRNova/Nova-Proxy",
       "repo_id": 1161523102,
       "reasons": [
@@ -8211,7 +8369,8 @@
       "full_name": "Jakeschincariol/arena-skill",
       "repo_id": 1390867091,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-28",
       "meta": {
@@ -8453,7 +8612,8 @@
       "full_name": "JenkinWoo/sheeridVerify",
       "repo_id": 1448068371,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-11-07",
       "meta": {
@@ -8917,6 +9077,20 @@
       }
     },
     {
+      "full_name": "Kablex/ComfyUI-Ref2VA-VSA",
+      "repo_id": 1358168733,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-09",
+      "meta": {
+        "language": "Python",
+        "description": null,
+        "created_at": "2026-09-05T12:30:51Z",
+        "stars": 1017
+      }
+    },
+    {
       "full_name": "Kaelio/ktx",
       "repo_id": 1234904564,
       "reasons": [
@@ -8928,6 +9102,20 @@
         "description": "ktx is an executable context layer for data and analytics agents 🐙 Allow Claude Code, Codex, or other AI agents to query analytical databases accurately and with full context of your company",
         "created_at": "2026-05-10T19:42:32Z",
         "stars": 1618
+      }
+    },
+    {
+      "full_name": "Kami958/WhoShitsonMyC",
+      "repo_id": 1297568442,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-09",
+      "meta": {
+        "language": "Python",
+        "description": "磁盘空间变化对比轻量小工具；A lightweight disk space change comparison tool. ",
+        "created_at": "2026-07-11T15:39:30Z",
+        "stars": 1072
       }
     },
     {
@@ -9227,7 +9415,8 @@
       "full_name": "Kodiqa-Solutions/VaultS3",
       "repo_id": 1164313795,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {
@@ -9832,6 +10021,20 @@
         "description": "Agent-native flight & hotel search and booking — MCP server, CLI, and Python/JS SDKs. Every airline in the world, major booking sites and OTAs, with per-flight reliability history.",
         "created_at": "2026-03-01T11:17:50Z",
         "stars": 2169
+      }
+    },
+    {
+      "full_name": "Leviidev/Henge",
+      "repo_id": 1442375804,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-09",
+      "meta": {
+        "language": "C",
+        "description": "Emulate macOS on iOS and iPadOS",
+        "created_at": "2026-11-02T01:13:51Z",
+        "stars": 1352
       }
     },
     {
@@ -13412,7 +13615,8 @@
       "full_name": "OpenMontageInc/OpenMontage",
       "repo_id": 1195360525,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-11-08",
       "meta": {
@@ -14895,7 +15099,8 @@
       "full_name": "RISE-X-Lab/OpenCollab",
       "repo_id": 1240562711,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-11-07",
       "meta": {
@@ -16701,6 +16906,20 @@
       }
     },
     {
+      "full_name": "Spikeijinx58/uphvbrdi",
+      "repo_id": 1414957846,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-09",
+      "meta": {
+        "language": null,
+        "description": "Discord Tools All-in-One 2026 — Nuke, Raid, Mass DM, Token Grabber, Account Gen, Server Cloner, Selfbot. 15+ Tools. Working 08 November 2026.",
+        "created_at": "2026-10-12T02:20:51Z",
+        "stars": 1348
+      }
+    },
+    {
       "full_name": "SpriteOvO/AirPodsDesktop",
       "repo_id": 370397287,
       "reasons": [
@@ -18236,7 +18455,8 @@
       "full_name": "ViceVerse-cz/Serein",
       "repo_id": 1363199101,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-11-06",
       "meta": {
@@ -22089,6 +22309,20 @@
       }
     },
     {
+      "full_name": "anefzaoui/misterdownloadmanager",
+      "repo_id": 1437814166,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-09",
+      "meta": {
+        "language": "Rust",
+        "description": "misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windows, Mac, and Linux",
+        "created_at": "2026-10-29T01:25:19Z",
+        "stars": 2620
+      }
+    },
+    {
       "full_name": "angelos-p/llm-from-scratch",
       "repo_id": 1201499170,
       "reasons": [
@@ -22115,7 +22349,8 @@
       "full_name": "angusdevgo/IDM_Pro_Tool",
       "repo_id": 1363844653,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {
@@ -23772,7 +24007,8 @@
       "full_name": "awarexone/Agentic-Bug-Hunter",
       "repo_id": 1175748759,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {
@@ -24280,6 +24516,20 @@
       }
     },
     {
+      "full_name": "beiyege-01/dsh-voice-ai-girlfriend",
+      "repo_id": 1335189481,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-09",
+      "meta": {
+        "language": "TypeScript",
+        "description": "语音 AI 女友（Voice AI girlfriend for DeepSeek Harness）：Whisper 语音输入 + Qwen3-TTS 声音克隆 + 句子级流式朗读 + 数字人动画窗。插话/排队双模式，说话即打断。",
+        "created_at": "2026-08-15T15:16:37Z",
+        "stars": 1011
+      }
+    },
+    {
       "full_name": "beizhu-1209/AIHelms",
       "repo_id": 1233558941,
       "reasons": [
@@ -24763,6 +25013,20 @@
       ],
       "first_seen": "2026-11-03",
       "meta": {}
+    },
+    {
+      "full_name": "blendi-remade/agentcraft",
+      "repo_id": 1402504227,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-09",
+      "meta": {
+        "language": "Java",
+        "description": "Manage your real AI agents, using Minecraft as your interface!",
+        "created_at": "2026-10-03T00:59:54Z",
+        "stars": 1004
+      }
     },
     {
       "full_name": "blendi-remade/sprite-sheet-creator",
@@ -25388,7 +25652,8 @@
       "full_name": "builtbybel/FluentCleaner",
       "repo_id": 1209677886,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {
@@ -25718,6 +25983,20 @@
       ],
       "first_seen": "2026-10-19",
       "meta": {}
+    },
+    {
+      "full_name": "caelestia-kde/caelestia",
+      "repo_id": 1276240340,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-09",
+      "meta": {
+        "language": "QML",
+        "description": "Caelestia ported to KDE Plasma 6",
+        "created_at": "2026-06-21T18:08:42Z",
+        "stars": 1064
+      }
     },
     {
       "full_name": "caezium/burrow",
@@ -26209,6 +26488,20 @@
         "description": "针对于红队攻击思维做出的red team模式(破限项目，封号概不负责）##可自行适配其他Agent。项目问题请提issue",
         "created_at": "2026-05-06T08:53:51Z",
         "stars": 1121
+      }
+    },
+    {
+      "full_name": "chadyi/StudyOnTV",
+      "repo_id": 1441959881,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-09",
+      "meta": {
+        "language": "Kotlin",
+        "description": "StudyOnTV (Tiledaoti TV) — open-source Android TV app where kids unlock screen time by answering questions. Runs fully on the TV: no server, no account. Parents scan a QR code and manage questions from the LAN. Learn first. Watch later.",
+        "created_at": "2026-11-01T15:31:22Z",
+        "stars": 1098
       }
     },
     {
@@ -28088,6 +28381,20 @@
       }
     },
     {
+      "full_name": "cutetailbud/ff-ruyijs",
+      "repo_id": 1436993930,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-09",
+      "meta": {
+        "language": "C++",
+        "description": "This is a lightweight, headless browser purpose-built for AI agents (such as Codex or Claude Code) to perform browser automation tasks; it is designed to navigate through various web protection systems, login processes, and reverse-engineering scenarios",
+        "created_at": "2026-10-28T11:31:41Z",
+        "stars": 1092
+      }
+    },
+    {
       "full_name": "cyberkaida/reverse-engineering-assistant",
       "repo_id": 680027364,
       "reasons": [
@@ -28427,6 +28734,20 @@
         "description": "ASD-STE100 Simplified Technical English rules, repurposed as a Claude Code skill for rewriting ambiguous agent-facing English.",
         "created_at": "2026-07-20T15:10:41Z",
         "stars": 5187
+      }
+    },
+    {
+      "full_name": "darbra/awesome-ai-reverse",
+      "repo_id": 1209987401,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-09",
+      "meta": {
+        "language": null,
+        "description": "ai reverse 逆向一把梭",
+        "created_at": "2026-04-14T01:29:35Z",
+        "stars": 1001
       }
     },
     {
@@ -30173,6 +30494,20 @@
       }
     },
     {
+      "full_name": "domsvoboda/nexus-launcher",
+      "repo_id": 1414288226,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-09",
+      "meta": {
+        "language": "TypeScript",
+        "description": "Open-source Xbox-inspired desktop launcher for Microsoft Store games on Linux",
+        "created_at": "2026-10-11T11:55:25Z",
+        "stars": 1213
+      }
+    },
+    {
       "full_name": "domsvoboda/xodus-nexus",
       "repo_id": 1414288226,
       "reasons": [
@@ -30488,7 +30823,8 @@
       "full_name": "dsx-ai-factory/nvke",
       "repo_id": 1323115536,
       "reasons": [
-        "trending_recent"
+        "trending_recent",
+        "fast_riser"
       ],
       "first_seen": "2026-11-07",
       "meta": {}
@@ -30673,7 +31009,8 @@
       "full_name": "dzhng/skills",
       "repo_id": 1287043670,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {
@@ -30882,6 +31219,20 @@
         "description": "Develop desktop apps with native UI or web frontend in Go",
         "created_at": "2026-09-26T15:21:37Z",
         "stars": 2360
+      }
+    },
+    {
+      "full_name": "egoist/mygo-music",
+      "repo_id": 1445695976,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-09",
+      "meta": {
+        "language": "Go",
+        "description": "A native music player you extend with plugins",
+        "created_at": "2026-11-04T13:27:14Z",
+        "stars": 1061
       }
     },
     {
@@ -35476,7 +35827,8 @@
       "full_name": "henrygd/beszel",
       "repo_id": 825470378,
       "reasons": [
-        "trending_recent"
+        "trending_recent",
+        "fast_riser"
       ],
       "first_seen": "2026-10-26",
       "meta": {}
@@ -36411,6 +36763,20 @@
       "meta": {}
     },
     {
+      "full_name": "hyz317/HairDeck",
+      "repo_id": 1438732649,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-09",
+      "meta": {
+        "language": "Python",
+        "description": "HairDeck: Animation-Ready Stylized Hair Cards from a Single Image",
+        "created_at": "2026-10-29T17:16:13Z",
+        "stars": 1009
+      }
+    },
+    {
       "full_name": "hzm0321/real-time-fund",
       "repo_id": 1146647912,
       "reasons": [
@@ -37248,6 +37614,20 @@
       }
     },
     {
+      "full_name": "itzzace/ytkace",
+      "repo_id": 1322211634,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-09",
+      "meta": {
+        "language": "Objective-C++",
+        "description": "YTKACE is a free, open-source YouTube enhancer and downloader for iOS with SponsorBlock, background playback, player controls, and interface customization including liquid glass.",
+        "created_at": "2026-08-03T20:29:24Z",
+        "stars": 1001
+      }
+    },
+    {
       "full_name": "ivankovic/omnidiff",
       "repo_id": 1078209382,
       "reasons": [
@@ -37992,6 +38372,20 @@
         "description": "Cut AI token costs 95%+ on code exploration. The leading MCP server for precise, symbol-level GitHub code retrieval via tree-sitter AST. Works with Claude Code, Cursor & any MCP client. 313B+ tokens saved.",
         "created_at": "2026-02-09T01:58:27Z",
         "stars": 2784
+      }
+    },
+    {
+      "full_name": "jhaizhou-ops/S2Arm",
+      "repo_id": 1450012790,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-09",
+      "meta": {
+        "language": "C#",
+        "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iPhone / iPad / Mac。",
+        "created_at": "2026-11-08T05:49:46Z",
+        "stars": 1172
       }
     },
     {
@@ -40904,6 +41298,20 @@
       }
     },
     {
+      "full_name": "libracoder/kiri",
+      "repo_id": 1443186633,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-09",
+      "meta": {
+        "language": "Rust",
+        "description": "A small, fast container runtime for macOS, Windows and Linux",
+        "created_at": "2026-11-02T16:11:30Z",
+        "stars": 1314
+      }
+    },
+    {
       "full_name": "libtv-labs/libtv-skills",
       "repo_id": 1182887560,
       "reasons": [
@@ -41013,7 +41421,8 @@
       "full_name": "lijigang/ljg-skills",
       "repo_id": 1175688481,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {
@@ -41345,7 +41754,8 @@
       "full_name": "livliv-dev/player",
       "repo_id": 1445112696,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-11-07",
       "meta": {
@@ -42025,7 +42435,8 @@
       "full_name": "lz4/lz4",
       "repo_id": 18106269,
       "reasons": [
-        "trending_recent"
+        "trending_recent",
+        "fast_riser"
       ],
       "first_seen": "2026-11-07",
       "meta": {}
@@ -42753,7 +43164,8 @@
       "full_name": "maxrave-dev/kotlin-footguns",
       "repo_id": 1340481439,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {
@@ -42997,7 +43409,8 @@
       "full_name": "menloresearch/asimov-1",
       "repo_id": 1204739178,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {
@@ -43417,7 +43830,8 @@
       "full_name": "microsoft/VibeVoice",
       "repo_id": 1044296738,
       "reasons": [
-        "trending_recent"
+        "trending_recent",
+        "fast_riser"
       ],
       "first_seen": "2026-11-07",
       "meta": {}
@@ -43965,6 +44379,20 @@
         "description": "Rules for an AI coding agent to filter out generic AI-generated UI designs, text, and code.",
         "created_at": "2026-08-07T10:29:56Z",
         "stars": 6490
+      }
+    },
+    {
+      "full_name": "misakano7545/workbuddy2api-panel",
+      "repo_id": 1383717729,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-09",
+      "meta": {
+        "language": "Go",
+        "description": "把腾讯WorkBuddy账号变成 OpenAI 兼容 API 的多账号网关，同时自动完成任务中心全部任务，附 Web 管理面板（账号池可视化 / 积分任务 / 配置热更新）。基于 Sliverkiss/workbuddy2api 的增强分支",
+        "created_at": "2026-09-23T15:30:16Z",
+        "stars": 1001
       }
     },
     {
@@ -45755,7 +46183,8 @@
       "full_name": "nicobailon/visual-explainer",
       "repo_id": 1159484260,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {
@@ -46879,6 +47308,20 @@
       }
     },
     {
+      "full_name": "omdsh-dev/dsh-browser",
+      "repo_id": 1324996099,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-09",
+      "meta": {
+        "language": "TypeScript",
+        "description": "Chrome sidebar extension that lets DeepSeek Harness operate your browser directly, no vision capabilities required. 一款 Chrome 侧边栏扩展程序，可让 DeepSeek Harness 直接操控您的浏览器，无需视觉能力。",
+        "created_at": "2026-08-06T09:05:10Z",
+        "stars": 1014
+      }
+    },
+    {
       "full_name": "omlahore/RemoveMacAI",
       "repo_id": 1394989252,
       "reasons": [
@@ -47467,7 +47910,8 @@
       "full_name": "open-wxa/wxa-runner",
       "repo_id": 1417558351,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-11-06",
       "meta": {
@@ -49896,7 +50340,8 @@
       "full_name": "ppmpreetham/BUI",
       "repo_id": 1346948773,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-11-07",
       "meta": {
@@ -50883,7 +51328,8 @@
       "full_name": "realidkroo/Mochy-Music",
       "repo_id": 1270126592,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-11-07",
       "meta": {
@@ -52835,6 +53281,20 @@
       }
     },
     {
+      "full_name": "shanselman/gputaskman",
+      "repo_id": 1443650212,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-09",
+      "meta": {
+        "language": "Python",
+        "description": "A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activity, and LLM model/KV-cache insights (Windows AMD and NVIDIA).",
+        "created_at": "2026-11-03T00:49:34Z",
+        "stars": 1272
+      }
+    },
+    {
       "full_name": "shaobeichen/dsh-pocket",
       "repo_id": 1334962266,
       "reasons": [
@@ -54190,6 +54650,20 @@
         "description": null,
         "created_at": "2026-08-02T21:58:43Z",
         "stars": 1012
+      }
+    },
+    {
+      "full_name": "sostenesfreitas/ocarina-recomp",
+      "repo_id": 1448807268,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-09",
+      "meta": {
+        "language": "C",
+        "description": "Ocarina of Time running natively on Windows, no emulator. Built on your PC from your own copy. No game files included.",
+        "created_at": "2026-11-06T22:24:03Z",
+        "stars": 1001
       }
     },
     {
@@ -55603,6 +56077,20 @@
       }
     },
     {
+      "full_name": "tangerineturtle1/NX2navi",
+      "repo_id": 1449231124,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-09",
+      "meta": {
+        "language": "C",
+        "description": null,
+        "created_at": "2026-11-07T10:01:23Z",
+        "stars": 1702
+      }
+    },
+    {
       "full_name": "tanishqkumar/ssd",
       "repo_id": 1172573009,
       "reasons": [
@@ -56761,6 +57249,20 @@
       }
     },
     {
+      "full_name": "tobilg/polyglot",
+      "repo_id": 1135074421,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-09",
+      "meta": {
+        "language": "Rust",
+        "description": "Rust/Wasm-powered SQL transpiler for more than 30 SQL dialects",
+        "created_at": "2026-01-15T15:50:37Z",
+        "stars": 1004
+      }
+    },
+    {
       "full_name": "togg53192-cmd/jailbreaks",
       "repo_id": 1273646780,
       "reasons": [
@@ -56947,6 +57449,20 @@
         "description": "AI agent skills for end-to-end hotel and flight booking—compare live hotel rates across leading OTAs and suppliers, search and verify real-time airfares worldwide, book stays and flights, and manage reservations, hotel cancellations, and payments via the TourMind API.",
         "created_at": "2026-07-13T08:57:38Z",
         "stars": 2142
+      }
+    },
+    {
+      "full_name": "toyxyz/toyxyz_RGBMocap",
+      "repo_id": 1434992606,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-09",
+      "meta": {
+        "language": "Python",
+        "description": "Native Windows video motion capture with ExMR, FlowHMR and GVHMR, contact correction, humanoid retargeting, and FBX/VMD export.",
+        "created_at": "2026-10-26T22:26:28Z",
+        "stars": 1104
       }
     },
     {
@@ -57316,7 +57832,8 @@
       "full_name": "tw93/Kami",
       "repo_id": 1216173720,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {
@@ -58577,7 +59094,8 @@
       "full_name": "viettranx/3dviz-pro-max",
       "repo_id": 1363399964,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-11-03",
       "meta": {
@@ -58934,6 +59452,20 @@
       }
     },
     {
+      "full_name": "voyager-so/vork",
+      "repo_id": 1447586025,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-09",
+      "meta": {
+        "language": "Rust",
+        "description": "Headless 3D and VFX engine for agents. Research preview.",
+        "created_at": "2026-11-05T22:37:07Z",
+        "stars": 1208
+      }
+    },
+    {
       "full_name": "vshulcz/deja-vu",
       "repo_id": 1300173275,
       "reasons": [
@@ -59189,7 +59721,8 @@
       "full_name": "wangmiaozero/pi-harness",
       "repo_id": 1340676550,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {
@@ -59289,7 +59822,8 @@
       "full_name": "warmbly/warmbly",
       "repo_id": 1136203389,
       "reasons": [
-        "trending_recent"
+        "trending_recent",
+        "new_star"
       ],
       "first_seen": "2026-11-04",
       "meta": {}
@@ -60482,6 +61016,20 @@
       }
     },
     {
+      "full_name": "xiaomi-research/Xiaomi-OCR-0",
+      "repo_id": 1392566629,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-09",
+      "meta": {
+        "language": "Python",
+        "description": "Xiaomi-OCR-0",
+        "created_at": "2026-09-28T11:47:13Z",
+        "stars": 1002
+      }
+    },
+    {
       "full_name": "xiaotianfotos/homerail",
       "repo_id": 1292280249,
       "reasons": [
@@ -61452,7 +62000,8 @@
       "full_name": "yjid/kensaku",
       "repo_id": 1432590994,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-11-07",
       "meta": {
@@ -61679,6 +62228,20 @@
         "description": "Fetch X/Twitter tweets, replies, timelines, and articles without login or API keys — field tool for AI agents.",
         "created_at": "2026-02-14T12:06:54Z",
         "stars": 1001
+      }
+    },
+    {
+      "full_name": "yuanbw2025/storyforge",
+      "repo_id": 1209489305,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-09",
+      "meta": {
+        "language": "TypeScript",
+        "description": "故事熔炉 StoryForge — AI 小说创作工作台 / AI novel writing workshop",
+        "created_at": "2026-04-13T13:32:16Z",
+        "stars": 1004
       }
     },
     {
@@ -62332,7 +62895,8 @@
       "full_name": "zeroclaw-labs/zeroclaw",
       "repo_id": 1156956890,
       "reasons": [
-        "new_star"
+        "new_star",
+        "fast_riser"
       ],
       "first_seen": "2026-10-19",
       "meta": {
@@ -62735,6 +63299,20 @@
         "description": "GPT-6 Astra for embodied AI and robotics.",
         "created_at": "2026-09-12T12:20:24Z",
         "stars": 1179
+      }
+    },
+    {
+      "full_name": "zn0wii/satelite-proxy",
+      "repo_id": 1322755694,
+      "reasons": [
+        "new_star"
+      ],
+      "first_seen": "2026-11-09",
+      "meta": {
+        "language": "Rust",
+        "description": "轻量、好看的 sing-box / Xray / mihomo 桌面客户端。支持clash订阅导入, 规则分流、系统代理 / TUN，macOS 与 Windows 开箱即用。",
+        "created_at": "2026-08-04T09:21:06Z",
+        "stars": 1002
       }
     },
     {
